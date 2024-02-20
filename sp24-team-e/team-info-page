@@ -3,3 +3,75 @@ Ryan Chung, GH: rchung14, rchung30@bu.edu, Class of 2024
 Jeong Yong Yang, GH: chrisyang922 chrisyan@bu.edu, Class of 2024
 Woohyeon Her, GH: 365LIT, hyeon@bu.edu, Class of 2024 -- Team Rep
 
+Kick-off Questions: 
+Data: 
+Wifi Data not available yet
+Geospatial map - ~80% representative
+https://maps.bu.edu/?id=647#!bm/?ct/0?m/620045?s/ Boston University (bu.edu)
+
+Known inventory of bottle filling stations (how does this data differ from the 80%)
+https://docs.google.com/spreadsheets/d/1dlOriaa1WtYOUGU08oml872JZsaB1OSh/edit?usp=drive_link&ouid=108966183029096150159&rtpof=true&sd=true 
+
+List of buildings and rooms with kitchens (probably for future water filling since close to plumbing)
+https://docs.google.com/spreadsheets/d/1wjGc2l0J6_1BAEXtIwVTpCvNiI-47YRE/edit?usp=drive_link&ouid=108966183029096150159&rtpof=true&sd=true 
+
+List of high volume spaces 
+https://docs.google.com/spreadsheets/d/1CpkKEFwkfS80ynrXnw2LlY6I33I2E-Aa/edit?usp=drive_link&ouid=108966183029096150159&rtpof=true&sd=true 
+
+What is the project focus/overall goal?     
+
+The project focus/overall goal is to identify new locations for water bottle filling stations across the Charles River 
+Campus of Boston University based on multiple factors, including the presence of air conditioning in buildings, foot 
+traffic determined through Wifi data, proximity to alternative water sources, and more if needed.
+
+Why is this project important?    
+
+This project holds significant value since Boston University has been transitioning from traditional drinking fountains 
+to combination fountains-bottle filters. In addition, it aligns with the goals of the sustainability team to promote environmental 
+sustainability indicated below: It reduces plastic waste. The installation of water bottle filling stations will enable and 
+encourage individuals to refill their reusable bottles instead of using single-use plastic bottles, which is beneficial for 
+the environment. The installation of water bottle filling stations will be beneficial for both the users and the university 
+in the long run. Individuals will be less inclined to purchase bottled water and save money while the university can lower 
+the waste management costs associated with disposing of plastic waste and show their dedication to sustainability issues.
+Finally, it will have a positive impact on the environment by promoting resource conservation.
+
+What type of data will you collect or be analyzing?     
+Most of the data is already collected by the Boston University Sustainability team.
+We will be analyzing several data 
+Locations of current water bottle filling stations (existing water filling stations): This data maps all the locations of existing 
+water bottle filling stations on campus. To remove redundancy, our report will exclude these locations and these current stations 
+might provide information on what aspects to prioritize in our project.
+
+Wifi Data for foot traffic: This data shows the number of people connected to Boston University’s wifi at numerous locations. They 
+will be examined to determine the locations that might benefit the most through the installation of new water bottle filling stations. 
+The higher the WiFi usage is, the higher the demand for a station.
+
+High-Volume Event Spaces: This data contains the specifics of locations and buildings used for high-volume event spaces. Areas that 
+are frequently used for significant gatherings will require water bottle filling stations.
+
+Building and Kitchen List: This data provides details on the buildings across the Charles Campus at Boston University. It will be 
+used to determine whether the buildings have a common kitchen (do not require a water bottle filling station) and whether the 
+buildings have air conditioning (prioritize installing water bottle filling station). More data if needed in the future
+
+What are the potential limitations of the project?   
+
+Water bottle filling stations require regular maintenance to ensure their cleanliness and proper filter functionality. Buildings that 
+lack regular maintenance but require a water bottle fountain station can be a possible limitation. Although the client mentioned that 
+we should not care about the budget, they emphasized installing water bottle filling stations near existing plumbings to minimize the 
+cost. If the locations we select lack nearby plumbing, it will lead to higher expenses for the university. The dataset does not contain 
+how many bottles each existing water bottle station has saved. This information would help determine the effectiveness of the existing 
+stations, which will impact our decisions on additional locations to build water bottle filling stations. In addition, even if we can 
+physically go around the buildings to check their numbers, some of the numbers are not indicated clearly. The client mentioned focusing 
+on expanding water bottle filling stations within the Charles Campus, leaving out the Medical and Fenway Campus, which might also require 
+water bottle filling stations. The client also mentioned focusing on installing water bottle-filling stations indoors, but some 
+individuals might require a few outdoor stations. 
+
+What are your next steps? Divide tasks amongst the team
+
+Jeong Yong: convert data to csv: list of buildings with kitchens
+Ryan: convert data to csv:  geospatial
+Junho: convert data to csv: known inventory
+Woohyeon: Ask relevant questions in the meeting 2/21, high volume space
+Together: Early insight report
+Possible Things: Data organization/analysis in python (.ipynb) file, Github organization
+
