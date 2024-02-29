@@ -1,0 +1,1 @@
+Please install the vscode-pdf extension to view the pdfs within this folder.
