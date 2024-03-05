@@ -4,6 +4,7 @@ from geopy.geocoders import Nominatim
 def haversine(p1, p2):
     ''' Returns haversine distance between two longitude and latitude points
             Code taken from https://www.geeksforgeeks.org/haversine-formula-to-find-distance-between-two-points-on-a-sphere
+            I believe this is in kilometers
     '''
     lat1, lon1 = p1
     lat2, lon2 = p2
