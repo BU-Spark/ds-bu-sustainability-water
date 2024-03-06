@@ -1,4 +1,4 @@
-# CS-506-TEMPLATE-base-repo
+# CS-506-TEMPLATE-base-repo for team c 
 
 If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
 
