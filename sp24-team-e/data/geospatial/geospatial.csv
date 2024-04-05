@@ -1,20 +1,20 @@
-BUILDING,FLOOR,TOTAL STATIONS/BUILDING
-1019 Commonwealth,1,1
-110-112 Cummington,2,1
-111 Cummington,1,4
-111 Cummington,1,4
-111 Cummington,0,4
-111 Cummington,2,4
-154 Bay State Road,0,1
-156 Bay State Road,1,1
-196 Bay State Road,1,1
-2 Cummington,2,2
-2 Cummington,4,2
-25 Buick,3,1
-270 Bay State Road,4,1
-300 Babcock,1,1
-33 Harry Agganis,1,1
-36 Cummington,2,1
+BUILDING,FLOOR,TOTAL STATIONS/BUILDING,LATITUDE,LONGITUDE
+1019 Commonwealth,1,1,42.3500,-71.1125
+110-112 Cummington,2,1,42.349020,-71.103540
+111 Cummington,1,4,42.349018,-71.103539
+111 Cummington,1,4,42.349018,-71.103539
+111 Cummington,0,4,42.349018,-71.103539
+111 Cummington,2,4,42.349018,-71.103539
+154 Bay State Road,0,1,42.350130,-71.100680
+156 Bay State Road,1,1,42.35015106201172,-71.09825897216797
+196 Bay State Road,1,1,42.3503165,-71.1023936
+2 Cummington,2,2,42.348722,-71.103005
+2 Cummington,4,2,42.348722,-71.103005
+25 Buick,3,1,42.3519577,-71.1151698
+270 Bay State Road,4,1,42.3504677,-71.1027348
+300 Babcock,1,1,42.353959,-71.120916
+33 Harry Agganis,1,1,42.3532594,-71.1178205
+36 Cummington,2,1,42.348655,-71.102112
 48 Cummington,2,1
 5 Cummington,1,1
 517 Beacon,1,1
