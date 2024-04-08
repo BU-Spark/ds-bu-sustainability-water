@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BU Spark Water Bottle Filling Stations</title>
+  <style>
+    body {
+      background-color: #222; /* Dark background color */
+      color: #fff; /* Light text color */
+      font-family: Arial, sans-serif; /* Font style */
+      margin: 0;
+      padding: 0;
+    }
+
+    #container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      color: orange; /* Orange heading color */
+    }
+
+    #map {
+      height: 400px;
+      width: 80%; /* Adjust map width */
+      margin-bottom: 20px;
+      border: 2px solid #666; /* Dark border for the map */
+      border-radius: 5px;
+    }
+
+    input[type="file"],
+    button {
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #444; /* Dark button background color */
+      color: #fff; /* Light button text color */
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    input[type="file"]:hover,
+    button:hover {
+      background-color: #666; /* Darken button background color on hover */
+    }
+
+    button:disabled {
+      opacity: 0.5; /* Reduce opacity for disabled buttons */
+      cursor: not-allowed;
+    }
+
+    label {
+      color: #ccc; /* Grey label color */
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>Water Bottle Filling Stations vs Foot Traffic</h1>
+    <div id="map"></div>
+    <div>
+      <label for="csvFile">Upload Station Coordinates:</label>
+      <input type="file" id="stationFile" accept=".csv">
+      <button onclick="uploadStations()">Upload</button>
+    </div>
+    <div>
+      <label for="meanFile">Upload Mean Densities:</label>
+      <input type="file" id="meanFile" accept=".csv">
+      <button onclick="uploadMeanFile()">Upload</button>
+    </div>
+    <div>
+      <label for="maxFile">Upload Max Densities:</label>
+      <input type="file" id="maxFile" accept=".csv">
+      <button onclick="uploadMaxFile()">Upload</button>
+    </div>
+    <div>
+      <button onclick="toggleMarkers()">Toggle Stations</button>
+      <button onclick="toggleMeanMap()">Toggle Mean</button>
+      <button onclick="toggleMaxMap()">Toggle Max</button>
+    </div>
+    <div>
+      <button onclick="toggleMeanScaledMap()">Toggle Mean Scaled by Distance</button>
+      <button onclick="toggleMaxScaledMap()">Toggle Max Scaled by Distance</button>
+    </div>
+  </div>
+
+  <script>
+    var map;
+    var markers = [];
+    var meanMap;
+    var maxMap;
+    var meanMapByDistance;
+    var maxMapByDistance;
+
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map'), {
+        center: {lat: 42.3501, lng: -71.1056}, // CAS coordinates
+        zoom: 16
+      });
+    }
+
+    function uploadStations() {
+        console.log(document.getElementById('stationFile'))
+        var file = document.getElementById('stationFile').files[0];
+        if (!file) return;
+        var reader = new FileReader();
+        reader.onload = function(e) {
+            processStationData(e.target.result);
+        };
+        reader.readAsText(file);
+    }
+
+    function uploadMeanFile() {
+      var file = document.getElementById('meanFile').files[0];
+      var reader = new FileReader();
+      reader.onload = function(e) {
+        processHeatmapData(e.target.result, 'mean');
+      };
+      reader.readAsText(file);
+    }
+
+    function uploadMaxFile() {
+      var file = document.getElementById('maxFile').files[0];
+      var reader = new FileReader();
+      reader.onload = function(e) {
+        processHeatmapData(e.target.result, 'max');
+      };
+      reader.readAsText(file);
+    }
+
+    function processStationData(data) {
+      // Remove existing station markers
+      for (var i = 0; i < markers.length; i++) {
+        markers[i].setMap(null);
+      }
+      markers = [];
+
+      var lines = data.split('\n');
+      for (var i = 0; i < lines.length; i++) {
+        var line = lines[i].trim();
+        if (line !== '') {
+          var parts = line.split(',');
+          var lat = parseFloat(parts[0]);
+          var lng = parseFloat(parts[1]);
+          var latLng = new google.maps.LatLng(lat, lng);
+          var marker = new google.maps.Marker({
+            position: latLng,
+            map: map
+          });
+          markers.push(marker);
+        }
+      }
+    }
+
+    function processHeatmapData(data, heatmapType) {
+      var heatmapData = [];
+      var lines = data.split('\n');
+      for (var i = 0; i < lines.length; i++) {
+        var line = lines[i].trim();
+        if (line !== '') {
+          var parts = line.split(',');
+          var lat = parseFloat(parts[0]);
+          var lng = parseFloat(parts[1]);
+          var weight = parseFloat(parts[2]);
+          console.log('Parsed values:', lat, lng, weight);
+          if (isNaN(lat) || isNaN(lng) || isNaN(weight)) {
+            console.error('Error parsing line:', line);
+            continue;
+          }
+          heatmapData.push({location: new google.maps.LatLng(lat, lng), weight: weight});
+        }
+      }
+      if (heatmapType === 'mean') {
+        if (meanMap) {
+          meanMap.setData(heatmapData);
+        } else {
+          meanMap = new google.maps.visualization.HeatmapLayer({
+            data: heatmapData,
+            map: map,
+            radius: 10,
+            dissipating: false
+          });
+        }
+      } else if (heatmapType === 'max') {
+        if (maxMap) {
+          maxMap.setData(heatmapData);
+        } else {
+          maxMap = new google.maps.visualization.HeatmapLayer({
+            data: heatmapData,
+            map: map,
+            radius: 10,
+            dissipating: false
+          });
+        }
+      }
+    }
+
+    function updateMeanMapByDistance() {
+      if (!markers.length) return; // No markers available
+      var meanMapDataByDistance = [];
+      meanMap.getData().forEach(function (point) {
+        var minDistance = Number.MAX_VALUE;
+        markers.forEach(function (marker) {
+          var distance = google.maps.geometry.spherical.computeDistanceBetween(point.location, marker.getPosition());
+          minDistance = Math.min(minDistance, distance);
+        });
+        meanMapDataByDistance.push({
+          location: point.location,
+          weight: point.weight / (minDistance ** 2) // Scale weight by squared distance
+        });
+      });
+      meanMapByDistance.setData(meanMapDataByDistance);
+    }
+
+    function updateMaxMapByDistance() {
+      if (!markers.length) return; // No markers available
+      var maxMapDataByDistance = [];
+      maxMap.getData().forEach(function (point) {
+        var minDistance = Number.MAX_VALUE;
+        markers.forEach(function (marker) {
+          var distance = google.maps.geometry.spherical.computeDistanceBetween(point.location, marker.getPosition());
+          minDistance = Math.min(minDistance, distance);
+        });
+        maxMapDataByDistance.push({
+          location: point.location,
+          weight: point.weight / (minDistance ** 2) // Scale weight by squared distance
+        });
+      });
+      maxMapByDistance.setData(maxMapDataByDistance);
+    }
+
+    function toggleMarkers() {
+      for (var i = 0; i < markers.length; i++) {
+        if (markers[i].getMap()) {
+          markers[i].setMap(null);
+        } else {
+          markers[i].setMap(map);
+        }
+      }
+    }
+
+    function toggleMeanMap() {
+      if (meanMap) {
+        meanMap.setMap(meanMap.getMap() ? null : map);
+      }
+    }
+
+    function toggleMaxMap() {
+      if (maxMap) {
+        maxMap.setMap(maxMap.getMap() ? null : map);
+      }
+    }
+
+    function toggleMeanScaledMap() {
+      if (meanMapByDistance) {
+        meanMapByDistance.setMap(meanMapByDistance.getMap() ? null : map);
+      } else {
+        meanMapByDistance = new google.maps.visualization.HeatmapLayer({
+          map: map,
+          radius: 5,
+          dissipating: false
+        });
+        updateMeanMapByDistance();
+      }
+    }
+
+    function toggleMaxScaledMap() {
+      if (maxMapByDistance) {
+        maxMapByDistance.setMap(maxMapByDistance.getMap() ? null : map);
+      } else {
+        maxMapByDistance = new google.maps.visualization.HeatmapLayer({
+          map: map,
+          radius: 5,
+          dissipating: false
+        });
+        updateMaxMapByDistance();
+      }
+    }
+  </script>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap&libraries=visualization,geometry">
+  </script>
+</body>
+</html>
