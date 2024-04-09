@@ -37,13 +37,12 @@ def street_distance(add1, add2):
 ABREVIATIONS = {
     'st': 'street',
     'rd': 'road',
+    'ave': 'avenue'
 }
 
 def convert_street_to_full(street):
     words = street.split(' ')
     suffix = words[-1]
-    print(words)
-    print(suffix)
     if suffix.lower() in ABREVIATIONS.keys():
         replacement = ABREVIATIONS[suffix.lower()]
         new_street = " ".join(words[:-1]) + " " + replacement

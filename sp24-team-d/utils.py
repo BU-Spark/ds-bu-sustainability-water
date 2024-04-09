@@ -1,5 +1,4 @@
 import math 
-from geopy.geocoders import Nominatim
 
 def haversine(p1, p2):
     ''' Returns haversine distance between two longitude and latitude points
