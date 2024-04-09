@@ -41,6 +41,7 @@ ABREVIATIONS = {
 }
 
 def convert_street_to_full(street):
+    ''' Returns the full street name'''
     words = street.split(' ')
     suffix = words[-1]
     if suffix.lower() in ABREVIATIONS.keys():
