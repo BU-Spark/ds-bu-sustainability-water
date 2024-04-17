@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_efc9bdde229bc8704d62107783e60353 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_efc9bdde229bc8704d62107783e60353" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_efc9bdde229bc8704d62107783e60353 = L.map(
+                "map_efc9bdde229bc8704d62107783e60353",
+                {
+                    center: [42.35052388059702, -71.10683078358208],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5be6f4a0779ba51ce56267bb0cea6b5a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_5be6f4a0779ba51ce56267bb0cea6b5a.addTo(map_efc9bdde229bc8704d62107783e60353);
+        
+    
+            var marker_cluster_6bd18dff64a018126a8ccff0df2378d7 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_4a6ad71fa2ad6553519a25a07dbe7c0e = L.marker(
+                [42.3518, -71.1165],
+                {}
+            ).addTo(marker_cluster_6bd18dff64a018126a8ccff0df2378d7);
+        
+    
+            var icon_2805abb33853004dfe261573d841918a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4a6ad71fa2ad6553519a25a07dbe7c0e.setIcon(icon_2805abb33853004dfe261573d841918a);
+        
+    
+        var popup_0427b8ca4a16cdaeb5fadeb069895c77 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d64009c01a4ae87e2a5f19eeecf9c86e = $(`<div id="html_d64009c01a4ae87e2a5f19eeecf9c86e" style="width: 100.0%; height: 100.0%;">915 COMMONWEALTH AVENUE (Floor: 1) Mean Density: 80.63353487686182 Max Density: 353</div>`)[0];
+                popup_0427b8ca4a16cdaeb5fadeb069895c77.setContent(html_d64009c01a4ae87e2a5f19eeecf9c86e);
+            
+        
+
+        marker_4a6ad71fa2ad6553519a25a07dbe7c0e.bindPopup(popup_0427b8ca4a16cdaeb5fadeb069895c77)
+        ;
+
+        
+    
+    
+            var marker_435001c77ba2868c65f8eaedd3244453 = L.marker(
+                [42.3532, -71.1178],
+                {}
+            ).addTo(marker_cluster_6bd18dff64a018126a8ccff0df2378d7);
+        
+    
+            var icon_21d627c977c356ef75d749bb72f29b19 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_435001c77ba2868c65f8eaedd3244453.setIcon(icon_21d627c977c356ef75d749bb72f29b19);
+        
+    
+        var popup_60cfae8061d806d19a8858c7712df08d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bcf4ad6c61dd578a1d029575cd24f9dc = $(`<div id="html_bcf4ad6c61dd578a1d029575cd24f9dc" style="width: 100.0%; height: 100.0%;">33 HARRY AGGANIS WAY (Floor: 1) Mean Density: 79.65136534839925 Max Density: 370</div>`)[0];
+                popup_60cfae8061d806d19a8858c7712df08d.setContent(html_bcf4ad6c61dd578a1d029575cd24f9dc);
+            
+        
+
+        marker_435001c77ba2868c65f8eaedd3244453.bindPopup(popup_60cfae8061d806d19a8858c7712df08d)
+        ;
+
+        
+    
+    
+            var marker_131dae63d97d50ce7f3d9de20b67a919 = L.marker(
+                [42.3509, -71.109],
+                {}
+            ).addTo(marker_cluster_6bd18dff64a018126a8ccff0df2378d7);
+        
+    
+            var icon_6f115040d4ce8078e2c46873e6344145 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_131dae63d97d50ce7f3d9de20b67a919.setIcon(icon_6f115040d4ce8078e2c46873e6344145);
+        
+    
+        var popup_040e8db6afbf8f61372bda1692fdbd68 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_16b4c71294106a1509e3a141553244f3 = $(`<div id="html_16b4c71294106a1509e3a141553244f3" style="width: 100.0%; height: 100.0%;">775 COMMONWEALTH AVENUE (Floor: 1) Mean Density: 78.56353344257411 Max Density: 534</div>`)[0];
+                popup_040e8db6afbf8f61372bda1692fdbd68.setContent(html_16b4c71294106a1509e3a141553244f3);
+            
+        
+
+        marker_131dae63d97d50ce7f3d9de20b67a919.bindPopup(popup_040e8db6afbf8f61372bda1692fdbd68)
+        ;
+
+        
+    
+    
+            var marker_42a7c49b04a99a57908f7b6856d82d4b = L.marker(
+                [42.3505, -71.1156],
+                {}
+            ).addTo(marker_cluster_6bd18dff64a018126a8ccff0df2378d7);
+        
+    
+            var icon_6bf44b079b53ef6c83d9fcf674fc1054 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_42a7c49b04a99a57908f7b6856d82d4b.setIcon(icon_6bf44b079b53ef6c83d9fcf674fc1054);
+        
+    
+        var popup_10c1bea324af1d5e09a3b5a668c86b18 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4eff0f636f4f31e4a17be1b99577cb14 = $(`<div id="html_4eff0f636f4f31e4a17be1b99577cb14" style="width: 100.0%; height: 100.0%;">890 COMMONWEALTH AVENUE (Floor: 2) Mean Density: 73.77037837837838 Max Density: 367</div>`)[0];
+                popup_10c1bea324af1d5e09a3b5a668c86b18.setContent(html_4eff0f636f4f31e4a17be1b99577cb14);
+            
+        
+
+        marker_42a7c49b04a99a57908f7b6856d82d4b.bindPopup(popup_10c1bea324af1d5e09a3b5a668c86b18)
+        ;
+
+        
+    
+    
+            var marker_ed14bfda470fbba9c097f789f3a1bdcc = L.marker(
+                [42.3497, -71.1009],
+                {}
+            ).addTo(marker_cluster_6bd18dff64a018126a8ccff0df2378d7);
+        
+    
+            var icon_c6f2c6ce3e5f151cab636e1a6bafd532 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_ed14bfda470fbba9c097f789f3a1bdcc.setIcon(icon_c6f2c6ce3e5f151cab636e1a6bafd532);
+        
+    
+        var popup_dba077f84a21e6093d2b30a274b0776c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_045eb523b4eed25882b98d20d7d0cf38 = $(`<div id="html_045eb523b4eed25882b98d20d7d0cf38" style="width: 100.0%; height: 100.0%;">2 SILBER WAY (Floor: 1) Mean Density: 73.43170503277962 Max Density: 417</div>`)[0];
+                popup_dba077f84a21e6093d2b30a274b0776c.setContent(html_045eb523b4eed25882b98d20d7d0cf38);
+            
+        
+
+        marker_ed14bfda470fbba9c097f789f3a1bdcc.bindPopup(popup_dba077f84a21e6093d2b30a274b0776c)
+        ;
+
+        
+    
+    
+            marker_cluster_6bd18dff64a018126a8ccff0df2378d7.addTo(map_efc9bdde229bc8704d62107783e60353);
+        
+</script>
+</html>
