@@ -1,2 +1,0 @@
-- Building codes: what are the building codes for the wifi data without the building address? 
-- Why are parking spaces included?
