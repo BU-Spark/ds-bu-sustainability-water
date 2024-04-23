@@ -1,8 +1,7 @@
 building_floor,building_desc,latitude,longitude,building_type,capacity,mean_density_cnt,max_density_cnt,average_dc_ratio,max_dc_ratio,Residential Building Type,Mechanical Ventilation,Room Name,Candidacy,High Volume
 3,775 COMMONWEALTH AVENUE,42.3509,-71.109,Student Support,144,14.26014381,117,0.099028776,0.8125,,Yes,George Sherman Union Conference Rooms,Good candidate for bottle fillers,Yes
-1,225 BAY STATE ROAD,42.3509,-71.1036,Student Support,24,4.858662832,32,0.202444285,1.333333333,,Yes,Dahod Family Alumni Center ,Already completed/sufficient,Yes
-3,285 BABCOCK STREET,42.354,-71.1203,Athletic,1138,9.599805933,536,0.008435682,0.471001757,,Yes,Case Center Eilberg Lounge ,,Yes
 c,925 COMMONWEALTH AVENUE,42.3522,-71.1177,Athletic,0,48.95451777,375,inf,inf,,Yes,Agganis Arena Friends of Hockey Lounge ,Maybe,Yes
+3,285 BABCOCK STREET,42.354,-71.1203,Athletic,1138,9.599805933,536,0.008435682,0.471001757,,Yes,Case Center Eilberg Lounge ,,Yes
 3,925 COMMONWEALTH AVENUE,42.3522,-71.1177,Athletic,29,41.11185557,1857,1.417650192,64.03448276,,Yes,,,
 -1,700 COMMONWEALTH AVENUE,42.3493,-71.104,Residential,0,53.27402333,363,inf,inf,Large Dormitory-Style,Partial,,,
 2,100 ASHFORD STREET,42.3546,-71.1236,Athletic,48,23.85226405,797,0.496922168,16.60416667,,Yes,,,
@@ -49,3 +48,4 @@ a,700 COMMONWEALTH AVENUE,42.3493,-71.104,Residential,0,3.026044568,93,inf,inf,L
 2,91 BAY STATE ROAD,42.3503,-71.097,Residential,59,9.718801997,44,0.164725458,0.745762712,Large Dormitory-Style,Partial,,,
 1,619 MEMORIAL DRIVE,42.3532,-71.1078,Athletic,71,11.61137905,114,0.16354055,1.605633803,,Yes,,,
 -1,718 COMMONWEALTH AVENUE,42.3495,-71.1058,Academic,0,4.404966007,34,inf,inf,,No,,,
+5,512 BEACON STREET,42.3509,-71.0903,Residential,30,5.475992887,29,0.182533096,0.966666667,Large Dormitory-Style,No,,,
