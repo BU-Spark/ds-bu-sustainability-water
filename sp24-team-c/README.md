@@ -12,6 +12,8 @@ This repo suggests where to put new water bottle filling stations on BU's campus
   - Similar to the covered floors, we found the foot traffic for floors without a water filling station nor a kitchen, which roughly estimates the imapct of each one.
 - How can we determine new, high priority water filling stations?
   - We use the same factors for determing candidates (foot traffic, ventilation, etc.) and weight them in a systematic way to determine a "goodness" score, which we used to determine the candidates given here but can also be used to predict how good future buildings/floors are for stations (see Methods section).
+- Determine criteria and factors for new, high-priority water filling station locations.
+  - Same as our answer for [What factors should be considered for new water bottle filling stations?]
 
 ## Methods
 We combine the data cleaning and analysis steps together in our various notebooks:
