@@ -5,7 +5,7 @@ This repo suggests where to put new water bottle filling stations on BU's campus
 - How many people are impacted by each water filling station?
   - We found which floors have a water filling station and/or a kitchen, and the foot traffic (average and maximum through the day) of these floors (see Datasets section). This gives a rough idea of how many people each water filling station affects.
 - What factors should be considered for new water bottle filling stations?
-  - We consider foot traffic (average and maximum), existing locations of stations/kitchens, mechanical ventilation (air conditioning), and high volume spaces. First we exclude covered floors, then we take a combination of the other 3 factors to determine how "good" each uncovered floor is (see Methods and Datasets sections). Besides, we also consider certain building type , for residential building we only remain large dormitory, we also exclude parking & commercial & business building type from consideration.
+  - We consider foot traffic (average and maximum), existing locations of stations/kitchens, mechanical ventilation (air conditioning), and high volume spaces. First we exclude covered floors, then we take a combination of the other 3 factors to determine how "good" each uncovered floor is (see Methods and Datasets sections). Besides, we also consider certain building type , for residential building we only remain large dormitory, we also exclude Parking & Commercial & Housing building type from consideration.
 - Map of proposed new stations?
   - We have an HTML file with the map of the top 15 candidates, viewable by a browser (see Datasets section).
 - How many people would have access to the new water bottle filling stations?
