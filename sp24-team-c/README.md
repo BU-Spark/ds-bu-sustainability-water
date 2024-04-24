@@ -1,10 +1,10 @@
 # BU Sustainability: Water Bottle Filling Stations-Team C
 This repo suggests where to put new water bottle filling stations on BU's campus.
-Team C member
-Jingyi Zhang, jyz0328@bu.edu (Team Rep)
-Houjie Jiang, houjie@bu.edu
-Tristan Lee, tlee10@bu.edu
-Yida Wang, yidwang@bu.edu
+Team C member<br>
+Jingyi Zhang, jyz0328@bu.edu (Team Rep)<br>
+Houjie Jiang, houjie@bu.edu<br>
+Tristan Lee, tlee10@bu.edu<br>
+Yida Wang, yidwang@bu.edu<br>
 Finn Jensen, fjensen@bu.edu
 
 
