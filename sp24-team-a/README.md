@@ -248,7 +248,7 @@ students per water-filling station between the hours of 9:00am and 9:00pm. The
 data was created for all of the addresses in the the inventory, but only the
 densities of 50+ are pictured to save space.
 
-![50+ Densities](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-a-final-report/sp24-team-a/final-report/data/50+densities.jpg?raw=true)
+![50+ Densities](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-a/sp24-team-a/final-report/data/50+densities.jpg?raw=true)
 
 ### Establish a full list of the factors and criteria for installing new filling stations
 
@@ -295,7 +295,7 @@ dots are the proposed water-filling stations. They are 925 Commonwealth Avenue
 (Agganis Arena), 277 Babcock Street (Rich Hall), 949 Commonwealth Avenue (Boston
 Playwright’s Theater), and 10 Buick Street (Stuvi I).
 
-![Proposed Stations](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-a-final-report/sp24-team-a/final-report/visualizations/base/proposed_stations.png?raw=true)
+![Proposed Stations](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-a/sp24-team-a/final-report/visualizations/base/proposed_stations.png?raw=true)
 
 ### Establish how many students and employees would have access to each of the proposed new filling stations
 
