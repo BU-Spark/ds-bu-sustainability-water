@@ -52,4 +52,11 @@ To run the script from scratch, ensure that [classrooms.csv](data/classrooms.csv
 
 You can also run the script from the checkpoint, given that [courses-classrooms.csv](data/courses-classrooms.csv) is provided in the repo. To do so, skip to the section that says "If All Processing Done, Start Analysis Here". From there, all code should be runnable.
   
+### Student Link Scraping Script
+To run [studentlink_scrape.ipynb](studentlink_scrape.ipynb) you must have Firefox browser installed.
+Additionally, you will need to create a .env file in the sp24-team-d folder with the two following fields.
+BU_USERNAME and BU_PASSWORD with values filled in accordingly. Additionally, when the script runs, you will need to authenticate with the duo mobile app within 20 seconds unless an error will be thrown.
+Running time takes about 2 hours.
 
+### Classroom Scraping Script
+To run [bu_classroom_scrape.ipynb](bu_classroom_scrape.ipynb) ensure a Firefox browser is installed. No authentification is required here. Running time takes about 20 minutes.
