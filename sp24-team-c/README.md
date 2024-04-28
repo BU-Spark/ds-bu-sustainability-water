@@ -8,19 +8,44 @@ Yida Wang, yidwang@bu.edu<br>
 Finn Jensen, fjensen@bu.edu
 
 
+## How to run code instruction
+- Step 0: Download all folders in this branch, keep all files in their original folder.
+- Step 0.5: Download `updated_densitymap_hourly_cleaned.csv`from https://drive.google.com/drive/folders/11Zu-7h4pp9KWnJbkMMpTo6H_6xsmfzBb, and put it into  [`original_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data) folder, this file is not included in this repo because it is very large. However this file is our necessary file for running code.
+- Step 1: Now open [`code`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/code) folder , run [`wifi_data_process.ipynb`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/wifi_data_process.ipynb) to produce the  processed wifi(foot traffic data) [`updated_wifi_data.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/updated_wifi_data.csv).
+- Step 2: Then run [`produce_kitchen_station_tables.ipynb`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/produce_kitchen_station_tables.ipynb) to produce the processed kitchen data and existed water station data [`Kitchens.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/Kitchens.csv) and [`Stations.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/Stations.csv).
+- Step 3: Then run [`seperate_covered_floor_or_not.ipynb`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/seperate_covered_floor_or_not.ipynb) to produce the [`covered_floors.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/covered_floors.csv) and [`uncovered_floors.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/uncovered_floors.csv).
+- Step 4: Finally, run [`final_selection_and_visualization`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/final_selection_and_visualization.ipynb) to produce all images and html files and  in the `visualization` folder, as well as [`selected_candidates.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/selected_candidates.csv).
+- Now you can see all generated datasets and visualization files in [`new_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/new_data) folder and [`visualization`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/visualization) folder. To ensure better effect you can empty all files in these two folders before you run code.
+ 
 ## Base/Extended Questions Addressed
-- How many people are impacted by each water filling station?
-  - We found which floors have a water filling station and/or a kitchen, and the foot traffic (average and maximum through the day) of these floors (see Datasets section). This gives a rough idea of how many people each water filling station affects.
-- What factors should be considered for new water bottle filling stations?
-  - We consider foot traffic (average and maximum), existing locations of stations/kitchens, mechanical ventilation (air conditioning), and high volume spaces. First we exclude covered floors(existed water bottle station floors&kitchen floors), then we take a combination of the other 3 factors to determine how "good" each uncovered floor is (see Methods and Datasets sections). Besides, we also consider certain building type , for residential building we only remain large dormitory, we also exclude Parking & Commercial & Housing building type from consideration.
-- Map of proposed new stations?
-  - We have an HTML file with the map of the top 15 candidates, viewable by a browser (see Datasets section).
-- How many people would have access to the new water bottle filling stations?
-  - Similar to the covered floors(existed water bottle station floors&kitchen floors), we found the foot traffic for floors without a water filling station nor a kitchen, which roughly estimates the imapct of each one.
-- How can we determine new, high priority water filling stations?
-  - We use the same factors for determing candidates (foot traffic, ventilation, etc.) and weight them in a systematic way to determine a "goodness" score, which we used to determine the candidates given here but can also be used to predict how good future buildings/floors are for stations (see Methods section).
-- Determine criteria and factors for new, high-priority water filling station locations.
-  - For uncovered floors,as we mentioned in [What factors should be considered for new water bottle filling stations?], we consider foot traffic (average and maximum), existing locations of stations/kitchens, mechanical ventilation (air conditioning), and high volume spacesas criteria and factors. Specifically, we assign a weight to each building/floor based on the average/maximum foot traffic, the air ventilation status, and the markers for high volume spaces as follows: take the sum of the average foot traffic and 0.3 times the maximum traffic, multiply it by 1, 2, or 3 if the ventilation is fully present, partial, or absent, and rank high volume spaces as 10 weight. Also we filter some building types, for residential building we only remain large dormitory, we also exclude Parking & Commercial & Housing building type from consideration. We also exclude floors of dinning hall mannually. Dinning hall floors are also excludes directly.
+- Key Question 1:Establish how many students and employees are impacted by each current water filling station and kitchen.
+  - From our filtered water station and kitchen list [`covered_floors.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/covered_floors.csv), we found the mean and max foot traffic of these floors. This gives a rough idea of how many people each water filling station affects. 
+- Key Question 2:Establish a full list of the factors and criteria for installation of new filling stations.
+  - We separate the full list into the filter section and factor section.<br> 
+    Filter section: as I mentioned in base analysis before, with following exclusion:<br>
+  - Exclude covered floor (water station & kitchen floor)
+  - Exclude Parking ,Housing, and Commercial buildings . For residential buildings we only consider large dorm-style residences 
+  - Exclude dining hall floors<br>
+     Now we get [`uncovered_floors.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/uncovered_floors.csv) for further new station choosing.<br>
+    Factor section : We list the following four factors for installation of new filling station consideration.<br>
+  - Mean Density (Foot Traffic)
+  - Max Density (Foot Traffic)
+  - Air Condition (Mechanical Ventilation)
+  - High Volume
+- Key Question 3:Determine criteria and factors for new, high-priority water filling station locations.
+  - As we explained in the key question 2, we make some filters and get `uncovered_floors.csv` and then take mean density, max density, air condition and high volume as factors. Then we build a weight score standard based on these factors , and select top 50 weight score floors from `uncovered_floors.csv`  and define them as new candidates. Here is the details about this weight score standard:
+  - Here is the details about this weight score standard:
+  - Weight for selecting new water bottle station = ( mean density × 1 + max density × 0.3 ) × volume factor × ventilation factor
+  - Volume factor is: 10 if high volume, else 1 
+  - Ventilation factor is: 1 if Mechanical Ventilation is 'Yes', 2 if Mechanical Ventilation is 'Partial', 3 if Mechanical Ventilation is 'No'
+  - Now we get [`selected_candidates.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/selected_candidates.csv) shows the new stations we select based on this weight score standard
+
+- Key Question 4:Establish how many students and employees would have access to each of the new filling stations.
+  - As we mentioned in the last question, we build a new weight standard for finding new stations and we get [`selected_candidates.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/new_data/selected_candidates.csv). Mean and max density in this sheet is the estimation of how many students and employees would be impacted by proposed new filling stations.
+- Key question 5:A geospatial map of new water filling stations highlighted by priority (page 21-22)
+  - We build a html file called [`Top_15_candidates_map_by_weight.html`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/visualization/top_15_candidates_map_by_weight.html). When we download this html file and open it, we can see a google map showing the location of top 15 new water stations highlighted by weights as priority. Top 1-5 are marked as green points, rank 6 -10 are marked as orange points , and rank 11-15 are marked as red points. 
+  - When we click on these new station points, details of that point will show, including building address, building floor, weight score, building type and ranking. 
+
 
 ## Methods
 We combine the data cleaning and analysis steps together in our various notebooks:
@@ -41,9 +66,3 @@ The various CSV files are a combination of given data and intermediary tables us
 - [`selected_candidates.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/data/selected_candidates.csv): this file can be produced by running `select_new_stations.ipynb` , which contains various information about our selected building/floor candidates for new water filling stations.
 - [`top_15_candidates_map_by_weight.html`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/data/top_15_candidates_map_by_weight.html): this file can be produced by running `select_new_stations.ipynb` , this is the HTML file that contains map of the top 15 candidates from uncovered floors that can be viewed using a brower.
 
-## How to Run (notice: need to know when visual exploration run)
-The original foot traffic data from the Google Drive, `updated_densitymap_hourly_cleaned.csv`, is not included in this repo because it is very large. So, download it and move it to the `original_data` folder to begin running. Remember download all files here to make the code working.
-- First, run `new_wifi_data_process.ipynb` to produce the  processed wifi(foot traffic data) `wifi_update.csv`.
-- Then, run `produce_kitchen_station_tables.ipynb`to produce the processed kitchen data and existed water station data `Kitchens.csv` and `Stations.csv`.
-- Then run `seperate_covered_floor_or_not.ipynb` to produce the `covered_floors.csv` and `uncovered_floors.csv`.
-- Finally, run `select_new_stations.ipynb` to generate `mean and max density.png`,`mechanical ventilation influence.png`, `selected_candidates.csv``top_15_candidates_map_by_weight.html` and all png files with "top 15..." as heading (see Datasets section) 
