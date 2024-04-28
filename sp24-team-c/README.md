@@ -42,7 +42,7 @@ The various CSV files are a combination of given data and intermediary tables us
 - [`top_15_candidates_map_by_weight.html`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/data/top_15_candidates_map_by_weight.html): this file can be produced by running `select_new_stations.ipynb` , this is the HTML file that contains map of the top 15 candidates from uncovered floors that can be viewed using a brower.
 
 ## How to Run (notice: need to know when visual exploration run)
-The original foot traffic data from the Google Drive, `updated_densitymap_hourly_cleaned.csv`, is not included in this repo because it is very large. So, download it and move it to the `data` folder to begin running. Remember download all files here to make the code working.
+The original foot traffic data from the Google Drive, `updated_densitymap_hourly_cleaned.csv`, is not included in this repo because it is very large. So, download it and move it to the `original_data` folder to begin running. Remember download all files here to make the code working.
 - First, run `new_wifi_data_process.ipynb` to produce the  processed wifi(foot traffic data) `wifi_update.csv`.
 - Then, run `produce_kitchen_station_tables.ipynb`to produce the processed kitchen data and existed water station data `Kitchens.csv` and `Stations.csv`.
 - Then run `seperate_covered_floor_or_not.ipynb` to produce the `covered_floors.csv` and `uncovered_floors.csv`.
