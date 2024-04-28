@@ -31,6 +31,28 @@
 
 ## Overview
 
+In alignment with Boston University's commitment to sustainability and its Zero
+Waste initiative, this project aims to enhance the accessibility and use of
+refillable water bottles on campus. The primary objective is to significantly
+reduce the use of single-use plastic bottles by increasing the number of water
+bottle filling stations. This initiative not only supports environmental
+sustainability but also promotes healthier, cost-effective hydration options for
+the university community.
+
+Boston University Sustainability has identified a need for data-driven
+decision-making to optimize the locations of new filling stations. Our project
+will utilize a variety of data sources, including maps of existing stations,
+foot traffic patterns, and areas of high student activity density to identify
+and recommend potential sites for additional stations.
+
+By analyzing existing data on station usage we created a coordinate system and a
+geographic map that displays the density of water-filling stations. We then
+integrate it with analytics of campus movement and gathering spots to propose
+locations where new stations will serve the potential highest number of users.
+The outcome of this project will help BU Sustainability prioritize installation
+sites to maximize accessibility and encourage sustainable practices among
+students, faculty, and visitors.
+
 ## Data
 
 Most of the datasets are located in the folder located at the path of
