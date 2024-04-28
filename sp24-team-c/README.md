@@ -46,7 +46,7 @@ Finn Jensen, fjensen@bu.edu
   - We build a html file called [`Top_15_candidates_map_by_weight.html`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/visualization/top_15_candidates_map_by_weight.html). When we download this html file and open it, we can see a google map showing the location of top 15 new water stations highlighted by weights as priority. Top 1-5 are marked as green points, rank 6 -10 are marked as orange points , and rank 11-15 are marked as red points. 
   - When we click on these new station points, details of that point will show, including building address, building floor, weight score, building type and ranking. 
 
-## Code Methods &visualization methods
+## Code Methods
 We combine the data cleaning and analysis steps together in our various notebooks:
 - [`wifi_data_process.ipynb`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/wifi_data_process.ipynb) :This is our first step code. In this file, we do 2 Data Filter and Processing steps for original wifi data.
   - (1) We exclude Housing, and Commercial buildings because they're private . For residential buildings we only consider large dorm-style residences for similar reason. We also exclude parking building or floors since people usually do not stay long here.
