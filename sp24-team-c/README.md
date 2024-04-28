@@ -7,7 +7,13 @@ Tristan Lee, tlee10@bu.edu<br>
 Yida Wang, yidwang@bu.edu<br>
 Finn Jensen, fjensen@bu.edu
 
-
+## Folder explanation
+- [`code`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/code) folder: This folder includes all code we use for data processing, data analyzing , and visualization.
+- [`original_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data) folder: This folder includes orginal data provided by client, which are source file for further processing.
+- [`new_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/new_data) folder: This folder includes new data we make by running codes in `code` folder.
+- [`visualization`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/visualization) folder: This folder includes all visualization files we make by running codes in `code` folder.
+- [`deliverables`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/deliverables) folder: This folder includes our early insight/midterm/final report and slides.
+  
 ## How to run code instruction
 - Step 0: Download all folders in this branch, keep all files in their original folder.
 - Step 0.5: Download `updated_densitymap_hourly_cleaned.csv`from https://drive.google.com/drive/folders/11Zu-7h4pp9KWnJbkMMpTo6H_6xsmfzBb, and put it into  [`original_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data) folder, this file is not included in this repo because it is very large. However this file is our necessary file for running code.
@@ -47,7 +53,7 @@ Finn Jensen, fjensen@bu.edu
   - When we click on these new station points, details of that point will show, including building address, building floor, weight score, building type and ranking. 
 
 ## Code Methods
-We combine the data cleaning and analysis steps together in our various notebooks:
+We combine the data cleaning and analysis steps together in our various notebooks, which can be seen in our [`code`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/code) folder:
 - [`wifi_data_process.ipynb`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/code/wifi_data_process.ipynb) :This is our first step code. In this file, we do 2 Data Filter and Processing steps for original wifi data.
   - (1) We exclude Housing, and Commercial buildings because they're private . For residential buildings we only consider large dorm-style residences for similar reason. We also exclude parking building or floors since people usually do not stay long here.
   - (2) We simplify our analysis by calculating and focusing on average and max density counts for each floor. This helps us quickly identify when and where traffic peaks.
@@ -82,9 +88,9 @@ Explanation about all the images and html files saved in [`visualization`](https
 
 
 ## Original Datasets
-The various CSV files are original data given by client, which are all in [`original_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data)
+The various CSV files are original data given by client, which are all in [`original_data`](https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data) folder:
 - [`updated_densitymap_hourly_cleaned.csv`]（https://drive.google.com/drive/folders/11Zu-7h4pp9KWnJbkMMpTo6H_6xsmfzBb): This dataset records density count each hour for various BU floors, which can represent foot traffic, since it is too large we do not put it into github.  This dataset will be further processed by running [`wifi_data_process.ipynb`].
-- [`Bottle Fillers Inventory - ongoing.xlsx`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/original_data/Bottle%20Fillers%20Inventory%20-%20ongoing.xlsx) and [`Building and Kitchen List.xlsx`]([https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/original_data/Building%20and%20Kitchen%20List.xlsx): These two datasets include detailed information for places with existed bottle station and kitchen. These two datasets will be further processed by running `produce_kitchen_station_tables.ipynb` and `seperate_covered_floor_or_not.ipynb`
+- [`Bottle Fillers Inventory - ongoing.xlsx`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/original_data/Bottle%20Fillers%20Inventory%20-%20ongoing.xlsx) and [`Building and Kitchen List.xlsx`]([https://github.com/BU-Spark/ds-bu-sustainability-water/tree/team-c_extension/sp24-team-c/original_data](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/original_data/Building%20and%20Kitchen%20List.xlsx): These two datasets include information for places with existed bottle station and kitchen, include address, building type, Mechanical Ventilation and many details. These two datasets will be further processed by running `produce_kitchen_station_tables.ipynb` and `seperate_covered_floor_or_not.ipynb`
 - [`High Volume Event Spaces.xlsx - Sheet1.csv`](https://github.com/BU-Spark/ds-bu-sustainability-water/blob/team-c_extension/sp24-team-c/original_data/High%20Volume%20Event%20Spaces.xlsx%20-%20Sheet1.csv) : This dataset lists all detailed information about high volume event places.This dataset is required for running `seperate_covered_floor_or_not.ipynb` because we want to add High Volume or not to uncovered floors .
 
 ## New Datasets
