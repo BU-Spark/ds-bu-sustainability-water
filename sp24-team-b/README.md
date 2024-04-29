@@ -12,6 +12,8 @@ Through rigorous data collection and integration, the team compiled datasets enc
 
 The project culminated in the creation of a prioritized list of locations deemed most suitable for hosting new water filling stations. This list, derived from comprehensive analysis and careful consideration of various factors, serves as a roadmap for BU Sustainability to strategically deploy new stations and promote campus-wide adoption of sustainable practices.
 
+**Our final prioritized list that includes all locations in prioritized order of installment is found at [final_prioritized_list.csv](final_prioritized_list.csv)**
+
 
 ## Key Questions Answered
 **1. How many students and employees are impacted by each water filling station in the current inventory?**
@@ -33,7 +35,7 @@ Each factor is weighted according to its importance in determining the prioritiz
 
 Using Google Maps, we have created an interactive map to be able to view the top 40 proposed locations for new installations of water filling stations. On this map, each location is highlighted by priority and has a description of where exactly at each address a new water filling station is proposed to be installed.
 
-[Click here for the geospatial map](https://www.google.com/maps/d/u/0/viewer?mid=1M2Y6x05S4kCkZrdMNcw5Biq0rK_sI8c&ll=42.34939202399286%2C-71.10766574597167&z=15)
+[Click here for the interactive geospatial map](https://www.google.com/maps/d/u/0/viewer?mid=1M2Y6x05S4kCkZrdMNcw5Biq0rK_sI8c&ll=42.34939202399286%2C-71.10766574597167&z=15)
 
 
 
@@ -69,13 +71,17 @@ The calculation of the distance to the nearest existing filling station involved
 
 
 ## How to Produce Results
-Our current codebase includes project_code.ipynb, which features a list of the top 30 recommended sites for installing new water filling stations, derived from our base project using predefined weights. This notebook also includes visualizations to illustrate the effects of installing stations at the top 10, 20, or 30 prioritized locations. Additionally, our extension project, housed in extension_project.ipynb, allows users to input a factor they wish to prioritize. It generates a tailored list of locations and visualizations that display the impact of installing stations at the top 10, 20, 30 or a chosen number (by the user) of these selected sites. Sample inputs are provided for demonstration, but if you'd like to customize the analysis, here are the steps to run the program with your own inputs:
+Our current codebase includes [project_code.ipynb](project_code.ipynb), which features a list of the top 30 recommended sites for installing new water filling stations, derived from our base project using predefined weights. This notebook also includes visualizations to illustrate the effects of installing stations at the top 10, 20, or 30 prioritized locations. If you would like to see the full prioritized list of locations from that code, that can be found at [final_prioritized_list.csv](final_prioritized_list.csv).
+
+Additionally, our extension project, housed in [extension_project.ipynb](extension_project.ipynb), allows users to input a factor they wish to prioritize. It generates a tailored list of locations and visualizations that display the impact of installing stations at the top 10, 20, 30 or a chosen number (by the user) of these selected sites. Sample inputs are provided for demonstration, but if you'd like to customize the analysis, here are the steps to run the program with your own inputs:
 
 **1. Download the Files:**
-Download extension_project.ipynb and extension_data.csv from the data folder.
+Download [extension_project.ipynb](extension_project.ipynb) and [extension_data.csv](data/extension_data.csv) from the data folder.
 
 **2. Open the Notebook:**
-Open extension_project.ipynb using Jupyter Notebook on your computer, through a RedHat environment, or upload it to Google Drive. If using Google Drive, ensure extension_data.csv is also uploaded there.
+Open extension_project.ipynb using Jupyter Notebook on your computer, through a RedHat environment, or upload it to Google Drive (to use Google Collabs to run it) ** . If using Google Drive, ensure extension_data.csv is also uploaded there.
+
+** I suggest using Google Collabs to run this. If using your own computer with Jupyter Notebook, you will have to have the proper installments on your computer for the program to be able to run.
 
 **3. Configure the Data Path:**
 Modify the path_to_data variable at the beginning of the notebook to reflect the path to your extension_data.csv.
