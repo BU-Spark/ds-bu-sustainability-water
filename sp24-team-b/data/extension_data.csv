@@ -1,0 +1,1159 @@
+full_address,avg_daily_density_cnt,exists_in_inventory,address,floor,full_address_with_end,building_type,distance_to_closest_station,Mechanical Ventilation
+1 buswell 1,298.9866666666667,0,1 buswell,1,1 buswell street,Residential,415.533376276276,No
+1 buswell 2,979.258064516129,0,1 buswell,2,1 buswell street,Residential,415.533376276276,No
+1 buswell 3,369.2872340425532,0,1 buswell,3,1 buswell street,Residential,415.533376276276,No
+1 buswell 4,820.2274618585298,0,1 buswell,4,1 buswell street,Residential,415.533376276276,No
+1 buswell b,194.94949494949495,0,1 buswell,b,1 buswell street,Residential,415.533376276276,No
+1 university 1,25167.47841409692,1,1 university,1,1 university road,Academic,0.0,Yes
+1 university 2,6282.521038495972,1,1 university,2,1 university road,Academic,0.0,Yes
+1 university 3,2028.3482849604222,1,1 university,3,1 university road,Academic,0.0,Yes
+1 university p,9825.715430861723,0,1 university,p,1 university road,Academic,0.0,Yes
+10 buick 1,16849.155866900175,0,10 buick,1,10 buick street,Residential,257.06675723106025,Yes
+10 buick 10,7304.775000000001,0,10 buick,10,10 buick street,Residential,257.06675723106025,Yes
+10 buick 11,6061.798816568047,0,10 buick,11,10 buick street,Residential,257.06675723106025,Yes
+10 buick 12,5925.715430861724,0,10 buick,12,10 buick street,Residential,257.06675723106025,Yes
+10 buick 13,6426.276553106212,0,10 buick,13,10 buick street,Residential,257.06675723106025,Yes
+10 buick 14,5464.9096446700505,0,10 buick,14,10 buick street,Residential,257.06675723106025,Yes
+10 buick 15,5038.358771060456,0,10 buick,15,10 buick street,Residential,257.06675723106025,Yes
+10 buick 16,3796.375545851529,0,10 buick,16,10 buick street,Residential,257.06675723106025,Yes
+10 buick 17,3161.1507479861907,0,10 buick,17,10 buick street,Residential,257.06675723106025,Yes
+10 buick 18,1178.3910336239103,0,10 buick,18,10 buick street,Residential,257.06675723106025,Yes
+10 buick 2,7719.574468085107,0,10 buick,2,10 buick street,Residential,257.06675723106025,Yes
+10 buick 3,8515.967479674797,0,10 buick,3,10 buick street,Residential,257.06675723106025,Yes
+10 buick 4,7347.985074626866,0,10 buick,4,10 buick street,Residential,257.06675723106025,Yes
+10 buick 5,7164.858757062147,0,10 buick,5,10 buick street,Residential,257.06675723106025,Yes
+10 buick 6,7532.903225806452,0,10 buick,6,10 buick street,Residential,257.06675723106025,Yes
+10 buick 7,7626.936613055817,0,10 buick,7,10 buick street,Residential,257.06675723106025,Yes
+10 buick 8,8405.634782608695,0,10 buick,8,10 buick street,Residential,257.06675723106025,Yes
+10 buick 9,7744.788516746411,0,10 buick,9,10 buick street,Residential,257.06675723106025,Yes
+10 buick 91,151.9090909090909,0,10 buick,91,10 buick street,Residential,257.06675723106025,Yes
+10 buick b,216.0,0,10 buick,b,10 buick street,Residential,257.06675723106025,Yes
+10 buick g,4636.778854625551,0,10 buick,g,10 buick street,Residential,257.06675723106025,Yes
+10 cottage farm 2,42.666666666666664,0,10 cottage farm,2,10 cottage farm road,Residential,768.9180135593127,Partial
+10 cottage farm b,115.0948905109489,0,10 cottage farm,b,10 cottage farm road,Residential,768.9180135593127,Partial
+10 cottage farm l,369.3815261044177,0,10 cottage farm,l,10 cottage farm road,Residential,768.9180135593127,Partial
+10 lenox 1,2095.0446672743847,0,10 lenox,1,10 lenox street,Administrative,650.7359831566891,Yes
+10 lenox 2,2152.720785013381,0,10 lenox,2,10 lenox street,Administrative,650.7359831566891,Yes
+10 lenox 3,1374.3589743589744,0,10 lenox,3,10 lenox street,Administrative,650.7359831566891,Yes
+10 lenox b,177.3763440860215,0,10 lenox,b,10 lenox street,Administrative,650.7359831566891,Yes
+100 ashford 1,4981.498632634458,1,100 ashford,1,100 ashford street,Athletic,0.0,Yes
+100 ashford 2,6678.773946360154,0,100 ashford,2,100 ashford street,Athletic,0.0,Yes
+100 bay state 1,18986.59400544959,1,100 bay state,1,100 bay state road,Student Support,0.0,Yes
+100 bay state 2,16567.039711191333,0,100 bay state,2,100 bay state road,Student Support,0.0,Yes
+100 bay state 3,2962.843523316062,1,100 bay state,3,100 bay state road,Student Support,0.0,Yes
+100 bay state 4,3410.800409416581,1,100 bay state,4,100 bay state road,Student Support,0.0,Yes
+100 bay state 5,3497.008567931457,1,100 bay state,5,100 bay state road,Student Support,0.0,Yes
+100 bay state 6,2594.2153846153847,1,100 bay state,6,100 bay state road,Student Support,0.0,Yes
+100 bay state b,3052.6089552238805,0,100 bay state,b,100 bay state road,Student Support,0.0,Yes
+100 bay state p,336.0,0,100 bay state,p,100 bay state road,Student Support,0.0,Yes
+100 mountfort 1,206.6175637393768,0,100 mountfort,1,100 mountfort street,Residential,364.8127631315832,No
+100 mountfort 2,133.24675324675323,0,100 mountfort,2,100 mountfort street,Residential,364.8127631315832,No
+100 mountfort 3,396.13899613899616,0,100 mountfort,3,100 mountfort street,Residential,364.8127631315832,No
+100 mountfort 4,152.0597014925373,0,100 mountfort,4,100 mountfort street,Residential,364.8127631315832,No
+1010 commonwealth 1,30407.978984238176,0,1010 commonwealth,1,1010 commonwealth avenue,Academic,362.8997180794076,Yes
+1010 commonwealth 2,1374.9561497326204,0,1010 commonwealth,2,1010 commonwealth avenue,Academic,362.8997180794076,Yes
+1010 commonwealth 3,2051.4465691788528,0,1010 commonwealth,3,1010 commonwealth avenue,Academic,362.8997180794076,Yes
+1010 commonwealth 4,1744.0824742268042,0,1010 commonwealth,4,1010 commonwealth avenue,Academic,362.8997180794076,Yes
+1010 commonwealth 5,1442.327062228654,0,1010 commonwealth,5,1010 commonwealth avenue,Academic,362.8997180794076,Yes
+1019 commonwealth 1,31100.202666666664,1,1019 commonwealth,1,1019 commonwealth avenue,Residential,0.0,Yes
+1019 commonwealth 2,5609.537486800423,1,1019 commonwealth,2,1019 commonwealth avenue,Residential,0.0,Yes
+1019 commonwealth 3,6670.807453416149,1,1019 commonwealth,3,1019 commonwealth avenue,Residential,0.0,Yes
+1019 commonwealth 4,6318.631578947368,1,1019 commonwealth,4,1019 commonwealth avenue,Residential,0.0,Yes
+1019 commonwealth 5,6520.6907378335945,1,1019 commonwealth,5,1019 commonwealth avenue,Residential,0.0,Yes
+1019 commonwealth 6,5911.300840336135,1,1019 commonwealth,6,1019 commonwealth avenue,Residential,0.0,Yes
+1053 beacon 1,358.9732620320856,0,1053 beacon,1,1053 beacon street,Residential,1668.4393979020538,No
+1053 beacon 2,500.83156297420334,0,1053 beacon,2,1053 beacon street,Residential,1668.4393979020538,No
+1053 beacon 3,802.3694656488549,0,1053 beacon,3,1053 beacon street,Residential,1668.4393979020538,No
+1053 beacon 4,810.0288461538461,0,1053 beacon,4,1053 beacon street,Residential,1668.4393979020538,No
+1053 beacon b,324.25775656324583,0,1053 beacon,b,1053 beacon street,Residential,1668.4393979020538,No
+11 buswell 2,1158.3367983367984,0,11 buswell,2,11 buswell street,Residential,458.0620259283579,No
+11 buswell 3,919.2336448598131,0,11 buswell,3,11 buswell street,Residential,458.0620259283579,No
+11 buswell 4,854.1925925925926,0,11 buswell,4,11 buswell street,Residential,458.0620259283579,No
+11 buswell b,221.30693069306932,0,11 buswell,b,11 buswell street,Residential,458.0620259283579,No
+110 bay state 1,1584.0,0,110 bay state,1,110 bay state road,Residential,113.84850962666304,No
+110 bay state 2,648.8583218707015,0,110 bay state,2,110 bay state road,Residential,113.84850962666304,No
+110 bay state 3,497.1030478955007,0,110 bay state,3,110 bay state road,Residential,113.84850962666304,No
+110 bay state 4,387.45420560747664,0,110 bay state,4,110 bay state road,Residential,113.84850962666304,No
+110 bay state 5,1379.2941176470588,0,110 bay state,5,110 bay state road,Residential,113.84850962666304,No
+110 bay state 6,1129.7142857142858,0,110 bay state,6,110 bay state road,Residential,113.84850962666304,No
+110 bay state b,458.09589041095893,0,110 bay state,b,110 bay state road,Residential,113.84850962666304,No
+110-112 cummington mall 1,2009.091922005571,0,110-112 cummington mall,1,110-112 cummington mall,Academic,0.0,Yes
+110-112 cummington mall 2,1656.48322147651,1,110-112 cummington mall,2,110-112 cummington mall,Academic,0.0,Yes
+110-112 cummington mall 3,1390.1615598885794,0,110-112 cummington mall,3,110-112 cummington mall,Academic,0.0,Yes
+110-112 cummington mall 4,1190.6220472440943,0,110-112 cummington mall,4,110-112 cummington mall,Academic,0.0,Yes
+110-112 cummington mall b,673.0212765957447,0,110-112 cummington mall,b,110-112 cummington mall,Academic,0.0,Yes
+111 cummington mall 1,5886.155495978553,1,111 cummington mall,1,111 cummington mall,Research,0.0,Yes
+111 cummington mall 10,183.31685393258428,0,111 cummington mall,10,111 cummington mall,Research,0.0,Yes
+111 cummington mall 2,3600.0470588235294,1,111 cummington mall,2,111 cummington mall,Research,0.0,Yes
+111 cummington mall b,5878.209677419355,0,111 cummington mall,b,111 cummington mall,Research,0.0,Yes
+112 bay state 2,2479.768924302789,0,112 bay state,2,112 bay state road,Residential,139.65563158025847,No
+112 bay state 3,834.15625,0,112 bay state,3,112 bay state road,Residential,139.65563158025847,No
+112 bay state b,528.7261146496814,0,112 bay state,b,112 bay state road,Residential,139.65563158025847,No
+115 bay state 1,689.3373860182371,0,115 bay state,1,115 bay state road,Residential,272.17723593589994,No
+115 bay state 2,210.68634686346866,0,115 bay state,2,115 bay state road,Residential,272.17723593589994,No
+115 bay state 3,641.0594594594594,0,115 bay state,3,115 bay state road,Residential,272.17723593589994,No
+115 bay state 4,192.68817204301075,0,115 bay state,4,115 bay state road,Residential,272.17723593589994,No
+116 bay state 2,302.2514506769826,0,116 bay state,2,116 bay state road,Academic,177.46081709717396,No
+116 bay state 3,324.1290322580645,0,116 bay state,3,116 bay state road,Academic,177.46081709717396,No
+116 bay state 4,149.0909090909091,0,116 bay state,4,116 bay state road,Academic,177.46081709717396,No
+116 bay state b,208.31578947368422,0,116 bay state,b,116 bay state road,Academic,177.46081709717396,No
+117 bay state 2,1988.4484304932735,0,117 bay state,2,117 bay state road,Residential,289.0159766963363,No
+117 bay state 4,2423.6185430463574,0,117 bay state,4,117 bay state road,Residential,289.0159766963363,No
+117 bay state b,823.9729729729729,0,117 bay state,b,117 bay state road,Residential,289.0159766963363,No
+118 bay state 2,427.700325732899,0,118 bay state,2,118 bay state road,Academic,184.38818515581613,No
+118 bay state 3,168.31372549019608,0,118 bay state,3,118 bay state road,Academic,184.38818515581613,No
+118 bay state 4,158.8235294117647,0,118 bay state,4,118 bay state road,Academic,184.38818515581613,No
+118 bay state b,307.016393442623,0,118 bay state,b,118 bay state road,Academic,184.38818515581613,No
+120 ashford 1,7007.93661971831,0,120 ashford,1,120 ashford street,Administrative,305.39726560948407,Yes
+120 ashford 2,4078.811671087533,0,120 ashford,2,120 ashford street,Administrative,305.39726560948407,Yes
+121 bay state 2,1038.1597444089457,0,121 bay state,2,121 bay state road,Administrative,306.56903703781194,No
+121 bay state 3,398.6770670826833,0,121 bay state,3,121 bay state road,Administrative,306.56903703781194,No
+121 bay state 4,176.21789883268482,0,121 bay state,4,121 bay state road,Administrative,306.56903703781194,No
+121 bay state b,481.81132075471703,0,121 bay state,b,121 bay state road,Administrative,306.56903703781194,No
+122 bay state 1,284.5079365079365,0,122 bay state,1,122 bay state road,Administrative,184.3881851563177,No
+122 bay state 2,304.85359801488835,0,122 bay state,2,122 bay state road,Administrative,184.3881851563177,No
+122 bay state 3,350.98265895953756,0,122 bay state,3,122 bay state road,Administrative,184.3881851563177,No
+122 bay state b,99.0769230769231,0,122 bay state,b,122 bay state road,Administrative,184.3881851563177,No
+124 bay state 1,350.1303370786517,0,124 bay state,1,124 bay state road,Residential,190.20974526441984,No
+125 bay state 3,464.43795620437953,0,125 bay state,3,125 bay state road,Administrative,260.4150854758071,No
+125 bay state b,382.6818181818182,0,125 bay state,b,125 bay state road,Administrative,260.4150854758071,No
+128 bay state 2,399.1615720524017,0,128 bay state,2,128 bay state road,Academic,188.72875071308096,No
+128 bay state 3,358.4488330341113,0,128 bay state,3,128 bay state road,Academic,188.72875071308096,No
+128 bay state b,234.0495867768595,0,128 bay state,b,128 bay state road,Academic,188.72875071308096,No
+133 bay state 1,582.5185185185185,0,133 bay state,1,133 bay state road,Residential,211.90219355405324,No
+133 bay state 3,1627.9354838709678,0,133 bay state,3,133 bay state road,Residential,211.90219355405324,No
+133 bay state b,801.1666666666666,0,133 bay state,b,133 bay state road,Residential,211.90219355405324,No
+135 bay state 1,1150.2424969987997,0,135 bay state,1,135 bay state road,Residential,199.5350020892101,No
+135 bay state 2,1230.8916201117318,0,135 bay state,2,135 bay state road,Residential,199.5350020892101,No
+135 bay state 3,372.26666666666665,0,135 bay state,3,135 bay state road,Residential,199.5350020892101,No
+135 bay state 4,1360.8517520215635,0,135 bay state,4,135 bay state road,Residential,199.5350020892101,No
+135 bay state 5,895.5408895265423,0,135 bay state,5,135 bay state road,Residential,199.5350020892101,No
+135 ivy 0,223.76000000000002,0,135 ivy,0,135 ivy street,Residential,911.177275515382,Partial
+135 ivy 1,152.2086956521739,0,135 ivy,1,135 ivy street,Residential,911.177275515382,Partial
+135 ivy 3,286.90909090909093,0,135 ivy,3,135 ivy street,Residential,911.177275515382,Partial
+138 mountfort 2,418.19525065963063,0,138 mountfort,2,138 mountfort street,Academic,475.0223613586705,No
+138 mountfort 3,857.8228782287822,0,138 mountfort,3,138 mountfort street,Academic,475.0223613586705,No
+138 mountfort b,627.4639175257732,0,138 mountfort,b,138 mountfort street,Academic,475.0223613586705,No
+139 bay state 1,489.5357142857142,0,139 bay state,1,139 bay state road,Residential,184.38815379721328,No
+139 bay state 2,263.7974683544304,0,139 bay state,2,139 bay state road,Residential,184.38815379721328,No
+139 bay state 3,96.3855421686747,0,139 bay state,3,139 bay state road,Residential,184.38815379721328,No
+139 bay state 4,374.7516960651289,0,139 bay state,4,139 bay state road,Residential,184.38815379721328,No
+139 bay state b,199.3076923076923,0,139 bay state,b,139 bay state road,Residential,184.38815379721328,No
+140 bay state 1,3304.0675512665857,1,140 bay state,1,140 bay state road,Residential,0.0,Partial
+140 bay state 2,891.6634615384617,0,140 bay state,2,140 bay state road,Residential,0.0,Partial
+140 bay state 3,2340.3375959079285,0,140 bay state,3,140 bay state road,Residential,0.0,Partial
+140 bay state 4,646.3795620437957,0,140 bay state,4,140 bay state road,Residential,0.0,Partial
+140 bay state 5,268.72566371681415,0,140 bay state,5,140 bay state road,Residential,0.0,Partial
+140 bay state 6,1172.6255924170616,0,140 bay state,6,140 bay state road,Residential,0.0,Partial
+140 bay state 7,2070.262948207171,0,140 bay state,7,140 bay state road,Residential,0.0,Partial
+140 bay state 8,2100.4497751124436,0,140 bay state,8,140 bay state road,Residential,0.0,Partial
+140 bay state 9,1521.7058823529412,0,140 bay state,9,140 bay state road,Residential,0.0,Partial
+140 bay state E,574.4623955431755,0,140 bay state,E,140 bay state road,Residential,0.0,Partial
+140 bay state W,869.6470588235294,0,140 bay state,W,140 bay state road,Residential,0.0,Partial
+140 bay state b,468.6425470332851,0,140 bay state,b,140 bay state road,Residential,0.0,Partial
+140 bay state e,6657.775,0,140 bay state,e,140 bay state road,Residential,0.0,Partial
+140 bay state w,7050.824644549763,0,140 bay state,w,140 bay state road,Residential,0.0,Partial
+141 bay state 1,348.078431372549,0,141 bay state,1,141 bay state road,Academic,182.4063815657916,No
+141 bay state 3,1764.0907372400757,0,141 bay state,3,141 bay state road,Academic,182.4063815657916,No
+141 bay state 4,127.24260355029587,0,141 bay state,4,141 bay state road,Academic,182.4063815657916,No
+141 bay state b,2263.746976744186,0,141 bay state,b,141 bay state road,Academic,182.4063815657916,No
+141 carlton 2,626.0024183796857,0,141 carlton,2,141 carlton street,Residential,476.7249469937937,No
+141 carlton 3,1123.26,0,141 carlton,3,141 carlton street,Residential,476.7249469937937,No
+141 carlton b,508.12087912087907,0,141 carlton,b,141 carlton street,Residential,476.7249469937937,No
+143 bay state 2,517.9965694682676,0,143 bay state,2,143 bay state road,Academic,182.4063815657916,No
+143 bay state 4,291.05454545454546,0,143 bay state,4,143 bay state road,Academic,182.4063815657916,No
+143 bay state 5,205.71428571428572,0,143 bay state,5,143 bay state road,Academic,182.4063815657916,No
+143 bay state b,406.67403314917124,0,143 bay state,b,143 bay state road,Academic,182.4063815657916,No
+147 bay state 1,1774.3783783783783,0,147 bay state,1,147 bay state road,Academic,199.5350020892101,No
+147 bay state 2,1002.2424242424242,0,147 bay state,2,147 bay state road,Academic,199.5350020892101,No
+147 bay state 3,1224.0693641618498,0,147 bay state,3,147 bay state road,Academic,199.5350020892101,No
+147 bay state 5,327.3128834355828,0,147 bay state,5,147 bay state road,Academic,199.5350020892101,No
+15 buswell 2,426.3835616438356,0,15 buswell,2,15 buswell street,Residential,486.3645061413041,No
+15 buswell 3,740.7391304347826,0,15 buswell,3,15 buswell street,Residential,486.3645061413041,No
+15 buswell 4,752.1152993348115,0,15 buswell,4,15 buswell street,Residential,486.3645061413041,No
+15 buswell b,980.1222707423581,0,15 buswell,b,15 buswell street,Residential,486.3645061413041,No
+15 st. mary's 1,1745.849710982659,0,15 st. mary's,1,15 st. mary's street,Research,198.6632648716464,
+15 st. mary's b,529.3977272727273,0,15 st. mary's,b,15 st. mary's street,Research,198.6632648716464,
+152 bay state 2,2525.8342541436464,0,152 bay state,2,152 bay state road,Academic,,No
+152 bay state 3,312.64429530201346,0,152 bay state,3,152 bay state road,Academic,,No
+152 bay state 4,166.03636363636363,0,152 bay state,4,152 bay state road,Academic,,No
+152 bay state g,1142.1450459652706,0,152 bay state,g,152 bay state road,Academic,,No
+153 bay state 2,1607.71875,0,153 bay state,2,153 bay state road,Residential,289.01558456280486,No
+153 bay state 3,291.09909909909913,0,153 bay state,3,153 bay state road,Residential,289.01558456280486,No
+153 bay state 4,1044.3000000000002,0,153 bay state,4,153 bay state road,Residential,289.01558456280486,No
+153 bay state b,247.62760834670945,0,153 bay state,b,153 bay state road,Residential,289.01558456280486,No
+154 bay state 2,681.3428571428572,0,154 bay state,2,154 bay state road,Academic,155.56921811023724,No
+154 bay state 4,392.92526690391463,0,154 bay state,4,154 bay state road,Academic,155.56921811023724,No
+154 bay state b,1436.9479768786127,0,154 bay state,b,154 bay state road,Academic,155.56921811023724,No
+156 bay state 2,378.69662921348316,0,156 bay state,2,156 bay state road,Academic,190.20969662677035,Yes
+156 bay state 3,140.57142857142856,0,156 bay state,3,156 bay state road,Academic,190.20969662677035,Yes
+156 bay state 4,181.71428571428572,0,156 bay state,4,156 bay state road,Academic,190.20969662677035,Yes
+156 bay state b,172.21224489795918,0,156 bay state,b,156 bay state road,Academic,190.20969662677035,Yes
+157 bay state 1,314.9065743944637,0,157 bay state,1,157 bay state road,Residential,326.7887303856222,No
+157 bay state 2,1765.1356898517674,0,157 bay state,2,157 bay state road,Residential,326.7887303856222,No
+157 bay state 4,1468.0688741721854,0,157 bay state,4,157 bay state road,Residential,326.7887303856222,No
+157 bay state b,143.09897610921502,0,157 bay state,b,157 bay state road,Residential,326.7887303856222,No
+158-162 bay state 2,3649.0541368743616,0,158-162 bay state,2,158-162 bay state road,Residential,145.92510525448975,No
+158-162 bay state 4,3004.257555847569,0,158-162 bay state,4,158-162 bay state road,Residential,145.92510525448975,No
+158-162 bay state b,184.87780548628427,0,158-162 bay state,b,158-162 bay state road,Residential,145.92510525448975,No
+159 bay state 1,547.525965379494,0,159 bay state,1,159 bay state road,Residential,329.4365959864141,No
+159 bay state 2,1427.3719626168224,0,159 bay state,2,159 bay state road,Residential,329.4365959864141,No
+159 bay state 3,163.86013986013987,0,159 bay state,3,159 bay state road,Residential,329.4365959864141,No
+159 bay state 4,464.74547983310157,0,159 bay state,4,159 bay state road,Residential,329.4365959864141,No
+159 bay state b,254.46575342465755,0,159 bay state,b,159 bay state road,Residential,329.4365959864141,No
+16 arundel 1,526.5631929046564,0,16 arundel,1,16 arundel street,Residential,397.33089556366167,No
+16 arundel 2,403.29866989117295,0,16 arundel,2,16 arundel street,Residential,397.33089556366167,No
+16 arundel 3,897.8316221765913,0,16 arundel,3,16 arundel street,Residential,397.33089556366167,No
+16 arundel 4,757.4045174537988,0,16 arundel,4,16 arundel street,Residential,397.33089556366167,No
+16 arundel b,377.0,0,16 arundel,b,16 arundel street,Residential,397.33089556366167,No
+161 bay state 1,600.1185185185185,0,161 bay state,1,161 bay state road,Residential,328.3314868202813,No
+161 bay state 2,365.8553191489362,0,161 bay state,2,161 bay state road,Residential,328.3314868202813,No
+161 bay state 3,618.2234042553191,0,161 bay state,3,161 bay state road,Residential,328.3314868202813,No
+161 bay state 4,682.47,0,161 bay state,4,161 bay state road,Residential,328.3314868202813,No
+161 bay state b,400.42879019908116,0,161 bay state,b,161 bay state road,Residential,328.3314868202813,No
+163 bay state 1,502.3483146067416,0,163 bay state,1,163 bay state road,Residential,328.3314868202813,No
+163 bay state 2,282.0821917808219,0,163 bay state,2,163 bay state road,Residential,328.3314868202813,No
+163 bay state 3,504.44571428571425,0,163 bay state,3,163 bay state road,Residential,328.3314868202813,No
+163 bay state 4,396.24186046511625,0,163 bay state,4,163 bay state road,Residential,328.3314868202813,No
+163 bay state b,110.46464646464648,0,163 bay state,b,163 bay state road,Residential,328.3314868202813,No
+163-179 amory 1,28306.317757009347,0,163-179 amory,1,163-179 amory street,Administrative,384.4440741383989,Yes
+163-179 amory b,1334.6098360655737,0,163-179 amory,b,163-179 amory street,Administrative,384.4440741383989,Yes
+164 bay state 2,1050.131868131868,0,164 bay state,2,164 bay state road,Residential,184.38817261497837,No
+164 bay state 4,988.7935222672065,0,164 bay state,4,164 bay state road,Residential,184.38817261497837,No
+164 bay state b,320.27889908256884,0,164 bay state,b,164 bay state road,Residential,184.38817261497837,No
+166-168 bay state 2,1748.040609137056,0,166-168 bay state,2,166-168 bay state road,Residential,199.5351585772282,No
+166-168 bay state 4,1294.9565217391305,0,166-168 bay state,4,166-168 bay state road,Residential,199.5351585772282,No
+166-168 bay state b,408.07511737089203,0,166-168 bay state,b,166-168 bay state road,Residential,199.5351585772282,No
+167-169 bay state 2,4729.543026706232,0,167-169 bay state,2,167-169 bay state road,Residential,332.72990155432734,No
+167-169 bay state 3,398.075422626788,0,167-169 bay state,3,167-169 bay state road,Residential,332.72990155432734,No
+167-169 bay state 4,3700.869565217391,0,167-169 bay state,4,167-169 bay state road,Residential,332.72990155432734,No
+167-169 bay state b,214.07188160676532,0,167-169 bay state,b,167-169 bay state road,Residential,332.72990155432734,No
+17 buswell 2,722.2312925170068,0,17 buswell,2,17 buswell street,Residential,481.1047898702915,No
+17 buswell 3,546.8466257668712,0,17 buswell,3,17 buswell street,Residential,481.1047898702915,No
+17 buswell 4,255.53684210526313,0,17 buswell,4,17 buswell street,Residential,481.1047898702915,No
+17 buswell b,505.4876033057851,0,17 buswell,b,17 buswell street,Residential,481.1047898702915,No
+171 bay state 2,892.38370565046,0,171 bay state,2,171 bay state road,Residential,334.2680046557519,No
+171 bay state 3,188.66465256797582,0,171 bay state,3,171 bay state road,Residential,334.2680046557519,No
+171 bay state 4,132.0,0,171 bay state,4,171 bay state road,Residential,334.2680046557519,No
+171 bay state b,600.6206896551723,0,171 bay state,b,171 bay state road,Residential,334.2680046557519,No
+172 bay state 2,1218.536806342016,0,172 bay state,2,172 bay state road,Residential,195.31163384660437,No
+172 bay state 3,958.1176470588235,0,172 bay state,3,172 bay state road,Residential,195.31163384660437,No
+172 bay state b,214.00896860986546,0,172 bay state,b,172 bay state road,Residential,195.31163384660437,No
+173 bay state 2,713.9089655172413,0,173 bay state,2,173 bay state road,Residential,316.12130926943325,No
+173 bay state 3,249.1792828685259,0,173 bay state,3,173 bay state road,Residential,316.12130926943325,No
+173 bay state 4,444.2482758620689,0,173 bay state,4,173 bay state road,Residential,316.12130926943325,No
+173 bay state b,410.6221547799697,0,173 bay state,b,173 bay state road,Residential,316.12130926943325,No
+175 bay state 2,1151.090909090909,0,175 bay state,2,175 bay state road,Residential,290.977338628032,No
+175 bay state 3,618.5849582172702,0,175 bay state,3,175 bay state road,Residential,290.977338628032,No
+175 bay state 4,627.8483965014577,0,175 bay state,4,175 bay state road,Residential,290.977338628032,No
+175 bay state b,273.3668341708543,0,175 bay state,b,175 bay state road,Residential,290.977338628032,No
+176 bay state 1,1076.9259694477087,0,176 bay state,1,176 bay state road,Residential,153.650503749795,No
+176 bay state 2,525.636923076923,0,176 bay state,2,176 bay state road,Residential,153.650503749795,No
+176 bay state 3,999.6097560975609,0,176 bay state,3,176 bay state road,Residential,153.650503749795,No
+176 bay state b,699.4241245136186,0,176 bay state,b,176 bay state road,Residential,153.650503749795,No
+177 bay state 1,472.41081081081086,0,177 bay state,1,177 bay state road,Residential,266.1892901905933,No
+177 bay state 2,945.1648351648352,0,177 bay state,2,177 bay state road,Residential,266.1892901905933,No
+177 bay state 3,575.9318181818181,0,177 bay state,3,177 bay state road,Residential,266.1892901905933,No
+177 bay state 4,899.1085714285715,0,177 bay state,4,177 bay state road,Residential,266.1892901905933,No
+177 bay state b,182.5287356321839,0,177 bay state,b,177 bay state road,Residential,266.1892901905933,No
+178 bay state 2,827.8184319119671,0,178 bay state,2,178 bay state road,Residential,136.0886562094954,No
+178 bay state 3,1087.575221238938,0,178 bay state,3,178 bay state road,Residential,136.0886562094954,No
+178 bay state b,174.60000000000002,0,178 bay state,b,178 bay state road,Residential,136.0886562094954,No
+179 bay state 2,710.017094017094,0,179 bay state,2,179 bay state road,Residential,241.8666203284621,No
+179 bay state 3,573.5172413793103,0,179 bay state,3,179 bay state road,Residential,241.8666203284621,No
+179 bay state 4,922.0823723228996,0,179 bay state,4,179 bay state road,Residential,241.8666203284621,No
+179 bay state b,504.90621193666266,0,179 bay state,b,179 bay state road,Residential,241.8666203284621,No
+180 bay state 2,669.3482517482518,0,180 bay state,2,180 bay state road,Residential,136.0886562094954,No
+180 bay state 3,665.1994002998501,0,180 bay state,3,180 bay state road,Residential,136.0886562094954,No
+180 bay state b,240.04511278195486,0,180 bay state,b,180 bay state road,Residential,136.0886562094954,No
+181 bay state 2,1013.721271393643,0,181 bay state,2,181 bay state road,Residential,241.8666203284621,No
+181 bay state 3,989.0695187165775,0,181 bay state,3,181 bay state road,Residential,241.8666203284621,No
+181 bay state 4,1131.558620689655,0,181 bay state,4,181 bay state road,Residential,241.8666203284621,No
+181 bay state b,624.7113062568606,0,181 bay state,b,181 bay state road,Residential,241.8666203284621,No
+182 bay state 2,1170.2049469964663,0,182 bay state,2,182 bay state road,Residential,155.56915863872297,No
+182 bay state 3,678.1210374639769,0,182 bay state,3,182 bay state road,Residential,155.56915863872297,No
+182 bay state b,95.16981132075472,0,182 bay state,b,182 bay state road,Residential,155.56915863872297,No
+184 bay state 2,895.9670781893005,0,184 bay state,2,184 bay state road,Residential,134.80560711475908,No
+184 bay state 3,630.4723032069971,0,184 bay state,3,184 bay state road,Residential,134.80560711475908,No
+184 bay state b,98.32258064516128,0,184 bay state,b,184 bay state road,Residential,134.80560711475908,No
+185 bay state 2,417.1588785046729,0,185 bay state,2,185 bay state road,Academic,217.85877140167284,No
+185 bay state 3,452.0439560439561,0,185 bay state,3,185 bay state road,Academic,217.85877140167284,No
+185 bay state 4,1241.5626168224298,0,185 bay state,4,185 bay state road,Academic,217.85877140167284,No
+185 bay state b,417.9622641509434,0,185 bay state,b,185 bay state road,Academic,217.85877140167284,No
+186 bay state 2,848.0898876404494,0,186 bay state,2,186 bay state road,Residential,107.84448569186316,No
+186 bay state 3,578.8111273792094,0,186 bay state,3,186 bay state road,Residential,107.84448569186316,No
+186 bay state b,144.15946843853823,0,186 bay state,b,186 bay state road,Residential,107.84448569186316,No
+187 bay state b,1197.0517766497462,0,187 bay state,b,187 bay state road,Academic,198.66195511074915,No
+188 bay state 2,968.9662921348315,0,188 bay state,2,188 bay state road,Residential,80.88336426893001,No
+188 bay state 3,721.4465753424657,0,188 bay state,3,188 bay state road,Residential,80.88336426893001,No
+188 bay state b,125.34146341463415,0,188 bay state,b,188 bay state road,Residential,80.88336426893001,No
+190 bay state 1,132.5769230769231,0,190 bay state,1,190 bay state road,Residential,80.88336426893001,No
+190 bay state 2,347.84761904761905,0,190 bay state,2,190 bay state road,Residential,80.88336426893001,No
+190 bay state 3,520.4490398818316,0,190 bay state,3,190 bay state road,Residential,80.88336426893001,No
+190 bay state b,171.65919282511211,0,190 bay state,b,190 bay state road,Residential,80.88336426893001,No
+191 bay state 1,318.5703422053232,0,191 bay state,1,191 bay state road,Residential,166.84188121494054,No
+191 bay state 3,2770.6171003717473,0,191 bay state,3,191 bay state road,Residential,166.84188121494054,No
+191 bay state 5,1595.3176470588235,0,191 bay state,5,191 bay state road,Residential,166.84188121494054,No
+192 bay state 2,816.6478149100257,0,192 bay state,2,192 bay state road,Residential,53.92224284596887,No
+192 bay state 3,735.6671449067431,0,192 bay state,3,192 bay state road,Residential,53.92224284596887,No
+192 bay state b,266.1333333333333,0,192 bay state,b,192 bay state road,Residential,53.92224284596887,No
+193 bay state 1,314.14502529510963,0,193 bay state,1,193 bay state road,Residential,155.56903970421774,No
+193 bay state 2,283.87935034802786,0,193 bay state,2,193 bay state road,Residential,155.56903970421774,No
+193 bay state 3,106.64661654135338,0,193 bay state,3,193 bay state road,Residential,155.56903970421774,No
+193 bay state 4,465.2099322799097,0,193 bay state,4,193 bay state road,Residential,155.56903970421774,No
+193 bay state b,106.83076923076923,0,193 bay state,b,193 bay state road,Residential,155.56903970421774,No
+194 bay state 2,921.4205607476636,0,194 bay state,2,194 bay state road,Residential,26.961121422989088,No
+194 bay state 3,877.0938775510203,0,194 bay state,3,194 bay state road,Residential,26.961121422989088,No
+194 bay state b,200.93360160965796,0,194 bay state,b,194 bay state road,Residential,26.961121422989088,No
+195-197 bay state 1,187.51020408163265,0,195-197 bay state,1,195-197 bay state road,Residential,148.39485768308063,No
+195-197 bay state 2,2119.0969325153374,0,195-197 bay state,2,195-197 bay state road,Residential,148.39485768308063,No
+195-197 bay state 3,400.9034175334324,0,195-197 bay state,3,195-197 bay state road,Residential,148.39485768308063,No
+195-197 bay state 4,2112.8232189973614,0,195-197 bay state,4,195-197 bay state road,Residential,148.39485768308063,No
+195-197 bay state b,569.5258855585831,0,195-197 bay state,b,195-197 bay state road,Residential,148.39485768308063,No
+196 bay state 1,581.072463768116,1,196 bay state,1,196 bay state road,Residential,0.0,No
+196 bay state 2,645.9504132231405,0,196 bay state,2,196 bay state road,Residential,0.0,No
+196 bay state 3,769.4379457917261,0,196 bay state,3,196 bay state road,Residential,0.0,No
+196 bay state b,71.72413793103448,0,196 bay state,b,196 bay state road,Residential,0.0,No
+198 bay state 2,822.2008032128515,0,198 bay state,2,198 bay state road,Residential,26.961121422989088,No
+198 bay state 3,625.2017673048601,0,198 bay state,3,198 bay state road,Residential,26.961121422989088,No
+198 bay state b,500.9573091849935,0,198 bay state,b,198 bay state road,Residential,26.961121422989088,No
+199 bay state 1,483.6923076923077,0,199 bay state,1,199 bay state road,Residential,145.92510525681035,No
+199 bay state 2,647.3400868306802,0,199 bay state,2,199 bay state road,Residential,145.92510525681035,No
+199 bay state 3,669.5965166908563,0,199 bay state,3,199 bay state road,Residential,145.92510525681035,No
+199 bay state 4,546.0530973451328,0,199 bay state,4,199 bay state road,Residential,145.92510525681035,No
+199 bay state b,158.45901639344262,0,199 bay state,b,199 bay state road,Residential,145.92510525681035,No
+1a buswell 1,771.9183673469388,0,1a buswell,1,1a buswell street,Residential,432.6740547788965,No
+1a buswell 2,1035.8009049773757,0,1a buswell,2,1a buswell street,Residential,432.6740547788965,No
+1a buswell 3,495.7798165137615,0,1a buswell,3,1a buswell street,Residential,432.6740547788965,No
+1a buswell 4,928.9219330855019,0,1a buswell,4,1a buswell street,Residential,432.6740547788965,No
+1a buswell b,312.2315112540193,0,1a buswell,b,1a buswell street,Residential,432.6740547788965,No
+2 buswell 2,664.3059617547806,0,2 buswell,2,2 buswell street,Residential,371.3602995801243,No
+2 buswell 3,751.6430020283976,0,2 buswell,3,2 buswell street,Residential,371.3602995801243,No
+2 buswell 4,944.4082433758585,0,2 buswell,4,2 buswell street,Residential,371.3602995801243,No
+2 buswell b,473.5343680709534,0,2 buswell,b,2 buswell street,Residential,371.3602995801243,No
+2 cummington mall 1,1519.1499051233395,0,2 cummington mall,1,2 cummington mall,Research,0.0,Yes
+2 cummington mall 2,93.96610169491525,1,2 cummington mall,2,2 cummington mall,Research,0.0,Yes
+2 cummington mall 3,2924.666666666667,0,2 cummington mall,3,2 cummington mall,Research,0.0,Yes
+2 cummington mall 4,272.41157556270093,1,2 cummington mall,4,2 cummington mall,Research,0.0,Yes
+2 cummington mall 5,1009.4680259499537,0,2 cummington mall,5,2 cummington mall,Research,0.0,Yes
+2 cummington mall b,235.8709677419355,0,2 cummington mall,b,2 cummington mall,Research,0.0,Yes
+2 raleigh 2,1403.496417604913,0,2 raleigh,2,2 raleigh street,Residential,303.5651680934913,No
+2 raleigh 3,979.3846153846154,0,2 raleigh,3,2 raleigh street,Residential,303.5651680934913,No
+2 raleigh 4,739.9890410958903,0,2 raleigh,4,2 raleigh street,Residential,303.5651680934913,No
+2 raleigh b,1045.5163398692812,0,2 raleigh,b,2 raleigh street,Residential,303.5651680934913,No
+2 silber way 1,32581.51111111111,1,2 silber way,1,2 silber way,Academic,0.0,Yes
+2 silber way 2,5057.417852522639,1,2 silber way,2,2 silber way,Academic,0.0,Yes
+2 silber way 3,1745.9714285714285,1,2 silber way,3,2 silber way,Academic,0.0,Yes
+2 silber way 4,2498.596562184024,1,2 silber way,4,2 silber way,Academic,0.0,Yes
+2 silber way 5,645.1515151515151,0,2 silber way,5,2 silber way,Academic,0.0,Yes
+2 silber way 6,244.8888888888889,0,2 silber way,6,2 silber way,Academic,0.0,Yes
+2 silber way 7,495.7122302158273,1,2 silber way,7,2 silber way,Academic,0.0,Yes
+2 silber way b,944.9234507897934,0,2 silber way,b,2 silber way,Academic,0.0,Yes
+200-202 bay state 2,1919.5658914728683,0,200-202 bay state,2,200-202 bay state road,Residential,53.92224284253881,No
+200-202 bay state 3,1407.225806451613,0,200-202 bay state,3,200-202 bay state road,Residential,53.92224284253881,No
+200-202 bay state 4,1934.1234567901236,0,200-202 bay state,4,200-202 bay state road,Residential,53.92224284253881,No
+200-202 bay state b,689.0622406639004,0,200-202 bay state,b,200-202 bay state road,Residential,53.92224284253881,No
+201 bay state 1,271.7444089456869,0,201 bay state,1,201 bay state road,Residential,148.39485768308063,No
+201 bay state 2,1215.223404255319,0,201 bay state,2,201 bay state road,Residential,148.39485768308063,No
+201 bay state 3,576.6409495548962,0,201 bay state,3,201 bay state road,Residential,148.39485768308063,No
+201 bay state 4,773.670731707317,0,201 bay state,4,201 bay state road,Residential,148.39485768308063,No
+201 bay state b,116.40944881889764,0,201 bay state,b,201 bay state road,Residential,148.39485768308063,No
+203 bay state 1,536.398133748056,0,203 bay state,1,203 bay state road,Residential,155.56903970302884,No
+203 bay state 2,648.9946524064171,0,203 bay state,2,203 bay state road,Residential,155.56903970302884,No
+203 bay state 3,578.3116147308781,0,203 bay state,3,203 bay state road,Residential,155.56903970302884,No
+203 bay state 4,919.7347480106101,0,203 bay state,4,203 bay state road,Residential,155.56903970302884,No
+203 bay state b,163.81563126252507,0,203 bay state,b,203 bay state road,Residential,155.56903970302884,No
+204 bay state 2,868.8780487804878,0,204 bay state,2,204 bay state road,Residential,80.88336426549995,No
+204 bay state 3,429.54112554112555,0,204 bay state,3,204 bay state road,Residential,80.88336426549995,No
+204 bay state 4,866.5568181818182,0,204 bay state,4,204 bay state road,Residential,80.88336426549995,No
+204 bay state b,233.17034068136275,0,204 bay state,b,204 bay state road,Residential,80.88336426549995,No
+205 bay state 2,704.0762942779292,0,205 bay state,2,205 bay state road,Residential,166.8418812132777,No
+205 bay state 3,594.0874635568513,0,205 bay state,3,205 bay state road,Residential,166.8418812132777,No
+205 bay state 4,813.6366158113731,0,205 bay state,4,205 bay state road,Residential,166.8418812132777,No
+205 bay state b,149.8046511627907,0,205 bay state,b,205 bay state road,Residential,166.8418812132777,No
+206 bay state 2,674.7188811188811,0,206 bay state,2,206 bay state road,Residential,107.84448569186316,No
+206 bay state 3,514.2306569343066,0,206 bay state,3,206 bay state road,Residential,107.84448569186316,No
+206 bay state 4,719.3872340425532,0,206 bay state,4,206 bay state road,Residential,107.84448569186316,No
+206 bay state b,188.55605381165918,0,206 bay state,b,206 bay state road,Residential,107.84448569186316,No
+207 bay state 2,680.8767123287671,0,207 bay state,2,207 bay state road,Residential,181.4510827339431,No
+207 bay state 3,801.5337931034483,0,207 bay state,3,207 bay state road,Residential,181.4510827339431,No
+207 bay state 4,790.2983751846381,0,207 bay state,4,207 bay state road,Residential,181.4510827339431,No
+207 bay state b,1061.5422177009157,0,207 bay state,b,207 bay state road,Residential,181.4510827339431,No
+208 bay state 2,871.2131147540983,0,208 bay state,2,208 bay state road,Residential,139.6545964869512,No
+208 bay state 3,594.356940509915,0,208 bay state,3,208 bay state road,Residential,139.6545964869512,No
+208 bay state 4,854.8523206751055,0,208 bay state,4,208 bay state road,Residential,139.6545964869512,No
+208 bay state b,238.61946902654864,0,208 bay state,b,208 bay state road,Residential,139.6545964869512,No
+209 bay state 2,848.9561752988047,0,209 bay state,2,209 bay state road,Residential,181.4510827339431,No
+209 bay state 3,856.1091405184175,0,209 bay state,3,209 bay state road,Residential,181.4510827339431,No
+209 bay state 4,601.1412587412588,0,209 bay state,4,209 bay state road,Residential,181.4510827339431,No
+209 bay state b,946.9122807017543,0,209 bay state,b,209 bay state road,Residential,181.4510827339431,No
+210-212 bay state 1,249.63210702341138,0,210-212 bay state,1,210-212 bay state road,Residential,165.82917822276994,No
+210-212 bay state 2,2096.3030303030305,0,210-212 bay state,2,210-212 bay state road,Residential,165.82917822276994,No
+210-212 bay state 3,2341.830985915493,0,210-212 bay state,3,210-212 bay state road,Residential,165.82917822276994,No
+210-212 bay state 4,2088.6829268292686,0,210-212 bay state,4,210-212 bay state road,Residential,165.82917822276994,No
+210-212 bay state b,1229.4814814814813,0,210-212 bay state,b,210-212 bay state road,Residential,165.82917822276994,No
+213 bay state 1,1625.2,0,213 bay state,1,213 bay state road,Student Support,217.8585803010164,Yes
+213 bay state 2,2825.8008968609865,0,213 bay state,2,213 bay state road,Student Support,217.8585803010164,Yes
+213 bay state 3,1205.968253968254,0,213 bay state,3,213 bay state road,Student Support,217.8585803010164,Yes
+213 bay state 4,1830.7016129032259,0,213 bay state,4,213 bay state road,Student Support,217.8585803010164,Yes
+213 bay state b,377.56424581005587,0,213 bay state,b,213 bay state road,Student Support,217.8585803010164,Yes
+214 bay state 10,576.0,0,214 bay state,10,214 bay state road,Residential,161.7664711777346,No
+214 bay state 2,541.4030261348005,0,214 bay state,2,214 bay state road,Residential,161.7664711777346,No
+214 bay state 3,439.2396694214876,0,214 bay state,3,214 bay state road,Residential,161.7664711777346,No
+214 bay state 4,444.2666666666667,0,214 bay state,4,214 bay state road,Residential,161.7664711777346,No
+214 bay state b,247.29795918367347,0,214 bay state,b,214 bay state road,Residential,161.7664711777346,No
+22 buswell 1,756.9130434782609,0,22 buswell,1,22 buswell street,Residential,613.4546841207886,No
+22 buswell 2,1572.2015677491602,0,22 buswell,2,22 buswell street,Residential,613.4546841207886,No
+22 buswell 3,1629.0226537216827,0,22 buswell,3,22 buswell street,Residential,613.4546841207886,No
+22 buswell 4,1630.9828178694156,0,22 buswell,4,22 buswell street,Residential,613.4546841207886,No
+22 buswell b,464.88256227758006,0,22 buswell,b,22 buswell street,Residential,613.4546841207886,No
+225 bay state 1,1019.2282471626734,0,225 bay state,1,225 bay state road,Student Support,80.8825921821826,Yes
+225 bay state 2,506.1095100864553,0,225 bay state,2,225 bay state road,Student Support,80.8825921821826,Yes
+225 bay state 3,602.9352517985611,0,225 bay state,3,225 bay state road,Student Support,80.8825921821826,Yes
+225 bay state b,2512.9294605809127,0,225 bay state,b,225 bay state road,Student Support,80.8825921821826,Yes
+226 bay state 1,2777.490054249548,1,226 bay state,1,226 bay state road,Academic,0.0,No
+226 bay state 3,1110.8108108108108,1,226 bay state,3,226 bay state road,Academic,0.0,No
+226 bay state 5,1211.458064516129,0,226 bay state,5,226 bay state road,Academic,0.0,No
+226 bay state b,1598.7605633802816,0,226 bay state,b,226 bay state road,Academic,0.0,No
+232 bay state 1,1093.3302217036173,0,232 bay state,1,232 bay state road,Academic,65.10359373381013,No
+232 bay state 3,1586.2780441035475,0,232 bay state,3,232 bay state road,Academic,65.10359373381013,No
+232 bay state 5,1507.3021276595746,0,232 bay state,5,232 bay state road,Academic,65.10359373381013,No
+233 bay state 1,2084.118598382749,1,233 bay state,1,233 bay state road,Academic,0.0,Yes
+233 bay state 2,847.6875,1,233 bay state,2,233 bay state road,Academic,0.0,Yes
+233 bay state 3,1035.7698289269051,1,233 bay state,3,233 bay state road,Academic,0.0,Yes
+233 bay state b,274.572347266881,0,233 bay state,b,233 bay state road,Academic,0.0,Yes
+236 bay state 1,1152.7272727272727,0,236 bay state,1,236 bay state road,Academic,136.08812085052256,No
+236 bay state 3,1125.8127340823971,0,236 bay state,3,236 bay state road,Academic,136.08812085052256,No
+236 bay state 5,839.6484687083887,0,236 bay state,5,236 bay state road,Academic,136.08812085052256,No
+236 bay state b,3397.8743267504487,0,236 bay state,b,236 bay state road,Academic,136.08812085052256,No
+24 buswell 1,787.1820728291316,0,24 buswell,1,24 buswell street,Residential,640.9333187391169,No
+24 buswell 11,318.6288209606987,0,24 buswell,11,24 buswell street,Residential,640.9333187391169,No
+24 buswell 2,1424.9969104016477,0,24 buswell,2,24 buswell street,Residential,640.9333187391169,No
+24 buswell 3,1098.1239669421489,0,24 buswell,3,24 buswell street,Residential,640.9333187391169,No
+24 buswell 4,1834.6153846153848,0,24 buswell,4,24 buswell street,Residential,640.9333187391169,No
+24 buswell b,512.7222857142857,0,24 buswell,b,24 buswell street,Residential,640.9333187391169,No
+24 cottage farm 3,852.3488372093022,0,24 cottage farm,3,24 cottage farm road,Residential,610.0339561769019,Partial
+24 cottage farm b,167.25827814569539,0,24 cottage farm,b,24 cottage farm road,Residential,610.0339561769019,Partial
+24 cottage farm m,92.65822784810126,0,24 cottage farm,m,24 cottage farm road,Residential,610.0339561769019,Partial
+24 cummington mall 1,4783.242477876107,1,24 cummington mall,1,24 cummington mall,Research,0.0,Yes
+24 cummington mall 2,1951.710843373494,0,24 cummington mall,2,24 cummington mall,Research,0.0,Yes
+24 cummington mall 3,1648.495897903373,0,24 cummington mall,3,24 cummington mall,Research,0.0,Yes
+24 cummington mall 4,2442.394160583942,0,24 cummington mall,4,24 cummington mall,Research,0.0,Yes
+24 cummington mall 5,2114.517333333333,0,24 cummington mall,5,24 cummington mall,Research,0.0,Yes
+24 cummington mall 6,1998.3054545454547,0,24 cummington mall,6,24 cummington mall,Research,0.0,Yes
+24 cummington mall 7,2068.921409214092,0,24 cummington mall,7,24 cummington mall,Research,0.0,Yes
+24 cummington mall 8,2284.3656927426955,0,24 cummington mall,8,24 cummington mall,Research,0.0,Yes
+24 cummington mall 9,1963.6423963133639,0,24 cummington mall,9,24 cummington mall,Research,0.0,Yes
+24 cummington mall b,5935.329341317365,0,24 cummington mall,b,24 cummington mall,Research,0.0,Yes
+24 cummington mall p,64.0,0,24 cummington mall,p,24 cummington mall,Research,0.0,Yes
+25 aberdeen 1,1022.5526838966202,0,25 aberdeen,1,25 aberdeen street,Residential,986.090582678528,No
+25 aberdeen 3,281.4723926380368,0,25 aberdeen,3,25 aberdeen street,Residential,986.090582678528,No
+25 aberdeen b,1771.2608695652175,0,25 aberdeen,b,25 aberdeen street,Residential,986.090582678528,No
+25 buick 1,6329.462289263531,0,25 buick,1,25 buick street,Administrative,0.0,Yes
+25 buick 2,6969.409691629956,0,25 buick,2,25 buick street,Administrative,0.0,Yes
+25 buick 3,4126.977334542157,1,25 buick,3,25 buick street,Administrative,0.0,Yes
+264-270 bay state 1,10356.021238938054,0,264-270 bay state,1,264-270 bay state road,Academic,410.9426936340848,No
+264-270 bay state 2,2812.5261121856865,0,264-270 bay state,2,264-270 bay state road,Academic,410.9426936340848,No
+264-270 bay state 3,2336.865938430983,0,264-270 bay state,3,264-270 bay state road,Academic,410.9426936340848,No
+264-270 bay state 4,666.4827586206897,0,264-270 bay state,4,264-270 bay state road,Academic,410.9426936340848,No
+264-270 bay state 5,1637.4570135746606,0,264-270 bay state,5,264-270 bay state road,Academic,410.9426936340848,No
+264-270 bay state b,1542.2165605095543,0,264-270 bay state,b,264-270 bay state road,Academic,410.9426936340848,No
+27 aberdeen 1,577.9439252336449,0,27 aberdeen,1,27 aberdeen street,Residential,1014.4451961418484,No
+27 aberdeen 2,1823.2894736842106,0,27 aberdeen,2,27 aberdeen street,Residential,1014.4451961418484,No
+27 aberdeen 3,632.6720368239355,0,27 aberdeen,3,27 aberdeen street,Residential,1014.4451961418484,No
+27 aberdeen b,485.79310344827593,0,27 aberdeen,b,27 aberdeen street,Residential,1014.4451961418484,No
+273 babcock 1,12104.866242038217,1,273 babcock,1,273 babcock street,Residential,0.0,Yes
+273 babcock 10,794.5,0,273 babcock,10,273 babcock street,Residential,0.0,Yes
+273 babcock 11,595.3648068669528,0,273 babcock,11,273 babcock street,Residential,0.0,Yes
+273 babcock 12,805.3597733711049,0,273 babcock,12,273 babcock street,Residential,0.0,Yes
+273 babcock 13,417.93832599118946,0,273 babcock,13,273 babcock street,Residential,0.0,Yes
+273 babcock 2,2101.5513812154695,0,273 babcock,2,273 babcock street,Residential,0.0,Yes
+273 babcock 21,60.52173913043478,0,273 babcock,21,273 babcock street,Residential,0.0,Yes
+273 babcock 3,3229.5878524945774,0,273 babcock,3,273 babcock street,Residential,0.0,Yes
+273 babcock 30,120.47761194029852,0,273 babcock,30,273 babcock street,Residential,0.0,Yes
+273 babcock 4,2812.5197080291973,0,273 babcock,4,273 babcock street,Residential,0.0,Yes
+273 babcock 5,3282.6046511627906,0,273 babcock,5,273 babcock street,Residential,0.0,Yes
+273 babcock 6,2393.2884333821376,0,273 babcock,6,273 babcock street,Residential,0.0,Yes
+273 babcock 7,3565.5882352941176,0,273 babcock,7,273 babcock street,Residential,0.0,Yes
+273 babcock 8,2812.4430379746836,0,273 babcock,8,273 babcock street,Residential,0.0,Yes
+273 babcock 9,4246.219435736677,0,273 babcock,9,273 babcock street,Residential,0.0,Yes
+273 babcock b,2296.5387205387206,0,273 babcock,b,273 babcock street,Residential,0.0,Yes
+275 babcock 1,32336.393673110724,1,275 babcock,1,275 babcock street,Residential,0.0,Yes
+275 babcock 11,208.7875647668394,0,275 babcock,11,275 babcock street,Residential,0.0,Yes
+275 babcock 12,93.375,0,275 babcock,12,275 babcock street,Residential,0.0,Yes
+275 babcock 13,284.9577464788732,0,275 babcock,13,275 babcock street,Residential,0.0,Yes
+275 babcock 2,4505.729479768786,0,275 babcock,2,275 babcock street,Residential,0.0,Yes
+275 babcock 3,4503.3265993265995,0,275 babcock,3,275 babcock street,Residential,0.0,Yes
+275 babcock 4,3113.4149659863947,0,275 babcock,4,275 babcock street,Residential,0.0,Yes
+275 babcock 5,4802.075829383886,0,275 babcock,5,275 babcock street,Residential,0.0,Yes
+275 babcock 6,2984.3599419448474,0,275 babcock,6,275 babcock street,Residential,0.0,Yes
+275 babcock 7,4418.036775106082,0,275 babcock,7,275 babcock street,Residential,0.0,Yes
+275 babcock 8,2314.253164556962,0,275 babcock,8,275 babcock street,Residential,0.0,Yes
+275 babcock 9,3793.827232796486,0,275 babcock,9,275 babcock street,Residential,0.0,Yes
+275 babcock b,1801.2342857142858,0,275 babcock,b,275 babcock street,Residential,0.0,Yes
+277 babcock 1,14194.285714285714,1,277 babcock,1,277 babcock street,Residential,0.0,Yes
+277 babcock 10,3565.8645418326696,0,277 babcock,10,277 babcock street,Residential,0.0,Yes
+277 babcock 11,2641.254545454545,0,277 babcock,11,277 babcock street,Residential,0.0,Yes
+277 babcock 12,1594.6976744186045,0,277 babcock,12,277 babcock street,Residential,0.0,Yes
+277 babcock 13,1965.792,0,277 babcock,13,277 babcock street,Residential,0.0,Yes
+277 babcock 2,2247.940520446097,0,277 babcock,2,277 babcock street,Residential,0.0,Yes
+277 babcock 3,4445.511961722488,0,277 babcock,3,277 babcock street,Residential,0.0,Yes
+277 babcock 4,3047.2289156626507,0,277 babcock,4,277 babcock street,Residential,0.0,Yes
+277 babcock 5,4167.407407407407,0,277 babcock,5,277 babcock street,Residential,0.0,Yes
+277 babcock 6,3219.915407854985,0,277 babcock,6,277 babcock street,Residential,0.0,Yes
+277 babcock 7,4550.566844919786,0,277 babcock,7,277 babcock street,Residential,0.0,Yes
+277 babcock 8,3184.0366972477063,0,277 babcock,8,277 babcock street,Residential,0.0,Yes
+277 babcock 9,5140.27149321267,0,277 babcock,9,277 babcock street,Residential,0.0,Yes
+277 babcock b,3538.42259006816,0,277 babcock,b,277 babcock street,Residential,0.0,Yes
+277 babcock s,1646.5734265734268,0,277 babcock,s,277 babcock street,Residential,0.0,Yes
+278 babcock F,179.43529411764706,0,278 babcock,F,278 babcock street,Parking,317.5334164834365,Parking Garage
+278 babcock f,9952.06332453826,0,278 babcock,f,278 babcock street,Parking,317.5334164834365,Parking Garage
+285 babcock 1,298.33846153846156,0,285 babcock,1,285 babcock street,Athletic,199.53317641846385,Yes
+285 babcock 2,4346.56913470116,0,285 babcock,2,285 babcock street,Athletic,199.53317641846385,Yes
+285 babcock 3,1974.420927467301,0,285 babcock,3,285 babcock street,Athletic,199.53317641846385,Yes
+285 babcock 4,4184.641750227895,0,285 babcock,4,285 babcock street,Athletic,199.53317641846385,Yes
+285 babcock b,3434.745387453874,0,285 babcock,b,285 babcock street,Athletic,199.53317641846385,Yes
+285 babcock s,390.75862068965523,0,285 babcock,s,285 babcock street,Athletic,199.53317641846385,Yes
+29 buswell 1,956.100580270793,0,29 buswell,1,29 buswell street,Residential,570.6302572007065,No
+29 buswell 3,1201.117808219178,0,29 buswell,3,29 buswell street,Residential,570.6302572007065,No
+29 buswell b,400.4916201117319,0,29 buswell,b,29 buswell street,Residential,570.6302572007065,No
+3 - 5 cummington mall 1,8202.217122683141,0,3 - 5 cummington mall,1,3 - 5 cummington mall,Research,122.00694289499197,
+3 - 5 cummington mall 2,5024.981333333333,0,3 - 5 cummington mall,2,3 - 5 cummington mall,Research,122.00694289499197,
+3 - 5 cummington mall 3,2337.169811320755,0,3 - 5 cummington mall,3,3 - 5 cummington mall,Research,122.00694289499197,
+3 - 5 cummington mall 4,2306.356940509915,0,3 - 5 cummington mall,4,3 - 5 cummington mall,Research,122.00694289499197,
+3 - 5 cummington mall 5,1823.1529411764707,0,3 - 5 cummington mall,5,3 - 5 cummington mall,Research,122.00694289499197,
+3 - 5 cummington mall b,873.1807228915663,0,3 - 5 cummington mall,b,3 - 5 cummington mall,Research,122.00694289499197,
+3 buswell 2,431.26650366748163,0,3 buswell,2,3 buswell street,Residential,476.7257790459303,No
+3 buswell 3,468.51063829787233,0,3 buswell,3,3 buswell street,Residential,476.7257790459303,No
+3 buswell 4,642.24,0,3 buswell,4,3 buswell street,Residential,476.7257790459303,No
+3 buswell b,257.8697829716194,0,3 buswell,b,3 buswell street,Residential,476.7257790459303,No
+30 harry agganis way k,628.9607390300231,0,30 harry agganis way,k,30 harry agganis way,Administrative,283.1407910967839,No
+30 harry agganis way p,25303.56453028973,0,30 harry agganis way,p,30 harry agganis way,Administrative,283.1407910967839,No
+30-38 cummington mall 1,1414.6829268292684,0,30-38 cummington mall,1,30-38 cummington mall,Research,139.65852979639524,Yes
+30-38 cummington mall 2,2002.4565217391303,0,30-38 cummington mall,2,30-38 cummington mall,Research,139.65852979639524,Yes
+30-38 cummington mall 3,1299.4505494505493,0,30-38 cummington mall,3,30-38 cummington mall,Research,139.65852979639524,Yes
+30-38 cummington mall b,230.70355731225294,0,30-38 cummington mall,b,30-38 cummington mall,Research,139.65852979639524,Yes
+300 babcock 1,5263.825592417062,1,300 babcock,1,300 babcock street,Athletic,0.0,Yes
+300 babcock 2,9023.391304347826,0,300 babcock,2,300 babcock street,Athletic,0.0,Yes
+300 babcock 3,2702.363636363636,0,300 babcock,3,300 babcock street,Athletic,0.0,Yes
+31 buswell 2,714.8333333333333,0,31 buswell,2,31 buswell street,Residential,613.4546841197332,No
+31 buswell 3,579.0714285714286,0,31 buswell,3,31 buswell street,Residential,613.4546841197332,No
+31 buswell b,173.74789915966386,0,31 buswell,b,31 buswell street,Residential,613.4546841197332,No
+32 harry agganis way 1,3052.056338028169,0,32 harry agganis way,1,32 harry agganis way,Administrative,266.1826039465245,Yes
+32 harry agganis way 2,2135.759781619654,0,32 harry agganis way,2,32 harry agganis way,Administrative,266.1826039465245,Yes
+32 harry agganis way 3,220.77272727272728,0,32 harry agganis way,3,32 harry agganis way,Administrative,266.1826039465245,Yes
+33 buswell 1,331.9472295514512,0,33 buswell,1,33 buswell street,Residential,622.2787754371734,No
+33 buswell 2,904.1269841269841,0,33 buswell,2,33 buswell street,Residential,622.2787754371734,No
+33 buswell 3,968.9793672627236,0,33 buswell,3,33 buswell street,Residential,622.2787754371734,No
+33 buswell b,470.0093023255814,0,33 buswell,b,33 buswell street,Residential,622.2787754371734,No
+33 harry agganis way 1,39148.09703504043,1,33 harry agganis way,1,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 10,386.7522935779817,0,33 harry agganis way,10,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 11,4012.4893832153693,0,33 harry agganis way,11,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 12,1760.9830890642615,0,33 harry agganis way,12,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 13,3108.7613293051354,0,33 harry agganis way,13,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 14,3415.361963190184,0,33 harry agganis way,14,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 15,3387.099173553719,0,33 harry agganis way,15,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 16,813.289871944121,0,33 harry agganis way,16,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 17,2356.4518134715026,0,33 harry agganis way,17,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 18,1158.7147540983606,0,33 harry agganis way,18,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 19,655.0933333333334,0,33 harry agganis way,19,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 2,16269.145374449337,1,33 harry agganis way,2,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 20,378.18086500655306,0,33 harry agganis way,20,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 22,390.43902439024396,0,33 harry agganis way,22,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 3,4622.226450999048,0,33 harry agganis way,3,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 4,6327.312320916906,0,33 harry agganis way,4,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 5,5425.930486593843,0,33 harry agganis way,5,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 6,4843.778202676864,0,33 harry agganis way,6,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 7,5030.290258449304,0,33 harry agganis way,7,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 8,4543.018645731109,0,33 harry agganis way,8,33 harry agganis way,Residential,0.0,Yes
+33 harry agganis way 9,5056.070175438596,0,33 harry agganis way,9,33 harry agganis way,Residential,0.0,Yes
+34 buswell 2,1690.7707317073173,0,34 buswell,2,34 buswell street,Residential,701.484269222283,No
+34 buswell 3,1176.4137931034481,0,34 buswell,3,34 buswell street,Residential,701.484269222283,No
+34 buswell 4,1100.2168978562422,0,34 buswell,4,34 buswell street,Residential,701.484269222283,No
+34 buswell 5,1683.807285546416,0,34 buswell,5,34 buswell street,Residential,701.484269222283,No
+34 buswell b,1885.211726384365,0,34 buswell,b,34 buswell street,Residential,701.484269222283,No
+35 buswell 2,654.8259385665528,0,35 buswell,2,35 buswell street,Residential,625.4341389990361,No
+35 buswell 3,482.8294036061026,0,35 buswell,3,35 buswell street,Residential,625.4341389990361,No
+35 buswell b,945.0157397691501,0,35 buswell,b,35 buswell street,Residential,625.4341389990361,No
+37 buswell 1,589.3961218836565,0,37 buswell,1,37 buswell street,Residential,629.4890725125431,No
+37 buswell 2,612.2475928473177,0,37 buswell,2,37 buswell street,Residential,629.4890725125431,No
+37 buswell 3,788.5116279069766,0,37 buswell,3,37 buswell street,Residential,629.4890725125431,No
+37-39 carlton 2,1898.9447852760736,0,37-39 carlton,2,37-39 carlton street,Residential,1730.702184534396,No
+37-39 carlton 3,1562.7102040816326,0,37-39 carlton,3,37-39 carlton street,Residential,1730.702184534396,No
+37-39 carlton 4,1845.5779816513764,0,37-39 carlton,4,37-39 carlton street,Residential,1730.702184534396,No
+37-39 carlton b,494.8974093264249,0,37-39 carlton,b,37-39 carlton street,Residential,1730.702184534396,No
+38 buswell 2,625.0588235294117,0,38 buswell,2,38 buswell street,Residential,711.7718847166205,No
+38 buswell 3,675.1595744680851,0,38 buswell,3,38 buswell street,Residential,711.7718847166205,No
+38 buswell 4,895.0862068965519,0,38 buswell,4,38 buswell street,Residential,711.7718847166205,No
+38 buswell 5,741.2200772200772,0,38 buswell,5,38 buswell street,Residential,711.7718847166205,No
+38 buswell b,1311.786350148368,0,38 buswell,b,38 buswell street,Residential,711.7718847166205,No
+39 buswell 2,466.0874035989717,0,39 buswell,2,39 buswell street,Residential,629.4890725125431,No
+39 buswell 3,289.353507565337,0,39 buswell,3,39 buswell street,Residential,629.4890725125431,No
+39 buswell b,933.7483443708609,0,39 buswell,b,39 buswell street,Residential,629.4890725125431,No
+40 buswell 2,903.734870317003,0,40 buswell,2,40 buswell street,Residential,747.3444419036778,No
+40 buswell 3,1232.084210526316,0,40 buswell,3,40 buswell street,Residential,747.3444419036778,No
+40 buswell 4,770.508038585209,0,40 buswell,4,40 buswell street,Residential,747.3444419036778,No
+40 buswell 5,1537.6066945606694,0,40 buswell,5,40 buswell street,Residential,747.3444419036778,No
+40 buswell b,594.3333333333334,0,40 buswell,b,40 buswell street,Residential,747.3444419036778,No
+41 buswell 1,460.55944055944053,0,41 buswell,1,41 buswell street,Residential,670.3580902031758,No
+41 buswell 2,228.94332723948813,0,41 buswell,2,41 buswell street,Residential,670.3580902031758,No
+41 buswell 3,406.47091412742384,0,41 buswell,3,41 buswell street,Residential,670.3580902031758,No
+41 buswell b,235.97626112759644,0,41 buswell,b,41 buswell street,Residential,670.3580902031758,No
+42 buswell 1,433.83333333333337,0,42 buswell,1,42 buswell street,Residential,753.6405663292943,No
+42 buswell 2,1705.671782762692,0,42 buswell,2,42 buswell street,Residential,753.6405663292943,No
+42 buswell 3,1284.6767537826686,0,42 buswell,3,42 buswell street,Residential,753.6405663292943,No
+42 buswell 4,1446.5780189959296,0,42 buswell,4,42 buswell street,Residential,753.6405663292943,No
+42 buswell 5,1358.6145251396647,0,42 buswell,5,42 buswell street,Residential,753.6405663292943,No
+42 buswell b,725.0666666666667,0,42 buswell,b,42 buswell street,Residential,753.6405663292943,No
+43 buswell 2,1033.2337821297428,0,43 buswell,2,43 buswell street,Residential,676.2960895113295,No
+43 buswell 3,442.5129682997118,0,43 buswell,3,43 buswell street,Residential,676.2960895113295,No
+43 buswell b,532.3529411764705,0,43 buswell,b,43 buswell street,Residential,676.2960895113295,No
+44 buswell 1,310.8423005565863,0,44 buswell,1,44 buswell street,Residential,768.9191099664594,No
+44 buswell 2,1596.6253101736975,0,44 buswell,2,44 buswell street,Residential,768.9191099664594,No
+44 buswell 3,1516.0531914893618,0,44 buswell,3,44 buswell street,Residential,768.9191099664594,No
+44 buswell 4,1352.9622377622377,0,44 buswell,4,44 buswell street,Residential,768.9191099664594,No
+44 buswell 5,2020.6770981507825,0,44 buswell,5,44 buswell street,Residential,768.9191099664594,No
+44 buswell b,661.8696132596685,0,44 buswell,b,44 buswell street,Residential,768.9191099664594,No
+44 cummington mall 1,1521.771986970684,1,44 cummington mall,1,44 cummington mall,Research,0.0,Yes
+44 cummington mall 2,2446.921875,0,44 cummington mall,2,44 cummington mall,Research,0.0,Yes
+44 cummington mall 3,1456.2821576763486,0,44 cummington mall,3,44 cummington mall,Research,0.0,Yes
+44 cummington mall 4,1160.9219330855017,1,44 cummington mall,4,44 cummington mall,Research,0.0,Yes
+44 cummington mall 5,1414.8107036669971,0,44 cummington mall,5,44 cummington mall,Research,0.0,Yes
+44 cummington mall 6,664.3963133640552,1,44 cummington mall,6,44 cummington mall,Research,0.0,Yes
+44 cummington mall 7,2172.91280148423,0,44 cummington mall,7,44 cummington mall,Research,0.0,Yes
+44 cummington mall b,913.5,0,44 cummington mall,b,44 cummington mall,Research,0.0,Yes
+44 cummington mall p,144.0,0,44 cummington mall,p,44 cummington mall,Research,0.0,Yes
+45 buswell 2,664.7690100430416,0,45 buswell,2,45 buswell street,Residential,683.2471945986539,No
+45 buswell 3,894.5895953757224,0,45 buswell,3,45 buswell street,Residential,683.2471945986539,No
+45 buswell b,691.5326086956522,0,45 buswell,b,45 buswell street,Residential,683.2471945986539,No
+455 park drive 1,765.6028880866426,0,455 park drive,1,455 park drive,Residential,1064.7926770102713,No
+455 park drive 2,705.1914893617022,0,455 park drive,2,455 park drive,Residential,1064.7926770102713,No
+455 park drive 3,1171.1910531220876,0,455 park drive,3,455 park drive,Residential,1064.7926770102713,No
+455 park drive b,100.9655172413793,0,455 park drive,b,455 park drive,Residential,1064.7926770102713,No
+457 park drive 1,593.5197438633938,0,457 park drive,1,457 park drive,Residential,1031.13837974433,No
+457 park drive 2,643.3679999999999,0,457 park drive,2,457 park drive,Residential,1031.13837974433,No
+457 park drive 3,1127.6162046908316,0,457 park drive,3,457 park drive,Residential,1031.13837974433,No
+457 park drive b,261.8536585365854,0,457 park drive,b,457 park drive,Residential,1031.13837974433,No
+46 mountfort 1,2374.851985559567,0,46 mountfort,1,46 mountfort street,Residential,321.481522286485,No
+46 mountfort 10,213.4017094017094,0,46 mountfort,10,46 mountfort street,Residential,321.481522286485,No
+46 mountfort 2,2480.6091743119264,0,46 mountfort,2,46 mountfort street,Residential,321.481522286485,No
+46 mountfort 3,2209.8299120234606,0,46 mountfort,3,46 mountfort street,Residential,321.481522286485,No
+46 mountfort 4,2649.500982318271,0,46 mountfort,4,46 mountfort street,Residential,321.481522286485,No
+46 mountfort b,146.9328743545611,0,46 mountfort,b,46 mountfort street,Residential,321.481522286485,No
+47 buswell 2,510.134529147982,0,47 buswell,2,47 buswell street,Residential,683.2471945986539,No
+47 buswell 3,1182.0,0,47 buswell,3,47 buswell street,Residential,683.2471945986539,No
+47 buswell b,1052.96875,0,47 buswell,b,47 buswell street,Residential,683.2471945986539,No
+48 buswell 1,217.93788819875778,0,48 buswell,1,48 buswell street,Residential,809.8017483356812,No
+48 buswell 2,1573.1935828877004,0,48 buswell,2,48 buswell street,Residential,809.8017483356812,No
+48 buswell 3,911.5714285714284,0,48 buswell,3,48 buswell street,Residential,809.8017483356812,No
+48 buswell 4,934.2175066312997,0,48 buswell,4,48 buswell street,Residential,809.8017483356812,No
+48 buswell 5,1724.1123110151186,0,48 buswell,5,48 buswell street,Residential,809.8017483356812,No
+48 buswell b,689.7684210526315,0,48 buswell,b,48 buswell street,Residential,809.8017483356812,No
+48-52 cummington mall 1,3310.9287991498404,0,48-52 cummington mall,1,48-52 cummington mall,Research,139.65832277895055,Yes
+48-52 cummington mall 2,1195.4754098360654,0,48-52 cummington mall,2,48-52 cummington mall,Research,139.65832277895055,Yes
+48-52 cummington mall b,1017.2631578947368,0,48-52 cummington mall,b,48-52 cummington mall,Research,139.65832277895055,Yes
+481 commonwealth 1,229.0845481049563,0,481 commonwealth,1,481 commonwealth avenue,Residential,173.6402518719075,No
+481 commonwealth 2,622.9253731343283,0,481 commonwealth,2,481 commonwealth avenue,Residential,173.6402518719075,No
+481 commonwealth 3,419.7793493635078,0,481 commonwealth,3,481 commonwealth avenue,Residential,173.6402518719075,No
+481 commonwealth 4,791.3539703903095,0,481 commonwealth,4,481 commonwealth avenue,Residential,173.6402518719075,No
+481 commonwealth 5,374.1714285714286,0,481 commonwealth,5,481 commonwealth avenue,Residential,173.6402518719075,No
+481 commonwealth b,604.3288343558282,0,481 commonwealth,b,481 commonwealth avenue,Residential,173.6402518719075,No
+483 commonwealth 2,504.7741935483871,0,483 commonwealth,2,483 commonwealth avenue,Residential,,No
+483 commonwealth 3,371.3946587537092,0,483 commonwealth,3,483 commonwealth avenue,Residential,,No
+483 commonwealth 4,1052.7198177676537,0,483 commonwealth,4,483 commonwealth avenue,Residential,,No
+483 commonwealth b,1485.4854771784233,0,483 commonwealth,b,483 commonwealth avenue,Residential,,No
+5 buswell 1,793.2137404580153,0,5 buswell,1,5 buswell street,Residential,476.7257790459303,No
+5 buswell 2,584.1239570917759,0,5 buswell,2,5 buswell street,Residential,476.7257790459303,No
+5 buswell 3,318.8904299583911,0,5 buswell,3,5 buswell street,Residential,476.7257790459303,No
+5 buswell 4,680.2327272727273,0,5 buswell,4,5 buswell street,Residential,476.7257790459303,No
+5 buswell b,216.49602543720192,0,5 buswell,b,5 buswell street,Residential,476.7257790459303,No
+50 worthington 1,126.89999999999999,0,50 worthington,1,50 worthington road,Residential,589.1764323519382,No
+50 worthington 2,168.0,0,50 worthington,2,50 worthington road,Residential,589.1764323519382,No
+50 worthington 3,111.64044943820225,0,50 worthington,3,50 worthington road,Residential,589.1764323519382,No
+50 worthington b,133.71428571428572,0,50 worthington,b,50 worthington road,Residential,589.1764323519382,No
+50-52 buswell 1,1452.4169884169885,0,50-52 buswell,1,50-52 buswell street,Residential,854.5219311048681,No
+50-52 buswell 2,1937.9476236663436,0,50-52 buswell,2,50-52 buswell street,Residential,854.5219311048681,No
+50-52 buswell 3,1197.5525494276794,0,50-52 buswell,3,50-52 buswell street,Residential,854.5219311048681,No
+50-52 buswell 4,1538.6262188515707,0,50-52 buswell,4,50-52 buswell street,Residential,854.5219311048681,No
+500-504 park drive 1,1446.1791044776119,0,500-504 park drive,1,500-504 park drive,Residential,695.2386341554954,No
+500-504 park drive 2,1669.887884267631,0,500-504 park drive,2,500-504 park drive,Residential,695.2386341554954,No
+500-504 park drive 3,1380.2357563850687,0,500-504 park drive,3,500-504 park drive,Residential,695.2386341554954,No
+512 beacon 1,5212.855057351408,1,512 beacon,1,512 beacon street,Residential,0.0,No
+512 beacon 10,572.1081081081081,0,512 beacon,10,512 beacon street,Residential,0.0,No
+512 beacon 2,3316.0145454545454,0,512 beacon,2,512 beacon street,Residential,0.0,No
+512 beacon 3,1779.8045602605862,0,512 beacon,3,512 beacon street,Residential,0.0,No
+512 beacon 4,2532.933187294633,0,512 beacon,4,512 beacon street,Residential,0.0,No
+512 beacon 5,1732.5699481865286,0,512 beacon,5,512 beacon street,Residential,0.0,No
+512 beacon 6,1509.0631578947368,0,512 beacon,6,512 beacon street,Residential,0.0,No
+512 beacon 7,1073.9277108433735,0,512 beacon,7,512 beacon street,Residential,0.0,No
+512 beacon 8,1197.4141414141413,0,512 beacon,8,512 beacon street,Residential,0.0,No
+512 beacon 9,1317.9969650986343,0,512 beacon,9,512 beacon street,Residential,0.0,No
+512 beacon b,1108.2556701030928,0,512 beacon,b,512 beacon street,Residential,0.0,No
+514-522 park drive 1,3250.9632352941176,0,514-522 park drive,1,514-522 park drive,Residential,438.6047975994804,No
+514-522 park drive 2,4090.954248366013,0,514-522 park drive,2,514-522 park drive,Residential,438.6047975994804,No
+514-522 park drive 3,5504.334128878281,0,514-522 park drive,3,514-522 park drive,Residential,438.6047975994804,No
+514-522 park drive b,7243.960819234194,0,514-522 park drive,b,514-522 park drive,Residential,438.6047975994804,No
+515 park drive 2,704.3183246073298,0,515 park drive,2,515 park drive,Residential,402.19876757629993,No
+515 park drive 3,1295.5564681724845,0,515 park drive,3,515 park drive,Residential,402.19876757629993,No
+515 park drive 4,467.778364116095,0,515 park drive,4,515 park drive,Residential,402.19876757629993,No
+515 park drive b,828.4028484231943,0,515 park drive,b,515 park drive,Residential,402.19876757629993,No
+517-521 beacon 1,639.9352226720648,0,517-521 beacon,1,517-521 beacon street,Residential,233.3535149506754,
+517-521 beacon 2,3061.052192066806,0,517-521 beacon,2,517-521 beacon street,Residential,233.3535149506754,
+517-521 beacon 3,311.5706618962433,0,517-521 beacon,3,517-521 beacon street,Residential,233.3535149506754,
+517-521 beacon 4,3402.85935483871,0,517-521 beacon,4,517-521 beacon street,Residential,233.3535149506754,
+517-521 beacon b,1874.6294307196563,0,517-521 beacon,b,517-521 beacon street,Residential,233.3535149506754,
+53 bay state 1,2756.4523597506677,0,53 bay state,1,53 bay state road,Academic,243.80495057189023,No
+53 bay state 3,5183.614629794825,0,53 bay state,3,53 bay state road,Academic,243.80495057189023,No
+53 bay state 5,833.0209205020919,0,53 bay state,5,53 bay state road,Academic,243.80495057189023,No
+531 beacon 0,2536.4663677130043,0,531 beacon,0,531 beacon street,Residential,334.2673404040649,No
+531 beacon 4,385.248,0,531 beacon,4,531 beacon street,Residential,334.2673404040649,No
+540 commonwealth 2,16613.840805123513,0,540 commonwealth,2,540 commonwealth avenue,Academic,,Yes
+540 commonwealth 3,8008.706319702602,0,540 commonwealth,3,540 commonwealth avenue,Academic,,Yes
+55 buswell 1,1430.096654275093,0,55 buswell,1,55 buswell street,Residential,700.0636223648953,No
+55 buswell 2,2899.9929328621906,0,55 buswell,2,55 buswell street,Residential,700.0636223648953,No
+55 buswell 3,751.5260469867211,0,55 buswell,3,55 buswell street,Residential,700.0636223648953,No
+55 buswell 4,3122.5218165627784,0,55 buswell,4,55 buswell street,Residential,700.0636223648953,No
+56 bay state 1,2119.815439219166,0,56 bay state,1,56 bay state road,Residential,272.07051007421643,No
+56 bay state 2,441.65325936199724,0,56 bay state,2,56 bay state road,Residential,272.07051007421643,No
+56 bay state 3,435.46781115879827,0,56 bay state,3,56 bay state road,Residential,272.07051007421643,No
+565 commonwealth 1,12854.746215494211,1,565 commonwealth,1,565 commonwealth avenue,Academic,0.0,Yes
+565 commonwealth 2,1465.6465696465698,0,565 commonwealth,2,565 commonwealth avenue,Academic,0.0,Yes
+575 commonwealth 1,7651.281501340483,1,575 commonwealth,1,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 2,4551.781463414634,0,575 commonwealth,2,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 3,7853.594671741199,0,575 commonwealth,3,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 4,5046.188832487309,0,575 commonwealth,4,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 5,8376.116054158607,0,575 commonwealth,5,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 6,5417.501400560224,0,575 commonwealth,6,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 7,5441.32944606414,0,575 commonwealth,7,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth 8,2991.6370235934664,1,575 commonwealth,8,575 commonwealth avenue,Residential,0.0,Yes
+575 commonwealth b,1355.610687022901,0,575 commonwealth,b,575 commonwealth avenue,Residential,0.0,Yes
+580 commonwealth 1,7463.936842105262,0,580 commonwealth,1,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 2,1894.67055393586,0,580 commonwealth,2,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 3,2534.2702702702704,0,580 commonwealth,3,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 4,1999.4004282655246,0,580 commonwealth,4,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 5,2459.6943521594685,0,580 commonwealth,5,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 6,2100.6940063091483,0,580 commonwealth,6,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 7,1765.717816683831,0,580 commonwealth,7,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 8,1725.576799140709,0,580 commonwealth,8,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth 9,1889.6111111111109,0,580 commonwealth,9,580 commonwealth avenue,Residential,238.56710656325424,Yes
+580 commonwealth b,163.66787003610108,0,580 commonwealth,b,580 commonwealth avenue,Residential,238.56710656325424,Yes
+590 commonwealth 1,22907.6293027361,1,590 commonwealth,1,590 commonwealth avenue,Research,0.0,Yes
+590 commonwealth 2,10869.751313485114,1,590 commonwealth,2,590 commonwealth avenue,Research,0.0,Yes
+590 commonwealth 3,7832.281690140846,0,590 commonwealth,3,590 commonwealth avenue,Research,0.0,Yes
+590 commonwealth 4,7009.42175066313,0,590 commonwealth,4,590 commonwealth avenue,Research,0.0,Yes
+590 commonwealth 5,3132.8876712328765,0,590 commonwealth,5,590 commonwealth avenue,Research,0.0,Yes
+590 commonwealth b,6109.313543599258,0,590 commonwealth,b,590 commonwealth avenue,Research,0.0,Yes
+595 commonwealth 1,25045.56704645048,0,595 commonwealth,1,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 2,25869.743218806507,1,595 commonwealth,2,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 3,23820.021276595744,1,595 commonwealth,3,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 4,17827.606936416185,1,595 commonwealth,4,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 5,5272.741573033708,1,595 commonwealth,5,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 6,5096.042440318302,1,595 commonwealth,6,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 7,6858.447926267281,0,595 commonwealth,7,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 8,4163.268907563025,0,595 commonwealth,8,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth 9,4353.940828402367,1,595 commonwealth,9,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth l,771.8331346841478,0,595 commonwealth,l,595 commonwealth avenue,Academic,0.0,Yes
+595 commonwealth p,419.90369181380424,0,595 commonwealth,p,595 commonwealth avenue,Academic,0.0,Yes
+6 buswell 1,2418.134328358209,0,6 buswell,1,6 buswell street,Residential,435.7267153315675,No
+6 buswell 2,1801.5071360608945,0,6 buswell,2,6 buswell street,Residential,435.7267153315675,No
+6 buswell 3,2272.8117073170733,0,6 buswell,3,6 buswell street,Residential,435.7267153315675,No
+6 buswell 30,189.83225806451614,0,6 buswell,30,6 buswell street,Residential,435.7267153315675,No
+6 buswell 4,1929.0994152046783,0,6 buswell,4,6 buswell street,Residential,435.7267153315675,No
+6 buswell b,208.1037277147488,0,6 buswell,b,6 buswell street,Residential,435.7267153315675,No
+60 bay state 1,786.6186186186187,0,60 bay state,1,60 bay state road,Residential,325.5865678760956,No
+60 bay state 2,713.2559366754617,0,60 bay state,2,60 bay state road,Residential,325.5865678760956,No
+60 bay state 3,410.537216828479,0,60 bay state,3,60 bay state road,Residential,325.5865678760956,No
+60 bay state 4,1096.5417439703156,0,60 bay state,4,60 bay state road,Residential,325.5865678760956,No
+60 bay state b,365.88607594936707,0,60 bay state,b,60 bay state road,Residential,325.5865678760956,No
+602 commonwealth 1,3664.4097995545662,0,602 commonwealth,1,602 commonwealth avenue,Academic,165.83269294881654,Yes
+602 commonwealth 2,1208.4927916120578,0,602 commonwealth,2,602 commonwealth avenue,Academic,165.83269294881654,Yes
+602 commonwealth b,1256.4195298372515,0,602 commonwealth,b,602 commonwealth avenue,Academic,165.83269294881654,Yes
+61 bay state 1,546.3643724696356,0,61 bay state,1,61 bay state road,Residential,348.17842813907055,No
+61 bay state 2,204.18980667838315,0,61 bay state,2,61 bay state road,Residential,348.17842813907055,No
+610 beacon 1,14794.067978533094,1,610 beacon,1,610 beacon street,Residential,0.0,Yes
+610 beacon 2,8553.273229070837,0,610 beacon,2,610 beacon street,Residential,0.0,Yes
+610 beacon 3,9407.364963503649,0,610 beacon,3,610 beacon street,Residential,0.0,Yes
+610 beacon 4,9358.105263157895,0,610 beacon,4,610 beacon street,Residential,0.0,Yes
+610 beacon 5,6890.37386569873,1,610 beacon,5,610 beacon street,Residential,0.0,Yes
+610 beacon 6,7793.436464088398,0,610 beacon,6,610 beacon street,Residential,0.0,Yes
+610 beacon 7,7169.269372693727,0,610 beacon,7,610 beacon street,Residential,0.0,Yes
+610 beacon 8,7892.552727272728,0,610 beacon,8,610 beacon street,Residential,0.0,Yes
+610 beacon 9,6710.495049504951,0,610 beacon,9,610 beacon street,Residential,0.0,Yes
+610 beacon b,766.530612244898,0,610 beacon,b,610 beacon street,Residential,0.0,Yes
+610 commonwealth 1,5329.729537366547,1,610 commonwealth,1,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 2,450.3034055727554,0,610 commonwealth,2,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 3,228.87394957983193,0,610 commonwealth,3,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 4,4857.671957671958,1,610 commonwealth,4,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 5,2908.650666666667,0,610 commonwealth,5,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 6,2532.8657534246577,0,610 commonwealth,6,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 7,1115.0109235352534,0,610 commonwealth,7,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 8,2031.8376811594203,0,610 commonwealth,8,610 commonwealth avenue,Research,0.0,Yes
+610 commonwealth 9,2132.6660730187,1,610 commonwealth,9,610 commonwealth avenue,Research,0.0,Yes
+617-621 commonwealth 1,2544.951152073733,0,617-621 commonwealth,1,617-621 commonwealth avenue,Academic,107.84551512102982,No
+617-621 commonwealth 2,929.4592833876222,0,617-621 commonwealth,2,617-621 commonwealth avenue,Academic,107.84551512102982,No
+617-621 commonwealth 3,67.33333333333333,0,617-621 commonwealth,3,617-621 commonwealth avenue,Academic,107.84551512102982,No
+617-621 commonwealth 4,1685.3449781659388,0,617-621 commonwealth,4,617-621 commonwealth avenue,Academic,107.84551512102982,No
+617-621 commonwealth b,378.2701227830832,0,617-621 commonwealth,b,617-621 commonwealth avenue,Academic,107.84551512102982,No
+619 memorial drive 1,3677.4435483870966,0,619 memorial drive,1,619 memorial drive,Athletic,804.39733100022,Yes
+619 memorial drive 2,520.1612903225806,0,619 memorial drive,2,619 memorial drive,Athletic,804.39733100022,Yes
+619 memorial drive 3,1408.8673469387754,0,619 memorial drive,3,619 memorial drive,Athletic,804.39733100022,Yes
+625 commonwealth 1,300.58493353028064,0,625 commonwealth,1,625 commonwealth avenue,Residential,139.65563157694748,No
+625 commonwealth 2,556.4253028263795,0,625 commonwealth,2,625 commonwealth avenue,Residential,139.65563157694748,No
+625 commonwealth 3,625.9332566168009,0,625 commonwealth,3,625 commonwealth avenue,Residential,139.65563157694748,No
+625 commonwealth 4,662.7042253521126,0,625 commonwealth,4,625 commonwealth avenue,Residential,139.65563157694748,No
+625 commonwealth b,459.60638297872345,0,625 commonwealth,b,625 commonwealth avenue,Residential,139.65563157694748,No
+627-629 commonwealth 2,2150.5105105105104,0,627-629 commonwealth,2,627-629 commonwealth avenue,Residential,88.73046719810604,No
+627-629 commonwealth 3,727.2875536480686,0,627-629 commonwealth,3,627-629 commonwealth avenue,Residential,88.73046719810604,No
+627-629 commonwealth 4,1473.4681647940074,0,627-629 commonwealth,4,627-629 commonwealth avenue,Residential,88.73046719810604,No
+635 commonwealth 1,5684.472289156626,1,635 commonwealth,1,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth 2,5272.021798365122,1,635 commonwealth,2,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth 3,2967.129909365559,0,635 commonwealth,3,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth 4,3899.884108867427,1,635 commonwealth,4,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth 5,2554.0856031128405,0,635 commonwealth,5,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth 6,5571.658149779736,0,635 commonwealth,6,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth b,3032.5925925925926,0,635 commonwealth,b,635 commonwealth avenue,Research,0.0,Yes
+635 commonwealth r,254.8314606741573,0,635 commonwealth,r,635 commonwealth avenue,Research,0.0,Yes
+64-86 cummington mall 1,2222.7250996015937,0,64-86 cummington mall,1,64-86 cummington mall,Academic,145.92510525448975,Yes
+64-86 cummington mall 2,3583.24697110904,0,64-86 cummington mall,2,64-86 cummington mall,Academic,145.92510525448975,Yes
+64-86 cummington mall b,18737.41592920354,0,64-86 cummington mall,b,64-86 cummington mall,Academic,145.92510525448975,Yes
+640 commonwealth 1,12392.591029023746,1,640 commonwealth,1,640 commonwealth avenue,Academic,0.0,Yes
+640 commonwealth 2,7997.427561837456,1,640 commonwealth,2,640 commonwealth avenue,Academic,0.0,Yes
+640 commonwealth 3,6303.760869565218,1,640 commonwealth,3,640 commonwealth avenue,Academic,0.0,Yes
+640 commonwealth b,3294.629550321199,0,640 commonwealth,b,640 commonwealth avenue,Academic,0.0,Yes
+67 bay state 1,214.0,0,67 bay state,1,67 bay state road,Academic,298.80792111840066,No
+67 bay state 3,772.0909090909091,0,67 bay state,3,67 bay state road,Academic,298.80792111840066,No
+67 bay state b,393.67105263157896,0,67 bay state,b,67 bay state road,Academic,298.80792111840066,No
+675 - 725 commonwealth 1,6861.077333333334,0,675 - 725 commonwealth,1,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth 2,12196.562162162163,0,675 - 725 commonwealth,2,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth 3,8797.016949152543,0,675 - 725 commonwealth,3,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth 4,6994.261484098939,0,675 - 725 commonwealth,4,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth 5,2647.7340153452683,0,675 - 725 commonwealth,5,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth b,10292.552962298025,0,675 - 725 commonwealth,b,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+675 - 725 commonwealth t,2398.9403973509934,0,675 - 725 commonwealth,t,675 - 725 commonwealth avenue,Research,253.38232302721016,Partial
+677 beacon 1,1061.2048192771085,0,677 beacon,1,677 beacon street,Research,445.0584447632767,Yes
+677 beacon 2,1164.1263157894737,0,677 beacon,2,677 beacon street,Research,445.0584447632767,Yes
+677 beacon 3,1360.5853658536585,0,677 beacon,3,677 beacon street,Research,445.0584447632767,Yes
+677 beacon b,583.5,0,677 beacon,b,677 beacon street,Research,445.0584447632767,Yes
+68-70 bay state 2,367.87368421052633,0,68-70 bay state,2,68-70 bay state road,Residential,303.56485951622585,Yes
+68-70 bay state 4,310.22222222222223,0,68-70 bay state,4,68-70 bay state road,Residential,303.56485951622585,Yes
+7 buswell 2,620.6567164179105,0,7 buswell,2,7 buswell street,Residential,476.7257790459303,No
+7 buswell 3,322.02985074626866,0,7 buswell,3,7 buswell street,Residential,476.7257790459303,No
+7 buswell 4,908.1818181818182,0,7 buswell,4,7 buswell street,Residential,476.7257790459303,No
+7 buswell b,403.69230769230774,0,7 buswell,b,7 buswell street,Residential,476.7257790459303,No
+700 beacon 1,2179.718309859155,0,700 beacon,1,700 beacon street,Academic,218.7586669481972,Yes
+700 beacon 2,627.9618008185539,0,700 beacon,2,700 beacon street,Academic,218.7586669481972,Yes
+700 beacon 3,182.65573770491804,0,700 beacon,3,700 beacon street,Academic,218.7586669481972,Yes
+700 beacon 4,134.3076923076923,0,700 beacon,4,700 beacon street,Academic,218.7586669481972,Yes
+700 commonwealth 1,13255.860165593374,0,700 commonwealth,1,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 10,6297.419226957383,1,700 commonwealth,10,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 11,13940.407045009786,1,700 commonwealth,11,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 12,7005.0834191555105,1,700 commonwealth,12,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 13,3846.812351543943,1,700 commonwealth,13,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 14,5599.63179916318,1,700 commonwealth,14,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 15,4333.372593431484,1,700 commonwealth,15,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 16,6419.108850457782,1,700 commonwealth,16,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 17,4347.461538461539,1,700 commonwealth,17,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 18,6479.458461538461,1,700 commonwealth,18,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 3,188.87441860465117,0,700 commonwealth,3,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 4,16457.318485523385,1,700 commonwealth,4,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 5,4162.815356489945,1,700 commonwealth,5,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 6,9579.98093422307,1,700 commonwealth,6,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 7,6560.8,1,700 commonwealth,7,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 8,7890.528375733856,1,700 commonwealth,8,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth 9,5062.65577596266,1,700 commonwealth,9,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth A,194.39999999999998,0,700 commonwealth,A,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth a,616.8438818565401,0,700 commonwealth,a,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth b,21589.428872497367,0,700 commonwealth,b,700 commonwealth avenue,Residential,0.0,Partial
+700 commonwealth c,255.59420289855072,0,700 commonwealth,c,700 commonwealth avenue,Residential,0.0,Partial
+704 commonwealth 1,1217.9151743638076,0,704 commonwealth,1,704 commonwealth avenue,Academic,122.0067912405591,No
+704 commonwealth 2,1058.566037735849,0,704 commonwealth,2,704 commonwealth avenue,Academic,122.0067912405591,No
+704 commonwealth 3,1313.9553903345725,0,704 commonwealth,3,704 commonwealth avenue,Academic,122.0067912405591,No
+704 commonwealth 5,1582.7654320987654,0,704 commonwealth,5,704 commonwealth avenue,Academic,122.0067912405591,No
+704 commonwealth b,765.9836639439907,0,704 commonwealth,b,704 commonwealth avenue,Academic,122.0067912405591,No
+708 commonwealth 2,1099.2045028142588,0,708 commonwealth,2,708 commonwealth avenue,Residential,148.3949511951398,No
+708 commonwealth 3,291.1832460732984,0,708 commonwealth,3,708 commonwealth avenue,Residential,148.3949511951398,No
+710 commonwealth 1,2520.9836065573772,0,710 commonwealth,1,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth 2,2013.6000000000001,0,710 commonwealth,2,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth 3,1916.9486023444547,0,710 commonwealth,3,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth 30,210.34883720930233,0,710 commonwealth,30,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth 4,1728.3138832997988,0,710 commonwealth,4,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth 5,2411.915237134208,0,710 commonwealth,5,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+710 commonwealth b,1623.7298907646473,0,710 commonwealth,b,710 commonwealth avenue,Commercial,145.92510525216915,Partial
+714 commonwealth 2,843.202925045704,0,714 commonwealth,2,714 commonwealth avenue,Commercial,181.45220443452536,No
+714 commonwealth 3,722.7528675703859,0,714 commonwealth,3,714 commonwealth avenue,Commercial,181.45220443452536,No
+718 commonwealth 1,411.40253164556964,0,718 commonwealth,1,718 commonwealth avenue,Academic,136.08919156532107,No
+718 commonwealth 3,539.8581560283689,0,718 commonwealth,3,718 commonwealth avenue,Academic,136.08919156532107,No
+718 commonwealth 5,663.3342736248237,0,718 commonwealth,5,718 commonwealth avenue,Academic,136.08919156532107,No
+718 commonwealth b,1022.2102217936356,0,718 commonwealth,b,718 commonwealth avenue,Academic,136.08919156532107,No
+722-26-28 commonwealth 1,12274.033304119193,0,722-26-28 commonwealth,1,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 2,19013.473684210527,0,722-26-28 commonwealth,2,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 3,15323.157894736843,0,722-26-28 commonwealth,3,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 4,8618.582959641255,0,722-26-28 commonwealth,4,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 5,12046.99554764025,0,722-26-28 commonwealth,5,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 6,205.58333333333331,0,722-26-28 commonwealth,6,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth 7,176.78048780487805,0,722-26-28 commonwealth,7,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+722-26-28 commonwealth b,20158.77356828194,0,722-26-28 commonwealth,b,722-26-28 commonwealth avenue,Residential,148.39494340210402,
+730 commonwealth 1,2446.1417910447763,0,730 commonwealth,1,730 commonwealth avenue,Research,260.41735914928614,Yes
+730 commonwealth 2,2083.0724106324474,0,730 commonwealth,2,730 commonwealth avenue,Research,260.41735914928614,Yes
+730 commonwealth 3,5310.659574468085,0,730 commonwealth,3,730 commonwealth avenue,Research,260.41735914928614,Yes
+735 commonwealth 1,207.16449086161882,0,735 commonwealth,1,735 commonwealth avenue,Student Support,306.56677368651594,No
+735 commonwealth 2,525.7190082644628,0,735 commonwealth,2,735 commonwealth avenue,Student Support,306.56677368651594,No
+735 commonwealth b,790.8732394366198,0,735 commonwealth,b,735 commonwealth avenue,Student Support,306.56677368651594,No
+736 - 738 commonwealth 1,8000.515445719329,0,736 - 738 commonwealth,1,736 - 738 commonwealth avenue,Commercial,218.75426861772436,No
+74 bay state 2,583.5332555425905,0,74 bay state,2,74 bay state road,Residential,243.80477980587216,No
+74 bay state 3,239.69937369519835,0,74 bay state,3,74 bay state road,Residential,243.80477980587216,No
+74 bay state 4,247.68345323741008,0,74 bay state,4,74 bay state road,Residential,243.80477980587216,No
+74 bay state b,998.316313823163,0,74 bay state,b,74 bay state road,Residential,243.80477980587216,No
+745 - 755 commonwealth 1,17072.415859030836,0,745 - 755 commonwealth,1,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 11,89.05263157894737,0,745 - 755 commonwealth,11,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 2,3017.78622327791,0,745 - 755 commonwealth,2,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 3,2466.112079701121,0,745 - 755 commonwealth,3,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 4,3142.3372835004557,0,745 - 755 commonwealth,4,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 5,928.8765603328709,0,745 - 755 commonwealth,5,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth 6,2462.4202745512143,0,745 - 755 commonwealth,6,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+745 - 755 commonwealth b,5986.093686354379,0,745 - 755 commonwealth,b,745 - 755 commonwealth avenue,Academic,184.3881224403485,Partial
+75 bay state 10,719.3944954128441,0,75 bay state,10,75 bay state road,Residential,188.72784995697185,No
+75 bay state 2,270.3709090909091,0,75 bay state,2,75 bay state road,Residential,188.72784995697185,No
+75 bay state 3,430.25563909774434,0,75 bay state,3,75 bay state road,Residential,188.72784995697185,No
+75 bay state b,148.51612903225808,0,75 bay state,b,75 bay state road,Residential,188.72784995697185,No
+750 commonwealth 1,2533.843093922652,1,750 commonwealth,1,750 commonwealth avenue,Academic,0.0,Yes
+750 commonwealth 2,11440.41416893733,0,750 commonwealth,2,750 commonwealth avenue,Academic,0.0,Yes
+750 commonwealth b,2736.7693677649154,0,750 commonwealth,b,750 commonwealth avenue,Academic,0.0,Yes
+76 bay state 1,475.2046556741028,0,76 bay state,1,76 bay state road,Residential,,No
+76 bay state 2,357.7894736842105,0,76 bay state,2,76 bay state road,Residential,,No
+76 bay state 3,359.1677852348993,0,76 bay state,3,76 bay state road,Residential,,No
+76 bay state 4,367.06997742663657,0,76 bay state,4,76 bay state road,Residential,,No
+76 bay state b,291.386301369863,0,76 bay state,b,76 bay state road,Residential,,No
+765 commonwealth 1,17324.562277580073,1,765 commonwealth,1,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 2,13283.8123275069,1,765 commonwealth,2,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 3,7846.375241779497,1,765 commonwealth,3,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 4,10793.508011310085,1,765 commonwealth,4,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 5,6921.705544933078,1,765 commonwealth,5,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 6,2865.805601317957,1,765 commonwealth,6,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 7,1082.9657794676805,1,765 commonwealth,7,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 8,859.0500000000001,1,765 commonwealth,8,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth 9,801.4708520179372,1,765 commonwealth,9,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth b,665.9718309859155,0,765 commonwealth,b,765 commonwealth avenue,Academic,0.0,Yes
+765 commonwealth m,1281.0763636363636,0,765 commonwealth,m,765 commonwealth avenue,Academic,0.0,Yes
+771 commonwealth 1,9566.917186108636,1,771 commonwealth,1,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth 2,10503.33216168717,0,771 commonwealth,2,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth 3,13346.68336314848,1,771 commonwealth,3,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth 4,5898.975700934579,0,771 commonwealth,4,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth 5,2864.729344729345,0,771 commonwealth,5,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth 6,2994.4921658986177,0,771 commonwealth,6,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth b,4433.612903225806,0,771 commonwealth,b,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth g,7085.870216306157,0,771 commonwealth,g,771 commonwealth avenue,Student Support,0.0,Yes
+771 commonwealth s,309.60834298957127,0,771 commonwealth,s,771 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth 1,33336.25352112676,1,775 commonwealth,1,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth 2,7451.717647058824,1,775 commonwealth,2,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth 3,3796.919540229885,0,775 commonwealth,3,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth 4,1011.4460285132384,1,775 commonwealth,4,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth 5,1002.1946902654868,0,775 commonwealth,5,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth B,357.8787878787879,0,775 commonwealth,B,775 commonwealth avenue,Student Support,0.0,Yes
+775 commonwealth b,6263.638938053097,0,775 commonwealth,b,775 commonwealth avenue,Student Support,0.0,Yes
+78 bay state 1,370.79564691656594,0,78 bay state,1,78 bay state road,Residential,226.81442700941236,No
+78 bay state 2,190.13282732447817,0,78 bay state,2,78 bay state road,Residential,226.81442700941236,No
+78 bay state 3,164.91743119266056,0,78 bay state,3,78 bay state road,Residential,226.81442700941236,No
+78 bay state 4,165.25233644859813,0,78 bay state,4,78 bay state road,Residential,226.81442700941236,No
+78 bay state b,272.7667269439421,0,78 bay state,b,78 bay state road,Residential,226.81442700941236,No
+79 bay state 1,439.28470588235297,0,79 bay state,1,79 bay state road,Residential,134.80560711132904,No
+79 bay state 3,2222.3064066852367,0,79 bay state,3,79 bay state road,Residential,134.80560711132904,No
+79 bay state 5,981.7198538367843,0,79 bay state,5,79 bay state road,Residential,134.80560711132904,No
+79 bay state b,784.431746031746,0,79 bay state,b,79 bay state road,Residential,134.80560711132904,No
+8 st. mary's 1,6663.379501385042,1,8 st. mary's,1,8 st. mary's street,Research,0.0,
+8 st. mary's 2,12759.50228728271,0,8 st. mary's,2,8 st. mary's street,Research,0.0,
+8 st. mary's 3,3278.2836624775587,1,8 st. mary's,3,8 st. mary's street,Research,0.0,
+8 st. mary's 4,1739.2793136320306,0,8 st. mary's,4,8 st. mary's street,Research,0.0,
+8 st. mary's 5,3702.0265251989385,0,8 st. mary's,5,8 st. mary's street,Research,0.0,
+8 st. mary's 6,3745.260908281389,0,8 st. mary's,6,8 st. mary's street,Research,0.0,
+8 st. mary's 7,3242.430107526882,0,8 st. mary's,7,8 st. mary's street,Research,0.0,
+8 st. mary's 8,2557.075421472937,0,8 st. mary's,8,8 st. mary's street,Research,0.0,
+8 st. mary's 9,2947.958372753075,1,8 st. mary's,9,8 st. mary's street,Research,0.0,
+8 st. mary's b,1273.2440604751619,0,8 st. mary's,b,8 st. mary's street,Research,0.0,
+8 st. mary's p,237.79672131147538,0,8 st. mary's,p,8 st. mary's street,Research,0.0,
+80 bay state 1,491.7209302325581,0,80 bay state,1,80 bay state road,Residential,211.90236819106423,No
+80 bay state 2,389.7887323943662,0,80 bay state,2,80 bay state road,Residential,211.90236819106423,No
+80 bay state 3,223.73154362416108,0,80 bay state,3,80 bay state road,Residential,211.90236819106423,No
+80 bay state 4,420.29596412556054,0,80 bay state,4,80 bay state road,Residential,211.90236819106423,No
+80 bay state b,301.5711574952562,0,80 bay state,b,80 bay state road,Residential,211.90236819106423,No
+80-82 ivy 1,892.4814159292035,0,80-82 ivy,1,80-82 ivy street,Residential,943.1035722839542,No
+80-82 ivy 2,503.17701575532897,0,80-82 ivy,2,80-82 ivy street,Residential,943.1035722839542,No
+80-82 ivy 3,808.2566037735849,0,80-82 ivy,3,80-82 ivy street,Residential,943.1035722839542,No
+80-82 ivy b,389.0796670630202,0,80-82 ivy,b,80-82 ivy street,Residential,943.1035722839542,No
+806-820 beacon 2,1179.2066805845511,0,806-820 beacon,2,806-820 beacon street,Residential,317.5439452986464,No
+806-820 beacon 3,645.1078717201166,0,806-820 beacon,3,806-820 beacon street,Residential,317.5439452986464,No
+806-820 beacon 4,1282.9389243391067,0,806-820 beacon,4,806-820 beacon street,Residential,317.5439452986464,No
+806-820 beacon 5,818.9144667370645,0,806-820 beacon,5,806-820 beacon street,Residential,317.5439452986464,No
+806-820 beacon 6,324.59842519685037,0,806-820 beacon,6,806-820 beacon street,Residential,317.5439452986464,No
+806-820 beacon 7,399.4768883878241,0,806-820 beacon,7,806-820 beacon street,Residential,317.5439452986464,No
+808 commonwealth 1,15678.016114592658,1,808 commonwealth,1,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth 2,4226.458221024259,1,808 commonwealth,2,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth 3,6193.969991173875,0,808 commonwealth,3,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth 4,15517.533512064343,0,808 commonwealth,4,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth 5,2659.2317880794703,0,808 commonwealth,5,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth b,2342.7487386478306,0,808 commonwealth,b,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth m,587.7889039242219,0,808 commonwealth,m,808 commonwealth avenue,Academic,0.0,Yes
+808 commonwealth r,202.71038251366122,0,808 commonwealth,r,808 commonwealth avenue,Academic,0.0,Yes
+81 bay state 1,421.76892430278883,0,81 bay state,1,81 bay state road,Residential,107.84448569186316,No
+81 bay state 3,959.2011095700416,0,81 bay state,3,81 bay state road,Residential,107.84448569186316,No
+81 bay state 5,699.3343511450382,0,81 bay state,5,81 bay state road,Residential,107.84448569186316,No
+81 bay state b,278.4,0,81 bay state,b,81 bay state road,Residential,107.84448569186316,No
+820 commonwealth 1,3571.2045670789726,1,820 commonwealth,1,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth 2,1043.753846153846,1,820 commonwealth,2,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth 3,618.4120603015075,1,820 commonwealth,3,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth 4,2208.808988764045,1,820 commonwealth,4,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth m,159.8980891719745,0,820 commonwealth,m,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth p,804.2737642585553,0,820 commonwealth,p,820 commonwealth avenue,Academic,0.0,Yes
+820 commonwealth r,98.08695652173914,0,820 commonwealth,r,820 commonwealth avenue,Academic,0.0,Yes
+824-826 beacon 1,980.9531737773153,0,824-826 beacon,1,824-826 beacon street,Residential,329.4366697048556,No
+824-826 beacon 2,1037.0,0,824-826 beacon,2,824-826 beacon street,Residential,329.4366697048556,No
+824-826 beacon 3,1419.663157894737,0,824-826 beacon,3,824-826 beacon street,Residential,329.4366697048556,No
+828 beacon 1,130.77333333333334,0,828 beacon,1,828 beacon street,Residential,364.8127631339038,No
+828 beacon 2,528.1621621621622,0,828 beacon,2,828 beacon street,Residential,364.8127631339038,No
+828 beacon 3,316.62222222222226,0,828 beacon,3,828 beacon street,Residential,364.8127631339038,No
+828 beacon 4,767.9357429718875,0,828 beacon,4,828 beacon street,Residential,364.8127631339038,No
+828 beacon b,195.14754098360658,0,828 beacon,b,828 beacon street,Residential,364.8127631339038,No
+830 beacon 2,764.8793565683645,0,830 beacon,2,830 beacon street,Residential,365.8077465148166,No
+830 beacon 3,567.8731988472623,0,830 beacon,3,830 beacon street,Residential,365.8077465148166,No
+830 beacon 4,614.8446866485014,0,830 beacon,4,830 beacon street,Residential,365.8077465148166,No
+830 beacon b,305.5045871559633,0,830 beacon,b,830 beacon street,Residential,365.8077465148166,No
+830-846 commonwealth 1,161.93890020366598,0,830-846 commonwealth,1,830-846 commonwealth avenue,Commercial,260.4150854758071,Yes
+830-846 commonwealth h,4171.599243856333,0,830-846 commonwealth,h,830-846 commonwealth avenue,Commercial,260.4150854758071,Yes
+832 beacon 2,415.05503355704695,0,832 beacon,2,832 beacon street,Residential,368.7765898270129,No
+832 beacon 3,227.67567567567568,0,832 beacon,3,832 beacon street,Residential,368.7765898270129,No
+832 beacon 4,550.1898569570872,0,832 beacon,4,832 beacon street,Residential,368.7765898270129,No
+832 beacon b,316.83870967741933,0,832 beacon,b,832 beacon street,Residential,368.7765898270129,No
+834-836 beacon 1,1888.4509090909091,0,834-836 beacon,1,834-836 beacon street,Residential,373.6722488070576,No
+834-836 beacon 2,888.3474065138722,0,834-836 beacon,2,834-836 beacon street,Residential,373.6722488070576,No
+834-836 beacon 3,885.3400503778337,0,834-836 beacon,3,834-836 beacon street,Residential,373.6722488070576,No
+834-836 beacon b,525.5091891891892,0,834-836 beacon,b,834-836 beacon street,Residential,373.6722488070576,No
+84 bay state 1,763.3012895662368,0,84 bay state,1,84 bay state road,Residential,199.53510641151385,No
+84 bay state 2,378.0923076923077,0,84 bay state,2,84 bay state road,Residential,199.53510641151385,No
+84 bay state 3,256.2365217391304,0,84 bay state,3,84 bay state road,Residential,199.53510641151385,No
+84 bay state 4,261.2714617169374,0,84 bay state,4,84 bay state road,Residential,199.53510641151385,No
+84 bay state b,893.3223140495868,0,84 bay state,b,84 bay state road,Residential,199.53510641151385,No
+844 beacon 2,1443.2206451612903,0,844 beacon,2,844 beacon street,Residential,455.589856182516,No
+844 beacon 3,1087.7429718875503,0,844 beacon,3,844 beacon street,Residential,455.589856182516,No
+844 beacon 4,1122.6666666666667,0,844 beacon,4,844 beacon street,Residential,455.589856182516,No
+844 beacon 5,1305.9736147757258,0,844 beacon,5,844 beacon street,Residential,455.589856182516,No
+844 beacon U,549.8666666666667,0,844 beacon,U,844 beacon street,Residential,455.589856182516,No
+844 beacon b,2398.9885864793678,0,844 beacon,b,844 beacon street,Residential,455.589856182516,No
+844 beacon u,2823.978723404255,0,844 beacon,u,844 beacon street,Residential,455.589856182516,No
+848 beacon 1,344.1464788732394,0,848 beacon,1,848 beacon street,Residential,500.530509441804,No
+848 beacon 2,757.6638655462184,0,848 beacon,2,848 beacon street,Residential,500.530509441804,No
+848 beacon 3,438.63896103896104,0,848 beacon,3,848 beacon street,Residential,500.530509441804,No
+848 beacon 4,938.7435897435897,0,848 beacon,4,848 beacon street,Residential,500.530509441804,No
+848 beacon b,312.23728813559325,0,848 beacon,b,848 beacon street,Residential,500.530509441804,No
+852 beacon 2,602.5096446700508,0,852 beacon,2,852 beacon street,Residential,514.1429614981513,No
+852 beacon 3,381.1948051948052,0,852 beacon,3,852 beacon street,Residential,514.1429614981513,No
+852 beacon 4,1125.0749250749252,0,852 beacon,4,852 beacon street,Residential,514.1429614981513,No
+852 beacon b,564.4042105263159,0,852 beacon,b,852 beacon street,Residential,514.1429614981513,No
+855 commonwealth 1,8995.12643678161,1,855 commonwealth,1,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth 2,12628.165103189493,1,855 commonwealth,2,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth 3,13540.12394366197,1,855 commonwealth,3,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth 4,6084.101599247413,1,855 commonwealth,4,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth 5,2504.1482926829267,1,855 commonwealth,5,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth b,10306.1098109811,0,855 commonwealth,b,855 commonwealth avenue,Academic,0.0,Yes
+855 commonwealth m,136.2814070351759,0,855 commonwealth,m,855 commonwealth avenue,Academic,0.0,Yes
+856-862 beacon 1,1673.10592459605,0,856-862 beacon,1,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 2,1772.9972401103955,0,856-862 beacon,2,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 3,1584.7137546468402,0,856-862 beacon,3,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 4,1587.6598890942698,0,856-862 beacon,4,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 5,1457.8056918547595,0,856-862 beacon,5,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 6,2078.9195402298847,0,856-862 beacon,6,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon 7,438.0320855614973,0,856-862 beacon,7,856-862 beacon street,Residential,589.7248012321367,No
+856-862 beacon b,1675.718918918919,0,856-862 beacon,b,856-862 beacon street,Residential,589.7248012321367,No
+864 beacon 1,314.10271903323263,0,864 beacon,1,864 beacon street,Residential,651.4745931899655,No
+864 beacon 2,276.7467438494935,0,864 beacon,2,864 beacon street,Residential,651.4745931899655,No
+864 beacon 3,471.1528150134048,0,864 beacon,3,864 beacon street,Residential,651.4745931899655,No
+864 beacon 4,364.69879518072287,0,864 beacon,4,864 beacon street,Residential,651.4745931899655,No
+864 beacon a,255.75315568022438,0,864 beacon,a,864 beacon street,Residential,651.4745931899655,No
+864 beacon b,235.67701863354034,0,864 beacon,b,864 beacon street,Residential,651.4745931899655,No
+866 beacon 2,959.0878859857482,0,866 beacon,2,866 beacon street,Residential,668.5468586253013,No
+866 beacon 3,577.7981651376147,0,866 beacon,3,866 beacon street,Residential,668.5468586253013,No
+866 beacon 4,316.73015873015873,0,866 beacon,4,866 beacon street,Residential,668.5468586253013,No
+866 beacon b,634.1971830985915,0,866 beacon,b,866 beacon street,Residential,668.5468586253013,No
+870-872 beacon 1,851.1037344398339,0,870-872 beacon,1,870-872 beacon street,Residential,704.5482061092525,
+870-872 beacon 2,553.3731343283582,0,870-872 beacon,2,870-872 beacon street,Residential,704.5482061092525,
+870-872 beacon 3,403.66309341500767,0,870-872 beacon,3,870-872 beacon street,Residential,704.5482061092525,
+870-872 beacon 4,965.7480136208853,0,870-872 beacon,4,870-872 beacon street,Residential,704.5482061092525,
+870-872 beacon b,529.2361809045226,0,870-872 beacon,b,870-872 beacon street,Residential,704.5482061092525,
+870-872 beacon u,1567.2982456140348,0,870-872 beacon,u,870-872 beacon street,Residential,704.5482061092525,
+871 commonwealth 1,7354.45945945946,1,871 commonwealth,1,871 commonwealth avenue,Academic,0.0,Yes
+871 commonwealth 2,10044.531573986806,1,871 commonwealth,2,871 commonwealth avenue,Academic,0.0,Yes
+871 commonwealth 3,11742.242253521126,1,871 commonwealth,3,871 commonwealth avenue,Academic,0.0,Yes
+871 commonwealth 4,10286.36397748593,1,871 commonwealth,4,871 commonwealth avenue,Academic,0.0,Yes
+871 commonwealth 5,9801.964412811387,1,871 commonwealth,5,871 commonwealth avenue,Academic,0.0,Yes
+881 commonwealth 1,9744.090995260663,1,881 commonwealth,1,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 10,471.13375796178343,0,881 commonwealth,10,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 2,6117.618147448015,0,881 commonwealth,2,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 3,7743.642023346304,1,881 commonwealth,3,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 4,7692.4184731385485,1,881 commonwealth,4,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 5,2603.3696729435087,0,881 commonwealth,5,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 6,1958.5733634311514,0,881 commonwealth,6,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth 9,116.21052631578948,0,881 commonwealth,9,881 commonwealth avenue,Administrative,0.0,Yes
+881 commonwealth b,1263.0466321243523,0,881 commonwealth,b,881 commonwealth avenue,Administrative,0.0,Yes
+888 commonwealth 2,5237.716324710081,0,888 commonwealth,2,888 commonwealth avenue,Academic,88.72976339439309,Yes
+888 commonwealth 3,3440.6253574833177,0,888 commonwealth,3,888 commonwealth avenue,Academic,88.72976339439309,Yes
+888 commonwealth b,4552.434782608696,0,888 commonwealth,b,888 commonwealth avenue,Academic,88.72976339439309,Yes
+890 commonwealth 1,1319.9740820734341,0,890 commonwealth,1,890 commonwealth avenue,Academic,0.0,Yes
+890 commonwealth 2,37461.345829428305,0,890 commonwealth,2,890 commonwealth avenue,Academic,0.0,Yes
+890 commonwealth 3,4074.1839762611276,1,890 commonwealth,3,890 commonwealth avenue,Academic,0.0,Yes
+90-92 bay state 2,2183.414634146341,0,90-92 bay state,2,90-92 bay state road,Residential,182.40638156347097,No
+90-92 bay state 4,2843.6003805899145,0,90-92 bay state,4,90-92 bay state road,Residential,182.40638156347097,No
+90-92 bay state b,1716.7226277372265,0,90-92 bay state,b,90-92 bay state road,Residential,182.40638156347097,No
+900 commonwealth 2,7770.2417188898835,0,900 commonwealth,2,900 commonwealth avenue,Academic,165.82867611483468,Yes
+91 bay state 1,7849.164835164835,1,91 bay state,1,91 bay state road,Residential,0.0,Partial
+91 bay state 2,3197.257950530035,0,91 bay state,2,91 bay state road,Residential,0.0,Partial
+91 bay state 20,199.90123456790124,0,91 bay state,20,91 bay state road,Residential,0.0,Partial
+91 bay state 21,283.47826086956525,0,91 bay state,21,91 bay state road,Residential,0.0,Partial
+91 bay state 3,2997.0841121495328,0,91 bay state,3,91 bay state road,Residential,0.0,Partial
+91 bay state 30,237.60000000000002,0,91 bay state,30,91 bay state road,Residential,0.0,Partial
+91 bay state 4,2809.556109725686,0,91 bay state,4,91 bay state road,Residential,0.0,Partial
+91 bay state 5,3321.618556701031,0,91 bay state,5,91 bay state road,Residential,0.0,Partial
+91 bay state 6,3079.68,0,91 bay state,6,91 bay state road,Residential,0.0,Partial
+91 bay state 7,2838.6101694915255,0,91 bay state,7,91 bay state road,Residential,0.0,Partial
+91 bay state 8,2609.6184971098264,0,91 bay state,8,91 bay state road,Residential,0.0,Partial
+91 bay state 81,36.0,0,91 bay state,81,91 bay state road,Residential,0.0,Partial
+91 bay state 9,1100.6650124069479,1,91 bay state,9,91 bay state road,Residential,0.0,Partial
+91 bay state b,107.23809523809524,0,91 bay state,b,91 bay state road,Residential,0.0,Partial
+910 commonwealth 1,4622.169189670525,0,910 commonwealth,1,910 commonwealth avenue,Academic,245.37506120207783,Yes
+910 commonwealth 2,1938.4097287184286,0,910 commonwealth,2,910 commonwealth avenue,Academic,245.37506120207783,Yes
+915 commonwealth 1,36868.21804511278,1,915 commonwealth,1,915 commonwealth avenue,Student Support,0.0,Yes
+915 commonwealth 2,8079.21387283237,1,915 commonwealth,2,915 commonwealth avenue,Student Support,0.0,Yes
+915 commonwealth 3,10143.315789473683,1,915 commonwealth,3,915 commonwealth avenue,Student Support,0.0,Yes
+915 commonwealth l,11669.258033106134,0,915 commonwealth,l,915 commonwealth avenue,Student Support,0.0,Yes
+916-922 commonwealth 1,7209.162090345439,0,916-922 commonwealth,1,916-922 commonwealth avenue,Commercial,139.6535613791667,Yes
+925 commonwealth 1,1735.7104072398188,1,925 commonwealth,1,925 commonwealth avenue,Athletic,0.0,Yes
+925 commonwealth 3,7920.863568215893,0,925 commonwealth,3,925 commonwealth avenue,Athletic,0.0,Yes
+925 commonwealth b,760.3720930232558,0,925 commonwealth,b,925 commonwealth avenue,Athletic,0.0,Yes
+925 commonwealth c,21471.51879699248,0,925 commonwealth,c,925 commonwealth avenue,Athletic,0.0,Yes
+925 commonwealth g,9385.958724202626,0,925 commonwealth,g,925 commonwealth avenue,Athletic,0.0,Yes
+925 commonwealth l,7946.28895184136,0,925 commonwealth,l,925 commonwealth avenue,Athletic,0.0,Yes
+928 commonwealth 1,9849.795053003534,1,928 commonwealth,1,928 commonwealth avenue,Academic,0.0,Yes
+928 commonwealth 2,17501.852112676053,1,928 commonwealth,2,928 commonwealth avenue,Academic,0.0,Yes
+928 commonwealth 3,3574.979627989371,1,928 commonwealth,3,928 commonwealth avenue,Academic,0.0,Yes
+930-940 commonwealth 1,19504.14736842105,0,930-940 commonwealth,1,930-940 commonwealth avenue,Commercial,108.929099052252,Yes
+930-940 commonwealth 2,13379.250659630607,0,930-940 commonwealth,2,930-940 commonwealth avenue,Commercial,108.929099052252,Yes
+930-940 commonwealth s,2613.374117647059,0,930-940 commonwealth,s,930-940 commonwealth avenue,Commercial,108.929099052252,Yes
+94 bay state 2,644.7509578544061,0,94 bay state,2,94 bay state road,Residential,148.3948888507713,No
+94 bay state 20,511.5395683453237,0,94 bay state,20,94 bay state road,Residential,148.3948888507713,No
+94 bay state 4,797.9471698113207,0,94 bay state,4,94 bay state road,Residential,148.3948888507713,No
+94 bay state b,209.78238341968915,0,94 bay state,b,94 bay state road,Residential,148.3948888507713,No
+949 commonwealth 1,20773.756354075373,0,949 commonwealth,1,949 commonwealth avenue,Academic,290.9709795488212,Yes
+949 commonwealth b,261.986013986014,0,949 commonwealth,b,949 commonwealth avenue,Academic,290.9709795488212,Yes
+96 mountfort 1,716.9078295341923,0,96 mountfort,1,96 mountfort street,Residential,373.6720816867033,No
+96 mountfort 2,1118.7422303473493,0,96 mountfort,2,96 mountfort street,Residential,373.6720816867033,No
+96 mountfort 3,312.3636363636364,0,96 mountfort,3,96 mountfort street,Residential,373.6720816867033,No
+96 mountfort 4,986.8235294117646,0,96 mountfort,4,96 mountfort street,Residential,373.6720816867033,No
+96-100 cummington mall 1,2872.033195020747,0,96-100 cummington mall,1,96-100 cummington mall,Academic,202.34428272505377,Yes
+96-100 cummington mall 2,1853.7825661116553,0,96-100 cummington mall,2,96-100 cummington mall,Academic,202.34428272505377,Yes
+96-100 cummington mall b,6648.892193308551,0,96-100 cummington mall,b,96-100 cummington mall,Academic,202.34428272505377,Yes
+975 commonwealth 1,2991.088888888889,0,975 commonwealth,1,975 commonwealth avenue,Administrative,134.8017466503935,Yes
+98 mountfort 1,838.7667984189724,0,98 mountfort,1,98 mountfort street,Residential,365.807727544453,No
+98 mountfort 2,804.4021621621621,0,98 mountfort,2,98 mountfort street,Residential,365.807727544453,No
+98 mountfort 3,981.1222351571596,0,98 mountfort,3,98 mountfort street,Residential,365.807727544453,No
+98 mountfort 4,896.6410256410256,0,98 mountfort,4,98 mountfort street,Residential,365.807727544453,No
+985 commonwealth 1,1824.0483870967741,1,985 commonwealth,1,985 commonwealth avenue,Administrative,0.0,Yes
+985 commonwealth 2,2258.67397260274,0,985 commonwealth,2,985 commonwealth avenue,Administrative,0.0,Yes
+985 commonwealth m,473.85034013605446,0,985 commonwealth,m,985 commonwealth avenue,Administrative,0.0,Yes
