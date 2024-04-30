@@ -1,0 +1,264 @@
+Address A,Address B,Floor ,Description,Accessibility,Handicap Accessible,Space@Bu room,Quantity,Date Installed,Type,Walk-Thru Notes,Completed,Added to System,X,Y,Z
+100,Ashford St,First,"Hallway across from vending machines, across from Room 180, turn right from the lobby",Public,Yes,191,1,,Combo Bottle Filler/Drinking Fountain,two additional drinking fountain locations in the building are candidates for bottle fillers; one near Media Room 112; one near loading dock at west end of track,1/5/2024,1,-145,26,0
+120,Ashford St,First,"Kitchenette, Room 116A",Restricted,Yes,116A,1,,Office-Style Water Cooler,,1/5/2024,1,-139,26,0
+120,Ashford St,Second,"Kitchenette, Room 222",Restricted,Yes,222,1,,Office-Style Water Cooler,,1/5/2024,1,-142,26,1
+8,St. Mary's Street,Basement,Hallway by bathrooms,,,B81,1,Dec-23,Combo Bottle Filler/Drinking Fountain,,,,1,-8,-1
+8,St. Mary's Street,First,Hallway by electrical room,,,181,1,,,,,,3,-8,0
+8,St. Mary's Street,Third,,,,,1,,,Not sure exactly where this is ,,,5,-8,2
+8,St. Mary's Street,Ninth,to the right of bathrooms ,,,981,1,,,,,,7,-8,8
+273,Babcock St,First,Lobby,,,192C,1,,,,,,-110,10,0
+275,Babcock St,First,Lobby,,,190,1,,,,,,-112,10,0
+277,Babcock St,First,Lobby,,,190A,1,,,,,,-114,10,0
+285,Babcock St,Basement,,,,B83A,1,,,,,,-120,23,-1
+285,Babcock St,Basement,Lobby,,,B63,1,,,,,,-122,24,-1
+285,Babcock St,Basement,Rink,,,B01,2,,,,,,-124,25,-1
+285,Babcock St,Basement,By trainers room,,,B62,1,,,,,,-126,26,-1
+300,Babcock St,First,By front door,,,190,2,,,,,,-130,25,0
+300,Babcock St,First,By front door,,,190,2,,,,,,-130,25,0
+91,Bay State Road,First,Lobby,,,190A,1,,,,,,78,17,0
+91,Bay State Road,Ninth,Study Lounge,,,902,1,,,confirm summer 2023 post-construction,,,77,16,8
+100,Bay State Road,Basement,Between bathrooms,,,B91,1,2012,,,,,73,9,-1
+100,Bay State Road,First,By elevator,,,191B,1,2012,,,,,73,9,0
+100,Bay State Road,Third,Between bathrooms,,,329,1,2012,,,,,73,9,2
+100,Bay State Road,Fourth,Between bathrooms,,,491A,1,2012,,,,,73,9,3
+100,Bay State Road,Fifth,Between bathrooms,,,591D,1,2012,,,,,73,9,4
+100,Bay State Road,Sixth,Between bathrooms,,,691A,1,2012,,,,,73,9,5
+140,Bay State Road,First,Between bathrooms,,,191,1,,,,,,61,9,0
+140,Bay State Road,First,Between bathrooms,,,195,1,,,,,,60,9,0
+156,Bay State Road,First,Room 104,,,104,1,,,,,,48,10,0
+196,Bay State Road,First,Lobby,,,191,1,,,,,,34,9,0
+226,Bay State Road,First,,,,186,1,,,,,,23,9,0
+226,Bay State Road,Third,,,,381,1,,,,,1,23,9,2
+233,Bay State Road,Basement,By elevator,,,B93,1,,,,,,21,14,-1
+233,Bay State Road,First,By elevator,,,193,1,,,,,,21,14,0
+233,Bay State Road,Second,By elevator,,,293,1,,,,,,21,13,1
+233,Bay State Road,Third,By elevator,,,393,1,,,,,,21,13,2
+264,Bay State Road,Basement,,,,B80,1,,,,,,9,8,-1
+264,Bay State Road,First,By room 108,,,108,1,,,,,,9,8,0
+264,Bay State Road,Third,By room 314,,,381,1,,,,,,9,8,2
+270,Bay State Road,Fourth,Grad student lounge,,,438,1,,,,,,8,11,3
+512,Beacon St,First,Lobby,,,112 (Lounge),1,,,,,,135,30,0
+517,Beacon St,First,Lobby,,,192A,1,,,,,,132,23,0
+610,Beacon St,Basement,By elevator,,,B97,1,,,,,,100,13,-1
+610,Beacon St,First,Near ladies room,,,196F,1,,,,,,101,13,0
+610,Beacon St,First,Near kitchen,,,196B,1,,,,,,100,13,0
+610,Beacon St,Basement,Hallway,,,B99,1,,,,,,101,13,-1
+610,Beacon St,Fifth,,,,596,1,,,,,,100,13,4
+25,Buick St,Third,,,,380,1,,,,,,-73,10,2
+565,Commonwealth Ave,First,Between bathrooms,,,191B,1,,,,,,70,5,0
+575,Commonwealth Ave,First,Study lounge,,,101,1,,Combo Bottle Filler/Drinking Fountain,,,,65,5,0
+575,Commonwealth Ave,Eighth,Study lounge,,,801,1,,Combo Bottle Filler/Drinking Fountain,,,,64,6,7
+590,Commonwealth Ave,Basement,By elevator,,,B90C,1,,,,,,55,-9,-1
+590,Commonwealth Ave,First,By elevator,,,190H,1,2022,,,,,55,-9,0
+590,Commonwealth Ave,Second,Near room 265,,,290D,1,,,,,,55,-9,1
+590,Commonwealth Ave,First,By Auditorium,,,"113,111,111B",3,#REF!,,,,,54,-9,0
+590,Commonwealth Ave,First,By Auditorium,,,"113,111,111B",3,#REF!,,,,,53,-8,0
+590,Commonwealth Ave,First,By Auditorium,,,"113,111,111B",3,#REF!,,,,,53,-9,0
+595,Commonwealth Ave,Second,Study lounge,,,214,1,,,restricted/card swipe needed??,,,57,4,1
+595,Commonwealth Ave,Second,Between bathrooms,,,293,1,,,,,,57,3,1
+595,Commonwealth Ave,Third,Study lounge,,,318,1,,,restricted/card swipe needed??,,,56,4,2
+595,Commonwealth Ave,Third,Between bathrooms,,,392,1,,,,,,56,3,2
+595,Commonwealth Ave,Fourth,Between bathrooms,,,493,1,,,,,,58,4,3
+595,Commonwealth Ave,Fifth,Between bathrooms,,,593,1,,,,,,58,3,4
+595,Commonwealth Ave,Sixth,Office across from bathrooms,,,646,1,,,,,,58,5,5
+595,Commonwealth Ave,Sixth,Between bathrooms,,,693,1,,,,,,58,5,5
+595,Commonwealth Ave,Ninth,,,,P14,1,,,,,,57,5,8
+2,Silber Way,Basement,Library,,,,1,,,Not sure exactly where this is in the library (which room in the library),,,47,4,-1
+2,Silber Way,First,Next to elevator,,,,1,,,Not sure which side of the elevator this is on ,,,47,5,0
+2,Silber Way,Second,Room 251,,,251,1,,,,,,47,6,1
+610,Commonwealth Ave,First,,,,194B,3,,,,,,43,-3,0
+610,Commonwealth Ave,First,,,,194B,3,,,,,,44,-3,0
+610,Commonwealth Ave,First,,,,194B,3,,,,,,41,-4,0
+610,Commonwealth Ave,Fourth,,,,494,2,,,,,,43,-3,3
+610,Commonwealth Ave,Fourth,,,,494,2,,,,,,44,-3,3
+610,Commonwealth Ave,Ninth,,,,906,2,,,,,,43,-3,8
+610,Commonwealth Ave,Ninth,,,,906,2,,,,,,44,-3,8
+621,Commonwealth Ave,Second,By elevator,,,293,1,,,,,,43,3,1
+621,Commonwealth Ave,Third,By elevator,,,391,1,,,,,,42,4,2
+635,Commonwealth Ave,Basement,By ladies room,,,B93,1,,,,,,38,4,-1
+635,Commonwealth Ave,First,By elevator,,,193,1,,,,,,38,4,0
+635,Commonwealth Ave,Second,By elevator,,,293A,1,,,,,,38,4,1
+635,Commonwealth Ave,Fourth,Room 443,,,443,1,,,,,,38,4,3
+640,Commonwealth Ave,Basement,By elevator,,,B90,1,,,,,,38,-7,-1
+640,Commonwealth Ave,First,Hallway by room 105,,,190,1,,,,,,38,-7,0
+640,Commonwealth Ave,Second,Hallway by room 205,,,290,1,,,,,,38,-7,1
+640,Commonwealth Ave,Third,Room 301,,,301,1,,,,,,38,-7,2
+675,Commonwealth Ave,Basement,Hallway,,,B95,1,,,,,,23,4,-1
+675,Commonwealth Ave,First,Hallway,,,197,1,,,,,,23,4,0
+675,Commonwealth Ave,Second,Hallway,,,297,1,,,,,,23,4,1
+685,Commonwealth Ave,Basement,Hallway,,,,2,,,Other document says there were 5 stations but here it says there were 7,,,16,5,-1
+685,Commonwealth Ave,Basement,Hallway,,,,2,,,Other document says there were 5 stations but here it says there were 7,,,13,4,-1
+685,Commonwealth Ave,First,"Hallway, near room 131A-E",,,192,1,2022,Combo Bottle Filler/Drinking Fountain,,,,16,5,0
+685,Commonwealth Ave,Second,"Hallway, near room 235",,,290,1,2022,Combo Bottle Filler/Drinking Fountain,,,,16,5,1
+685,Commonwealth Ave,Third,"Hallway, near room 341",,,390,1,2022,Combo Bottle Filler/Drinking Fountain,,,,16,4,2
+685,Commonwealth Ave,Fourth,"Hallway, near room 445",,,490,1,2022,Combo Bottle Filler/Drinking Fountain,,,,16,4,3
+700,Commonwealth Ave,Fourth,By mens room ,,,B495A,1,,Combo Bottle Filler/Drinking Fountain,,,,19,-4,3
+700,Commonwealth Ave,5,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,4
+700,Commonwealth Ave,6,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,5
+700,Commonwealth Ave,7,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,6
+700,Commonwealth Ave,8,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,7
+700,Commonwealth Ave,9,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,8
+700,Commonwealth Ave,10,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,9
+700,Commonwealth Ave,11,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,10
+700,Commonwealth Ave,12,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,11
+700,Commonwealth Ave,13,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,12
+700,Commonwealth Ave,14,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,13
+700,Commonwealth Ave,15,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,14
+700,Commonwealth Ave,16,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,15
+700,Commonwealth Ave,17,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,16
+700,Commonwealth Ave,18,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,19,-4,17
+700,Commonwealth Ave,5,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,4
+700,Commonwealth Ave,6,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,5
+700,Commonwealth Ave,7,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,6
+700,Commonwealth Ave,8,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,7
+700,Commonwealth Ave,9,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,8
+700,Commonwealth Ave,10,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,9
+700,Commonwealth Ave,11,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,10
+700,Commonwealth Ave,12,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,11
+700,Commonwealth Ave,13,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,12
+700,Commonwealth Ave,14,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,13
+700,Commonwealth Ave,15,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,14
+700,Commonwealth Ave,16,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,15
+700,Commonwealth Ave,17,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,16
+700,Commonwealth Ave,18,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,23,-4,17
+700,Commonwealth Ave,5,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,4
+700,Commonwealth Ave,6,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,5
+700,Commonwealth Ave,7,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,6
+700,Commonwealth Ave,8,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,7
+700,Commonwealth Ave,9,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,8
+700,Commonwealth Ave,10,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,9
+700,Commonwealth Ave,11,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,10
+700,Commonwealth Ave,12,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,11
+700,Commonwealth Ave,13,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,12
+700,Commonwealth Ave,14,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,13
+700,Commonwealth Ave,15,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,14
+700,Commonwealth Ave,16,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,15
+700,Commonwealth Ave,17,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,16
+700,Commonwealth Ave,18,common area/lounge,,,"A,B,C525-A,B,C1826",30,2022,Tabletop Bottle Filler,,,,27,-4,17
+705,Commonwealth Ave,First,Hallway,,,,1,,,705 COMM IS LABELED AS 675-725 COMM,,,11,4,0
+705,Commonwealth Ave,Third,Hallway,,,,1,,,"skips from 685 Comm to 725 Comm (is 705 included in the 725 blueprint?)... This are A (675 Comm), B (685 Comm), and C (725 Comm) blueprints. ",,,11,4,2
+705,Commonwealth Ave,Fourth,Hallway,,,,1,,,"skips from 685 Comm to 725 Comm (is 705 included in the 725 blueprint?)... This are A (675 Comm), B (685 Comm), and C (725 Comm) blueprints. ",,,11,4,3
+725,Commonwealth Ave,Basement,Hallway,,,B82,2,,,,,,9,4,-1
+725,Commonwealth Ave,Basement,Hallway,,,B82,2,,,,,,5,4,-1
+725,Commonwealth Ave,First,Hallway,,,182,2,,,,,,9,4,0
+725,Commonwealth Ave,First,Hallway,,,182,2,,,,,,5,4,0
+725,Commonwealth Ave,Third,Hallway,,,382,2,,,,,,9,4,2
+725,Commonwealth Ave,Third,Hallway,,,382,2,,,,,,5,4,2
+725,Commonwealth Ave,Fourth,Hallway,,,482,1,,,,,,7,4,3
+735,Commonwealth Ave,Basement,Hallway,,,B90A,1,,,,,,0,7,-1
+745,Commonwealth Ave,Basement,,,,,1,,,Not sure exactly where this is ,,,7,4,-1
+745,Commonwealth Ave,First,,,,190,1,,,,,,9,4,0
+745,Commonwealth Ave,Second,In library,,,207 (STUDY),1,,,,,,8,4,1
+745,Commonwealth Ave,Third,Hallway,,,394,1,,,,,,8,4,2
+750,Commonwealth Ave,First,By bathrooms,,,190,1,,,,,,-10,-4,0
+765,Commonwealth Ave,Basement,,,,,1,,,Not sure exactly where this is,,,-8,9,-1
+765,Commonwealth Ave,First,Near all gender,,,190,1,,,,,,-9,8,0
+765,Commonwealth Ave,First,By bathrooms,,,186,1,,,,,,-8,9,0
+765,Commonwealth Ave,Second,Across from #215 kitchen,,,0290C,1,,,,,,-8,9,1
+765,Commonwealth Ave,Third,Near stair #2,,,0390A,1,,,,,,-8,9,2
+765,Commonwealth Ave,Third,By room #385,,,0390A,1,,,,,,-9,8,2
+765,Commonwealth Ave,Fourth,By bathrooms,,,496,2,,,,,,-8,9,3
+765,Commonwealth Ave,Fourth,By bathrooms,,,496,2,,,,,,-9,8,3
+765,Commonwealth Ave,Fourth,By room #485,,,0490A,1,,,,,,-9,9,3
+765,Commonwealth Ave,Fifth,Across from room #526A,,,0519A,1,,,,,,-8,9,4
+765,Commonwealth Ave,Fifth,By room #585,,,0590A,1,,,,,,-9,8,4
+765,Commonwealth Ave,Sixth,Hallway,,,0690A,1,,,,,,-8,9,5
+765,Commonwealth Ave,Seventh,By bathrooms,,,0790A,1,,,,,,-8,9,6
+765,Commonwealth Ave,Eighth,By bathrooms,,,0890A,1,,,,,,-8,9,7
+765,Commonwealth Ave,Ninth,Across from #902P,,,0990A,1,,,,,,-8,9,8
+765,Commonwealth Ave,Tenth,Hallway,,,1090A,1,,,,,,-8,9,9
+765,Commonwealth Ave,Eleventh,By bathrooms,,,1190A,1,,,,,,-8,9,10
+765,Commonwealth Ave,Twelfth ,Across from #1202K,,,1290A,1,,,,,,-8,9,11
+765,Commonwealth Ave,Thirteenth,By bathrooms,,,1390A,1,,,,,,-8,9,12
+765,Commonwealth Ave,Fourteenth,By bathrooms,,,1490A,1,,,,,,-8,9,13
+765,Commonwealth Ave,Fifteenth,By bathrooms,,,1590A,1,,,,,,-8,9,14
+765,Commonwealth Ave,Sixteenth,By bathrooms,,,1690A,1,,,,,,-8,9,15
+765,Commonwealth Ave,Seventeenth,By bathrooms,,,1790A,1,,,,,,-8,9,16
+767,Commonwealth Ave,First,By bathrooms,,,,2,,,Could not find 767 Comm,,,-3,10,0
+767,Commonwealth Ave,First,By bathrooms,,,,2,,,Could not find 767 Comm,,,-3,9,0
+771,Commonwealth Ave,Basement,Near B03,,,B03,1,,,,,,-13,10,-1
+771,Commonwealth Ave,First,By elevator,,,193,1,,,,,,-13,10,0
+771,Commonwealth Ave,Third,By elevator,,,397,1,,,,,,-13,10,2
+775,Commonwealth Ave,First ,By food court,,,101,1,,,,,,-20,6,0
+775,Commonwealth Ave,Second,By ladies room,,,,1,,,Not sure which bathroom is the ladies room,,,-20,6,1
+775,Commonwealth Ave,Second,By room 228,,,228A,1,,,,,,-22,4,1
+775,Commonwealth Ave,Second,By room 245,,,296,1,,,,,,-22,8,1
+775,Commonwealth Ave,Fourth,By elevator,,,401,1,,,,,,-20,6,3
+1,University Rd,First,By room #118,,,190A,1,,,,,,-27,8,0
+1,University Rd,Second,By room #208,,,284,1,,,,,,-27,8,1
+808,Commonwealth Ave,First,By art gallery,,,191,1,,,,,,-42,-5,0
+808,Commonwealth Ave,Second,East,,,291,1,,,,,,-41,-5,1
+808,Commonwealth Ave,Second,West,,,291C,1,,,,,,-43,-5,1
+820,Commonwealth Ave,First, ,,,191,1,,,,,,-47,-6,0
+820,Commonwealth Ave,Second,near bathrooms,,,291,1,,,"on walk-thru, be specific about which bathroom; include room number if possible",,,-47,-6,1
+820,Commonwealth Ave,Third,near bathrooms,,,391,1,,,Inventory check,,,-47,-6,2
+820,Commonwealth Ave,Fourth, ,,,491,1,,,,,,-47,-6,3
+820,Commonwealth Ave,Production Area, ,,,101,1,,,,,,-47,-6,0
+855,Commonwealth Ave,Basement,West elevator,,,B29,1,,,,,,-61,5,-1
+855,Commonwealth Ave,First,East elevator,,,198,1,,,,,,-61,5,0
+855,Commonwealth Ave,Second,By elevator,,,280,1,,,,,,-61,5,1
+855,Commonwealth Ave,Third,By elevator,,,390,1,,,,,,-61,5,2
+855,Commonwealth Ave,Fourth,By elevator,,,490,1,,,,,,-61,5,3
+855,Commonwealth Ave,Fifth,By elevator,,,590,1,,,,,,-61,5,4
+871,Commonwealth Ave,First,Near room123,,,195,1,,,,,,-66,5,0
+871,Commonwealth Ave,Second,Room 215 and room 211D,,,"215, 211D",1,,,,,,-66,5,1
+871,Commonwealth Ave,Third,Hall,,,393,1,,,,,,-66,5,2
+871,Commonwealth Ave,Third,Near room 305,,,396,2,,,,,,-66,5,2
+871,Commonwealth Ave,Third,Near room 305,,,396,2,,,,,,-66,5,2
+871,Commonwealth Ave,Fourth,Hall,,,495,1,,,,,,-67,5,3
+871,Commonwealth Ave,Fifth, ,,,594,1,2022,,,,,-68,5,4
+871,Commonwealth Ave,First,lobby,,,130,1,,,,,,-68,5,0
+871,Commonwealth Ave,Second,lobby,,,200,1,,,,,,-66,5,1
+871,Commonwealth Ave,Fourth,Near room 404,,,493,1,2022,Combo Bottle Filler/Drinking Fountain,,,,-68,5,3
+871,Commonwealth Ave,Fifth,Near room 505,,,597,1,2022,Combo Bottle Filler/Drinking Fountain,,,,-66,5,4
+871,Commonwealth Ave,Fifth,Near room 517,,,598,1,2022,Combo Bottle Filler/Drinking Fountain,,,,-68,5,4
+881,Commonwealth Ave,First,Student health clinic,,,190H,1,,,,,,-75,4,0
+881,Commonwealth Ave,Third,,,,,1,,,Not sure exaclty where this is,,,-75,4,2
+881,Commonwealth Ave,Fourth, ,,,483,1,,,,,,-75,4,3
+890,Commonwealth Ave,Third,,,,,1,,,Not sure exaclty where this is,,,-74,-7,2
+915,Commonwealth Ave,L1,By elevator,,,L195C,2,,,,,,-84,7,-1
+915,Commonwealth Ave,L1,By elevator,,,L195C,2,,,,,,-84,7,-1
+915,Commonwealth Ave,Lobby,By elevator,,,195C,2,,,,,,-84,7,0
+915,Commonwealth Ave,Lobby,By elevator,,,195C,2,,,,,,-86,5,0
+915,Commonwealth Ave,Pool,By faculty staff LR,,,L192,1,,,,,,-86,7,-1
+915,Commonwealth Ave,Second,By elevator,,,295C,2,,,,,,-84,7,1
+915,Commonwealth Ave,Second,By elevator,,,295C,2,,,,,,-86,5,1
+915,Commonwealth Ave,Third,By elevator,,,395,1,,,,,,-84,7,2
+925,Commonwealth Ave,Ground,Hockey Office Kitchen,,,G190D,1,23-Jul,Tabletop Bottle Filler,,,,-94,9,0
+928,Commonwealth Ave,First,,,,,1,,,Not sure exaclty where this is,,,-90,-5,0
+928,Commonwealth Ave,Second, ,,,291,1,,,,,,-90,-5,1
+928,Commonwealth Ave,Third,,,,,1,,,Not sure exaclty where this is,,,-90,-5,2
+985,Commonwealth Ave,First,Lobby,,,190A,1,,,it looks like there might be 2 in this area,,,-114,5,0
+1019,Commonwealth Ave,First,Lobby,,,198,1,,,,,,-124,5,0
+1019,Commonwealth Ave,Second,"Main corridor wall, turn right out of elevators",,,291,1,23-Jul,,,,,-124,5,1
+1019,Commonwealth Ave,Third,"Main corridor wall, turn right out of elevators",,,394,1,23-Jul,,,,,-124,5,2
+1019,Commonwealth Ave,Fourth,"Main corridor wall, turn right out of elevators",,,491,1,23-Jul,,,,,-124,5,3
+1019,Commonwealth Ave,Fifth,"Main corridor wall, turn right out of elevators",,,591,1,23-Jul,,,,,-124,5,4
+1019,Commonwealth Ave,Sixth,"Main corridor wall, turn right out of elevators",,,691,1,23-Jul,,,,,-124,5,5
+2,Silber Way,Third,Room 359,,,,1,,,"Says ""Occupied"" by 2 people...",,,47,5,2
+2,Silber Way,Fourth,Room 423,,,,1,,,,,,47,5,3
+2,Silber Way,Seventh,By elevator,,,,1,,,,,,47,5,6
+2,Cummington Mall,Second,Near room 205,,,291,1,,,,,,46,-12,2
+2,Cummington Mall,Fourth,Hallway by 408,,,491,1,,,,,,46,-12,3
+5,Cummington Mall,First,By bathrooms,,,197,1,,,,,,45,-8,0
+24,Cummington Mall,First,by mens bathroom,,,0191B,1,,,added by Julia (this one was missed),,,41,-11,0
+24,Cummington Mall,Basement,By Auditorium,,,B91,1,23-Aug,Combo Bottle Filler/Drinking Fountain,,,,41,-11,-1
+36,Cummington Mall,First,Library,,,101,1,2023,,(30-38 Cummington Mall),,,40,-11,0
+36,Cummington Mall,Second, ,,,284,1,,,,,,40,-11,1
+44,Cummington Mall,Basement,Lobby,,,B91,1,,,,,,31,-11,-1
+44,Cummington Mall,First,Hallway by Ingalls lounge,,,196,1,,,,,,31,-11,0
+44,Cummington Mall,Fourth,Between bathrooms,,,402,1,,,,,,31,-11,3
+44,Cummington Mall,Sixth,By bathrooms,,,694,1,,,,,,31,-11,5
+48,Cummington Mall,Second,By room 209,,,291,1,,,(48-52 Cummington Mall),,,27,-10,1
+64,Cummington Mall,First,By room 152,,,190,1,,,(64-86 Cummington Mall),,,26,-10,0
+68,Cummington Mall,Basement,By room B45,,,B92,1,,,,,,26,-10,-1
+96,Cummington Mall,First,by room 157,,,198,1,,,,,,16,-10,0
+111,Cummington Mall,Basement,,,,B90B,1,,,,,,21,-7,-1
+111,Cummington Mall,First,,,,190A,2,,,,,,21,-7,0
+111,Cummington Mall,First,,,,190A,2,,,,,,21,-7,0
+111,Cummington Mall,Second,,,,290E,1,,,,,,21,-7,1
+110-112,Cummington Mall,Second,,,,299,1,,,,,,11,-7,1
+33,Harry Agganis Way,First,Lobby,,,195,1,,,,,,-97,20,0
+33,Harry Agganis Way,second,By bathrooms,,,291,1,,Combo Bottle Filler/Drinking Fountain,,,,-97,20,1
+1,University Rd,First,Hall by student activity,,,,1,,,Not exactly sure where this is ,,,29,9,0
+1,University Rd,Third,Hall by room #351,,,390,1,,,,,,29,9,2
