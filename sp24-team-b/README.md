@@ -1,5 +1,7 @@
 # BU Sustainability: Water Filling Stations Team B
-Team Members: Marilyn Risinger (marilynr@bu.edu), Allison Lu (alu8@bu.edu), Katherine Deng (kdeng@bu.edu), Grace Van Sciver (gracevs@bu.edu), Xikun Feng (fengxk@bu.edu), Matthew Wang (mattw24@bu.edu)
+Team Members: Marilyn Risinger - Team Representative (marilynr@bu.edu, marilynrisinger1), Allison Lu (alu8@bu.edu, allisonlu8), Katherine Deng (kdeng@bu.edu, kdeng55), Grace Van Sciver (gracevs@bu.edu, gracevansciver), Xikun Feng (fengxk@bu.edu, ken1208), Matthew Wang (mattw24@bu.edu, mattchsw)
+
+
 
 This repository hosts a software framework designed to identify optimal locations for new water filling stations on Boston University's Charles River Campus. The project leverages various data sources from Boston University to generate a prioritized list of potential sites, each evaluated based on its significance in meeting the campus's hydration needs. Additionally, the framework allows users to input a priority factor of their choice, enabling them to obtain a customized list of locations that aligns with their specific preferences and priorities for installing new water filling stations.
 
