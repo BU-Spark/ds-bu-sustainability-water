@@ -1,0 +1,35 @@
+Address,Room Name,Floor,Good Candidate
+ 925 commonwealth avenue,Agganis Arena Burke Club Room ,1,Maybe
+ 925 commonwealth avenue,Agganis Arena Friends of Hockey Lounge ,1,Maybe
+ 285 babcock street,Case Center Eilberg Lounge ,3,No
+ 675-725 commonwealth avenue,College of Arts & Sciences Classrooms ,,No
+ 640 commowealth avenue,College of Communication Lounge ,1,Maybe
+ 871 commonwealth avenue,College of General Studies Gilbane Lounge,1,No
+ 871 commonwealth avenue,College of General Studies Katzenberg Lounge,4,No
+ 871 commonwealth avenue,College of General Studies Sleeper Auditorium,1,No
+ 225 bay state road,Dahod Family Alumni Center ,1,No
+ 775 commonwealth avenue,George Sherman Union Alley,B,No
+ 775 commonwealth avenue,George Sherman Union Conference Rooms,3,Yes
+ 775 commonwealth avenue,George Sherman Union Metcalf Hall,2,No
+ 775 commonwealth avenue,George Sherman Union Terrace Lounge,2,Maybe
+ 775 commonwealth avenue,George Sherman Union Ziskind Lounge,2,Maybe
+ 808 commowealth avenue,Howard Thurman Center,2024-01-02 00:00:00,Maybe
+ 610 commonwealth avenue,Kilachand Center Eichenbaum Colloquium Room and Atrium ,1,No
+ 91 bay state road,Kilachand Hall Commons ,1,Maybe
+ 8 st. mary's street,Photonics Center Student Lounge,1,Yes
+ 8 st. mary's street,Photonics Colloquium Room ,9,Yes
+595 commonwealth avenue,Questrom Auditorium and Atrium,1,Yes
+595 commonwealth avenue,Questrom Executive Dining Room,4,Maybe
+ 767 commonwealth avenue,School of Law Auditorium ,1,No
+ 765 commonwealth avenue,School of Law Barristers Hall ,1,Maybe
+ 765 commowealth avenue,School of Law/Redstone Building Lobby ,1,Maybe
+ 10 buick street,Student Village I Lounge ,18,Yes
+ 33 agganis way,Student Village II Lounge ,26,No
+1 silber way,Trustee Center and Kenmore Room,9,No
+ 685 commonwealth avenue,Tsai Performance Center ,1,No
+,,,
+,Legend:,,
+,Good candidate for bottle fillers,,
+,Maybe,,
+,Not a good candidate,,
+,Already completed/sufficient,,
