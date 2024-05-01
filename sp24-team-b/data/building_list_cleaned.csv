@@ -1,0 +1,301 @@
+Building Type,Residential Building Type,Mechanical Ventilation,Maintained by BU FMO,address
+Residential,Small Dormitory-Style,No,YES,1 buswell
+Academic,,Yes,YES,1 university
+Residential,Apartment Style,Yes,YES,10 buick
+Residential,House,Partial,YES,10 cottage farm
+Administrative,,Yes,YES,10 lenox
+Athletic,,Yes,YES,100 ashford
+Student Support,,Yes,YES,100 bay state
+Residential,Apartment Style,No,YES,100 mountfort
+Academic,,Yes,NO,1010 commonwealth
+Residential,Large Dormitory-Style,Yes,YES,1019 commonwealth
+Residential,Small Dormitory-Style,No,YES,1053 beacon
+Residential,Apartment Style,No,YES,11 bay state
+Residential,Small Dormitory-Style,No,YES,11 buswell
+Academic,,,YES,11-19 deerfield
+Residential,Apartment Style,No,YES,110 bay state
+Academic,,Yes,YES,110-112 cummington mall
+Research,,Yes,YES,111 cummington mall
+Residential,Apartment Style,No,YES,112 bay state
+Residential,Apartment Style,Yes,YES,113 bay state
+Residential,Apartment Style,No,YES,115 bay state
+Academic,,No,YES,116 bay state
+Residential,Small Dormitory-Style,No,YES,117 bay state
+Academic,,No,YES,118 bay state
+Administrative,,Yes,YES,120 ashford
+Academic,,No,YES,121 bay state
+Commercial,,Parking Garage,NO,121 dummer
+Administrative,,No,YES,122 bay state
+Residential,Apartment Style,No,YES,124 bay state
+Administrative,,No,YES,125 bay state
+Residential,Apartment Style,No,YES,126 bay state
+Academic,,No,YES,128 bay state
+Residential,Apartment Style,No,YES,131 bay state
+Residential,Apartment Style,No,YES,133 bay state
+Residential,Small Dormitory-Style,No,YES,135 bay state
+Residential,House,Partial,YES,135 ivy
+Academic,,No,YES,138 mountfort
+Residential,Apartment Style,No,YES,139 bay state
+Residential,Apartment Style,No,YES,14 buswell
+Residential,Large Dormitory-Style,Partial,YES,140 bay state
+Academic,,No,YES,141 bay state
+Residential,Small Dormitory-Style,No,YES,141 carlton
+Academic,,No,YES,143 bay state
+Administrative,,No,YES,143 essex
+Academic,,No,YES,145 bay state
+Academic,,No,YES,147 bay state
+Residential,Apartment Style,No,YES,15 buswell
+Research,,Yes,YES,15 . mary's
+Residential,House,No,YES,150 mountfort
+Academic,,No,YES,152 bay state
+Residential,Small Dormitory-Style,No,YES,153 bay state
+Academic,,No,YES,154 bay state
+Academic,,Yes,YES,156 bay state
+Residential,Small Dormitory-Style,No,YES,157 bay state
+Residential,Small Dormitory-Style,No,YES,158-162 bay state
+Residential,Small Dormitory-Style,No,YES,159 bay state
+Residential,Apartment Style,No,YES,16 arundel
+Residential,Small Dormitory-Style,No,YES,161 bay state
+Residential,Small Dormitory-Style,No,YES,163 bay state
+Administrative,,Yes,YES,163-179 amory
+Residential,Small Dormitory-Style,No,YES,164 bay state
+Residential,Small Dormitory-Style,,YES,165 bay state
+Residential,Small Dormitory-Style,No,YES,166-168 bay state
+Residential,Small Dormitory-Style,No,YES,167-169 bay state
+Residential,Apartment Style,No,YES,17 buswell
+Residential,Apartment Style,No,YES,171 bay state
+Residential,Small Dormitory-Style,No,YES,172 bay state
+Residential,Apartment Style,No,YES,173 bay state
+Residential,Small Dormitory-Style,No,YES,175 bay state
+Residential,Small Dormitory-Style,No,YES,176 bay state
+Residential,Small Dormitory-Style,No,YES,177 bay state
+Residential,Small Dormitory-Style,No,YES,178 bay state
+Residential,Small Dormitory-Style,No,YES,179 bay state
+Residential,Small Dormitory-Style,No,YES,180 bay state
+Residential,Small Dormitory-Style,No,YES,181 bay state
+Residential,Small Dormitory-Style,No,YES,182 bay state
+Residential,Apartment Style,No,YES,183 bay state
+Residential,Small Dormitory-Style,No,YES,184 bay state
+Academic,,No,YES,185 bay state
+Residential,Small Dormitory-Style,No,YES,186 bay state
+Academic,,No,YES,187 bay state
+Residential,Small Dormitory-Style,No,YES,188 bay state
+Residential,Apartment Style,No,YES,19 euston
+Residential,Small Dormitory-Style,No,YES,190 bay state
+Residential,Small Dormitory-Style,No,YES,191 bay state
+Residential,Small Dormitory-Style,No,YES,192 bay state
+Residential,Small Dormitory-Style,No,YES,193 bay state
+Residential,Small Dormitory-Style,No,YES,194 bay state
+Residential,Small Dormitory-Style,No,YES,195-197 bay state
+Residential,Small Dormitory-Style,No,YES,196 bay state
+Residential,Apartment Style,No,YES,198 bay state
+Residential,Small Dormitory-Style,No,YES,199 bay state
+Residential,Apartment Style,No,YES,1a buswell
+Residential,Apartment Style,No,YES,2 buswell
+Research,,Yes,YES,2 cummington mall
+Residential,Small Dormitory-Style,No,YES,2 raleigh
+Academic,,Yes,YES,2 silber way
+Residential,Small Dormitory-Style,No,YES,200-202 bay state
+Residential,Small Dormitory-Style,No,YES,201 bay state
+Residential,Small Dormitory-Style,No,YES,203 bay state
+Residential,Small Dormitory-Style,No,YES,204 bay state
+Residential,Small Dormitory-Style,No,YES,205 bay state
+Residential,Small Dormitory-Style,No,YES,206 bay state
+Residential,Small Dormitory-Style,No,YES,207 bay state
+Residential,Small Dormitory-Style,No,YES,208 bay state
+Residential,Small Dormitory-Style,No,YES,209 bay state
+Residential,Small Dormitory-Style,No,YES,210-212 bay state
+Student Support,,Yes,YES,213 bay state
+Residential,Apartment Style,No,YES,214 bay state
+Residential,Apartment Style,No,YES,22 buswell
+Administrative,,Yes,YES,225 bay state
+Academic,,No,YES,226 bay state
+Academic,,No,YES,232 bay state
+Academic,,Yes,YES,233 bay state
+Academic,,No,YES,236 bay state
+Residential,Apartment Style,No,YES,24 buswell
+Residential,House,Partial,YES,24 cottage farm
+Research,,Yes,YES,24 cummington mall
+Residential,Apartment Style,No,YES,25 aberdeen
+Administrative,,Yes,YES,25 buick
+Residential,House,Yes,YES,25 lenox
+Academic,,No,YES,264-270 bay state
+Residential,Apartment Style,No,YES,27 aberdeen
+Residential,Large Dormitory-Style,Yes,YES,273 babcock
+Residential,Large Dormitory-Style,Yes,YES,275 babcock
+Residential,Large Dormitory-Style,Yes,YES,277 babcock
+Parking,,Parking Garage,YES,278 babcock
+Athletic,,Yes,YES,285 babcock
+Residential,Small Dormitory-Style,No,YES,29 buswell
+Residential,Apartment Style,No,YES,3 buswell
+Research,,Yes,YES,3-5 cummington mall
+Athletic,,No,YES,30 harry agganis way
+Research,,Yes,YES,30-38 cummington mall
+Athletic,,Yes,YES,300 babcock
+Residential,Small Dormitory-Style,No,YES,31 buswell
+Administrative,,Yes,YES,32 harry agganis way
+Residential,Small Dormitory-Style,No,YES,33 buswell
+Residential,Large Dormitory-Style,Yes,YES,33 harry agganis way
+Residential,Apartment Style,No,YES,34 buswell
+Athletic,,No,YES,347 bay state
+Residential,Apartment Style,No,YES,35 buswell
+Residential,Small Dormitory-Style,No,YES,37 buswell
+Residential,Apartment Style,No,YES,37 . mary's
+Residential,Small Dormitory-Style,No,YES,37-39 carlton
+Residential,Apartment Style,No,YES,38 buswell
+Residential,Apartment Style,No,YES,39 buswell
+Residential,Apartment Style,No,YES,39 . mary's
+Residential,Small Dormitory-Style,No,YES,40 buswell
+Residential,Apartment Style,No,YES,41 buswell
+Residential,Apartment Style,No,YES,41 . mary's
+Residential,Small Dormitory-Style,No,YES,42 buswell
+Residential,Small Dormitory-Style,No,YES,43 buswell
+Residential,Apartment Style,No,YES,43 . mary's
+Residential,Small Dormitory-Style,No,YES,44 buswell
+Research,,Yes,YES,44 cummington mall
+Residential,Small Dormitory-Style,No,YES,45 buswell
+Residential,Apartment Style,No,YES,45 . mary's
+Residential,Apartment Style,No,YES,455 park drive
+Residential,Apartment Style,No,YES,457 park drive
+Residential,Apartment Style,No,YES,46 mountfort
+Residential,Small Dormitory-Style,No,YES,47 buswell
+Residential,Apartment Style,No,YES,47 . mary's
+Residential,Small Dormitory-Style,No,YES,48 buswell
+Research,,Yes,YES,48-52 cummington mall
+Residential,Small Dormitory-Style,No,YES,481 commonwealth
+Residential,Small Dormitory-Style,No,YES,483 commonwealth
+Residential,Apartment Style,No,YES,5 buswell
+Residential,House,No,YES,50 worthington
+Residential,Apartment Style,No,YES,50-52 buswell
+Residential,Apartment Style,No,YES,500-504 park drive
+Residential,Apartment Style,No,YES,509 park drive
+Residential,Large Dormitory-Style,No,YES,512 beacon
+Residential,Small Dormitory-Style,No,YES,514-522 park drive
+Residential,Apartment Style,No,YES,515 park drive
+Residential,Small Dormitory-Style,No,YES,517 beacon
+Residential,Small Dormitory-Style,No,YES,519 beacon
+Residential,Small Dormitory-Style,No,YES,521 beacon
+Academic,,No,YES,53 bay state
+Residential,House,Partial,YES,53 worthington
+Residential,Apartment Style,No,YES,53-57 deerfield
+Residential,Small Dormitory-Style,No,YES,531 beacon
+Academic,,Yes,YES,540 commonwealth
+Residential,Apartment Style,No,YES,55 buswell
+Residential,Apartment Style,No,YES,56 bay state
+Academic,,Yes,YES,565 commonwealth
+Residential,Large Dormitory-Style,Yes,YES,575 commonwealth
+Residential,Apartment Style,No,YES,58 bay state
+Residential,Apartment Style,Yes,YES,580 commonwealth
+Residential,Apartment Style,No,YES,59 bay state
+Research,,Yes,YES,590 commonwealth
+Academic,,Yes,YES,595 commonwealth
+Residential,Apartment Style,No,YES,6 buswell
+Residential,Apartment Style,No,YES,60 bay state
+Academic,,Yes,YES,602 commonwealth
+Residential,Apartment Style,No,YES,61 bay state
+Residential,Large Dormitory-Style,Yes,YES,610 beacon
+Research,,Yes,YES,610 commonwealth
+Academic,,No,YES,617-621 commonwealth
+Athletic,,Yes,YES,619 memorial drive
+Residential,Apartment Style,No,YES,62 bay state
+Residential,Small Dormitory-Style,No,YES,625 commonwealth
+Residential,Apartment Style,No,YES,627-629 commonwealth
+Academic,,,YES,63 bay state
+Research,,Yes,YES,635 commonwealth
+Academic,,Yes,YES,64-86 cummington mall
+Academic,,Yes,YES,640 commonwealth
+Residential,Apartment Style,No,YES,65 bay state
+Academic,,Yes,YES,665 commonwealth
+Academic,,No,YES,67 bay state
+Academic,,Partial,YES,675 - 725 commonwealth
+Research,,Yes,YES,677 beacon
+Residential,Apartment Style,Yes,YES,68-70 bay state
+Residential,Apartment Style,No,YES,69 bay state
+Residential,Small Dormitory-Style,No,YES,7 buswell
+Residential,Apartment Style,No,YES,7 euston
+Academic,,Yes,YES,700 beacon
+Residential,Large Dormitory-Style,Partial,YES,700 commonwealth
+Academic,,No,YES,704 commonwealth
+Residential,Apartment Style,No,YES,708 commonwealth
+Residential,Apartment Style,No,YES,71 bay state
+Commercial,Apartment Style,Partial,YES,710 commonwealth
+Commercial,Apartment Style,No,YES,714 commonwealth
+Academic,,No,YES,718 commonwealth
+Residential,Apartment Style,No,YES,722  commonwealth
+Residential,Apartment Style,No,YES,726 commonwealth
+Residential,Apartment Style,No,YES,728 commonwealth
+Residential,Apartment Style,No,YES,73 bay state
+Research,,Yes,YES,730 commonwealth
+Student Support,,No,YES,735 commonwealth
+Commercial,,No,YES,736 - 738 commonwealth
+Residential,Apartment Style,No,YES,74 bay state
+Parking,,Parking Garage,YES,742 commonwealth
+Academic,,Partial,YES,745 - 755 commonwealth
+Residential,Apartment Style,No,YES,75 bay state
+Academic,,Yes,YES,750 commonwealth
+Residential,Apartment Style,No,YES,76 bay state
+Academic,,Yes,YES,765 commonwealth
+Residential,Apartment Style,No,YES,77 bay state
+Student Support,,Yes,YES,771 commonwealth
+Student Support,,Yes,YES,775 commonwealth
+Residential,Apartment Style,No,YES,78 bay state
+Residential,Small Dormitory-Style,No,YES,79 bay state
+Research,,Yes,YES,8 . mary's
+Residential,Apartment Style,No,YES,80 bay state
+Residential,Apartment Style,No,YES,80-82 ivy
+Residential,Apartment Style,No,YES,806-820 beacon
+Academic,,Yes,YES,808 commonwealth
+Residential,Small Dormitory-Style,No,YES,81 bay state
+Residential,Apartment Style,No,YES,82 bay state
+Academic,,Yes,YES,820 commonwealth
+Residential,Apartment Style,No,YES,822 beacon
+Residential,Apartment Style,No,YES,824-826 beacon
+Residential,Apartment Style,No,YES,828 beacon
+Residential,Small Dormitory-Style,No,YES,83 bay state
+Residential,Apartment Style,No,NO,83 ivy
+Residential,Apartment Style,No,YES,830 beacon
+Commercial,,Yes,NO,830-846 commonwealth
+Residential,Apartment Style,No,YES,832 beacon
+Residential,Apartment Style,No,YES,834-836 beacon
+Residential,Apartment Style,No,YES,84 bay state
+Residential,Apartment Style,No,YES,844 beacon
+Residential,Apartment Style,No,YES,845 beacon
+Residential,Apartment Style,No,YES,848 beacon
+Residential,Small Dormitory-Style,No,YES,850 beacon
+Residential,Apartment Style,No,YES,852 beacon
+Residential,Apartment Style,No,YES,853 beacon
+Residential,Apartment Style,No,YES,855 beacon
+Academic,,Yes,YES,855 commonwealth
+Residential,Apartment Style,No,YES,856-862 beacon
+Residential,Apartment Style,No,YES,86 bay state
+Residential,Apartment Style,No,YES,864 beacon
+Residential,Apartment Style,No,YES,866 beacon
+Residential,Apartment Style,No,YES,867 beacon
+Residential,Apartment Style,No,YES,870 beacon
+Academic,,Yes,YES,871 commonwealth
+Residential,Apartment Style,No,YES,872 beacon
+Residential,Apartment Style,No,YES,875 beacon
+Residential,Apartment Style,No,YES,88 bay state
+Administrative,,Yes,YES,881 commonwealth
+Academic,,Yes,NO,888 commonwealth
+Administrative,,Yes,YES,890 commonwealth
+Residential,Apartment Style,No,YES,90 . mary's
+Residential,Small Dormitory-Style,No,YES,90-92 bay state
+Commercial,,Yes,NO,900 commonwealth
+Residential,Apartment Style,No,YES,906 beacon
+Residential,Apartment Style,No,YES,908 beacon
+Residential,Large Dormitory-Style,Partial,YES,91 bay state
+Student Support,,Yes,YES,910 commonwealth
+Student Support,,Yes,YES,915 commonwealth
+Commercial,,Yes,NO,916-922 commonwealth
+Athletic,,Yes,YES,925 commonwealth
+Academic,,Yes,YES,928 commonwealth
+Commercial,,Yes,NO,930-940 commonwealth
+Residential,Apartment Style,No,YES,94 bay state
+Academic,,Yes,YES,949 commonwealth
+Residential,Apartment Style,No,YES,96 bay state
+Residential,Apartment Style,No,YES,96 mountfort
+Academic,,Yes,YES,96-100 cummington mall
+Administrative,,Yes,YES,975 commonwealth
+Residential,Apartment Style,No,YES,98 mountfort
+Administrative,,Yes,YES,985 commonwealth
